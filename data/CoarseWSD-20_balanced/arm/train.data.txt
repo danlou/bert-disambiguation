@@ -1,0 +1,224 @@
+57	given three machines a , b , and c , one uses machine a ( e.g. running windows xp on an ia-32 processor ) to build a cross compiler that runs on machine b ( e.g. running mac os x on an x86-64 processor ) to create executables for machine c ( e.g. running android on an arm processor ) .
+22	the zero flag is a single bit flag that is a central feature on most conventional cpu architectures ( including x86 , arm , pdp-11 , 68000 and numerous others ) .
+3	chessmachine , an arm - based dedicated computer , which could run two engines : '' the king '' , which later became the chessmaster engine , was also used in the tasc r30 dedicated computer .
+4	the hardware includes an arm - based qualcomm snapdragon processor and 1gb of ram .
+9	many of these home consumer devices are built around arm , powerpc or mips processors running an embedded linux operating system .
+6	in 1900 he lost his left arm when he fired a cannon .
+37	the original method used 11 body areas to assess hair growth , but was decreased to 9 body areas in the modified method : upper lip chin chest upper back lower back upper abdomen lower abdomen upper arm forearm ( deleted in the modified method ) thigh leg ( deleted in the modified method ) in the modified method , hair growth is rated from 0 ( no growth of terminal hair ) to 4 ( extensive hair growth ) in each of the nine locations .
+3	she has four arm and wing , and wears a black and purple bathing suit .
+8	internally , the device features a quad core arm cortex-a9 core processor and a quad core powervr sgx543mp4 + graphics processing unit as well as livearea as its main user interface , which succeeds the xrossmediabar for the playstation portable .
+20	windows ce 5.0 is billed as a low-cost , compact , fast-to-market , real-time operating system available for x86 , arm , mips , and superh microprocessor - based systems .
+12	the college crest consists of a shield on which is depicted an arm holding a cross , while underneath is the latin phrase '' in hoc signo vinces '' , which translates to '' in this sign you will conquer '' .
+25	the threat of post-pc devices have also affected the producers of the x86 processor typically used by pcs ; many smartphones and tablets utilize low-power arm processors manufactured by companies such as nvidia and qualcomm instead of the x86 processors sold by companies such as intel and amd .
+18	the reverse prayer position , a technique used in bdsm play , involves restraint of a person 's arm by binding them behind the person 's back , with the hands placed between the shoulders , with the fingers of both hands straight , extended , and the palms of the hands touching each other .
+12	when holding a typical mouse , ulna and radius bones on the arm are crossed .
+1	the arm , leg and torso are all represented by straight lines .
+31	he was a white man between thirty and sixty , standing at five feet nine inches to five feet eleven inches with a case of myositis ossificans on one of his arm .
+5	currently emulated processor architectures include arm , mips , m88k , powerpc , and superh .
+13	version 9 is the most recent version currently available for the linux / arm - based nokia 770 / n800 / n810 internet tablets running maemo os2008 , classic mac os and windows 95/nt .
+6	widely used eabis include powerpc , arm eabi2 and mips eabi .
+4	'' windmilling '' the arm or rotating the hand from the wrist are examples of circumductive movement .
+36	it is supported under a variety of real-time and near-real-time operating systems including embedded windows xp , linux , vxworks and threadx , and on a variety of hardware architectures , including intel , freescale and arm , with or without a system-on-a-chip ( soc ) around the cpu .
+30	) location finding by detection of cell towers and wi-fi networks and with internal gps antenna processor : qualcomm msm7201a ( gsm ) msm7501a ( cdma ) ( 528 mhz arm arm1136ej-s processor ) ram : 288 mb dram ( 192 mb for the verizon sku ) rom : 512 mb flash memory removable media : microsdhc , supports up to 32 gb .
+4	with the introduction of arm cortex-a9 multi-core soc , low-cost symmetric multiprocessing embedded systems began to flourish in the form of smartphone and tablet computer with a multi-core processor .
+10	a scooter is useful for persons without the stamina or arm / shoulder flexibility necessary to use a manual wheelchair .
+20	her & ste argue over the children and ste even shows part of his violent side as he grabs her arm .
+6	the pain may radiate into the arm and hand as well as the legs or feet , and may include symptoms other than pain .
+22	think comes along with kortex , a library of already existing system components , implementing various functions on various targets ( e.g. arm , powerpc , x86 , hitachi h8 , avr ) .
+7	ski jacket a ski jacket covers the arm and torso .
+25	cicadas are benign to humans under normal circumstances and do not bite or sting in a true sense , but may mistake a person 's arm or other part of their body for a tree or plant limb and attempt to feed .
+22	it is made by codegen , inc. it is written in ansi c and supports the x86 , powerpc , sparc , arm , mips architectures .
+7	it is the first version to support arm devices and replaced the kadak amx68000 kernel with the custom mck kernel , named for its developer , that was written in-house by palm .
+7	limbs some plethysmograph devices are attached to arm , leg or other extremities and used to determine circulatory capacity .
+6	its action is to draw the arm towards the chest .
+4	history name the acronym arm , first used in 1983 , originally stood for '' acorn risc machine '' , the processor from acorn computers , its first risc processor used in the original acorn archimedes and one of the first risc processors .
+85	despite the difficulty of doing so , numerous asynchronous cpus have been built , including : the ordvac and the ( identical ) illiac i ( 1951 ) the johnniac ( 1953 ) the weizac ( 1955 ) the illiac ii ( 1962 ) the victoria university of manchester built atlas the honeywell cpus 6180 ( 1972 ) and series 60 level 68 ( 1981 ) upon which multics ran asynchronously the caltech asynchronous microprocessor , the world-first asynchronous microprocessor ( 1988 ) ; the arm - implementing amulet ( 1993 and 2000 ) ; the asynchronous implementation of mips r3000 , dubbed ( 1998 ) ; several versions of the xap processor experimented with different asynchronous design styles : a bundled data xap , a 1-of-4 xap , and a 1-of-2 ( dual-rail ) xap ( 2003 ?
+13	the sidestroke allows the swimmer increased endurance because , instead of working both arm and legs simultaneously in the same way , the side stroke uses them simultaneously but differently .
+36	with the second brother down , selene turns her attention towards the third brother , who charges at her , but she response with the last weapon on her , a shuriken , severing his left arm clean off .
+22	implementations the following embedded hardware technologies can be used to support tee implementations : amd : platform security processor ( psp ) arm : trustzone intel x86-64 instruction set : sgx software guard extensions mips : virtualization several tee implementations are available from different tee providers : commercial implementations ( t-base , a commercial implementation from trustonic that has been qualified by globalplatform securitee , a commercial implementation from solacia that has been qualified by globalplatform open-source implementations op-tee , an open source implementation from stmicroelectronics under bsd license tlk , an open-source implementation from nvidia under bsd license t6 , and open-source implementation and research topic under gpl license open tee , an open source implementation and research project from the university of helsinki and sponsored by intel .
+16	systems running a microsoft operating system but using an intel microprocessor based on the itanium or arm architecture , however , are not considered to be wintel systems .
+3	eka2 runs on arm cpus and the '' wins '' emulator .
+11	ecos runs on a wide variety of hardware platforms , including arm , calmrisc , fr-v , hitachi h8 , ia-32 , motorola 68000 , matsushita am3x , mips , nec v8xx , nios ii , powerpc , sparc , and superh .
+40	the main differences are : real-time guarantees ( each api call is quick , but more importantly , time-bound ) multiple threads inside the kernel as well as outside pluggable memory models , allowing better support for later generations of arm instruction set .
+13	it is available for a number of computer architecture , including 68k , arm , avr32 , blackfin , microblaze , mips , nios , ppc and x86 .
+7	gsm - based blackberry handhelds incorporate an arm 7 , 9 or 11 processor .
+9	limb : limb infarction is an infarction of an arm or leg .
+25	os-9 went on to versions for the 68000 family of processors and , rewritten mostly in c , to the intel 80x86 , powerpc , arm , mips , and some of the hitachi superh ( sh ) series processors .
+10	for embedded systems , this is still a concern ; arm , mips and power architecture have all added 16-bit instructions to their architectures , which were originally 32-bit only .
+34	a hickey , kiss mark , love bite , or bug bite is a bruise or bruise like mark caused by the kissing or suckling of the skin , usually on the neck or arm .
+57	the source code has also been fork to provide compatibility on a number of non - x86 pc computer platforms , including the palm os , playstation portable , android , ios , symbian , maemo , blackberry playbook , wii , and the gp2x , on various computing architecture including powerpc , sparc , mips and arm .
+24	a gals screen is an examination used by doctors and other healthcare professionals to detect locomotor abnormalities and functional disability relating to gait , arm , legs and the spine .
+12	rockbox also provides support for multicore and asymmetric multiprocessor systems based on arm , coldfire , mips and sh .
+9	in 2010 , freescale also launched kinetis , an arm - based product line , leading some industry observers to speculate about the future of the coldfire range , given that freescale would have several competing cpu ranges .
+24	the axilla ( or armpit , underarm , or oxter ) is the area on the human body directly under the joint where the arm connects to the shoulder .
+15	the term diplegia can refer to any bodily area , such as the face , arm , or leg .
+12	the brachialis ( brachialis anticus ) is a muscle in the upper arm that flexes the elbow joint .
+13	the compiler can emit fast native code translations of javascript functions on the arm , x86 , and x86-64 platforms .
+19	some processor architectures , such as the motorola 68000 , motorola 6809 , wdc 65c816 , knuth's mmix , arm and x86-64 allow referencing data by offset from the program counter .
+19	the infant 's head size and spontaneous reflexes such as sucking , swallowing , crying , and moving the arm and leg may all seem normal , depending on the severity of the condition .
+4	he has hair and arm of gold .
+12	pigment is known to work on linux ( x86 , powerpc and arm ) , solaris ( x86 and sparc ) , os x , and microsoft windows .
+25	typical processors that dspnano runs on today include : microchip pic microcontroller ( 24 , 30 , 33 and 32 ) , renesas m16c , arm and more .
+14	holt -- oram syndrome is an autosomal dominant disorder that affects bones in the arm and hand ( the upper limbs ) and may also cause heart problems .
+3	amputation of the arm , leg , jaw , or half of the pelvis ( called a hemipelvectomy ) may be necessary in some cases .
+9	omap variants omap variants , these also have an arm processor in the same chip , see main article on texas instruments omap .
+11	xively partner network xively has partnered with chipset companies such as arm , atmel and ti as well as solution providers and iot industry alliances like oasis .
+77	specifications camera 3.2 mp ( up to 2048x1536 ) , with autofocus and qvga @ 15fps video recording networks gsm 900/1800/1900 + umts 2100 , gprs connectivity bluetooth 2.0 + edr a2dp supported usb 2.0 wi-fi 802.11 b ( 11 mbit/s ) storage 8 gb , no slot dimensions 109 x 55 x 16 mm operating system symbian 9.1 , uiq 3.0 display 2.6 inches qvga ( 240х320 pixel ) 262k colors touchscreen hardware philips nexperia pnx4008 arm 9 processor at 208 mhz 128 mb ram 256 mb rom gallery file : sony ericsson w960 in hand .
+11	linkstation linkstation hg the linkstation is a powerpc , mips or arm based network attached storage appliance sold in north america , europe and japan , that is significantly notable among the linux community both in japan and in the us/europe for being '' hackable '' into a generic linux appliance and made to do tasks other than the file storage task for which it was designed .
+8	yiddish ( ) der hekht means spear , arm .
+15	the vidc20 was a video display controller chip created as an accompanying chip to the arm cpu as used in riscpc computer systems .
+16	the limbs of the human body , can be divided into segments , such as the arm and the forearm of the upper limb , and the thigh and the leg of the lower limb .
+7	it works for intel , amd and arm processors .
+6	it began as a producer of arm computers and manufactured the acorn - branded range of desktop computers that run risc os .
+18	skeletal similarities include the neck , the pubis , the wrist ( semi-lunate carpal ) , the ' arm ' and pectoral girdle , the shoulder blade , the clavicle and the breast bone .
+7	most companies developing software with vrtx use arm , mips , powerpc or other risc microprocessor .
+15	in relation to the elbow , a concentric contraction of the biceps would cause the arm to bend at the elbow as the hand moved from the leg to the shoulder ( a biceps curl ) .
+12	the primary membranes attached to the extremely long fourth finger of each arm and extended along the sides of the body to the ankles .
+15	the hind legs are fused together to form a fluke , but the hands and arm are still human like , the only engineered sentient species with the exception of the vacuumorphs and the aquamorphs .
+16	in human anatomy , the brachial veins are venae comitantes of the brachial artery in the arm proper .
+6	manipulation generally includes first placing the arm under traction and unlocking the fragments .
+1	the arm processor would have allowed them to achieve longer battery life than many larger devices using x86 processors .
+31	he was , nevertheless , severely injured : according to 18th century genealogist felgueiras gayo , he returned covered in wounds , and contemporary authors record that he lost his right arm or hand in the battle .
+18	because pe is used on windows ce , it continues to support several variants of the mips , arm ( including thumb ) , and superh isas .
+17	a popular finishing trick for some routines is for the dog to jump into the trainer 's arm , or over his or her back .
+24	sccs usually occur on portions of the body commonly exposed to the sun ; the face , ears , neck , hand , or arm .
+2	the upper arm is divided into two compartments , an anterior and a posterior , by the lateral intermuscular septum and the medial intermuscular septum .
+25	joey comes out to his father , who gives him a black eye and , when joey attempts to steal his wallet , injures his arm .
+8	it supports a variety of architectures , including arm , mips , powerpc , ia32 and sparc .
+16	rtai supports several architectures : x86 ( with and without fpu and tsc ) x86-64 powerpc arm ( strongarm ; arm7 : clps711x-family , cirrus logic ep7xxx , cs89712 , pxa25x ) mips rtai provides deterministic response to interrupts , posix compliant and native rtai real-time tasks .
+28	after world war ii , soviet armies were known as combined arms armies ( obshchevoyskovyye armiyi ) , sometimes translated during the early cold war as all - arm armies .
+6	non-x86 pc/104 cpu boards based on arm or powerpc are also commercially available .
+44	utility sleep studies can help diagnose or rule out : sleep-related breathing disorders , such as sleep apnea sleep-related seizure disorders sleep-related movement disorders , such as periodic limb movement disorder , which is repeated muscle twitching of the feet , legs , or arm during sleep .
+23	his wombat project followed the approach taken with the project at dresden , but was a multi-architecture paravirtualized linux running on x86 , arm and mips hardware .
+10	this includes kinetis , coldfire , powerpc , arc , arm , strongarm , xscale cpus .
+8	approach him from behind , putting both your arm under his armpit .
+8	communications convergence processing ( ccp ) mindspeed 's arm - based processing solutions include low-power , multi-core digital signal processor system-on-chip ( soc ) solutions for residential and enterprise platforms ( the comcerto ® product line ) and carrier-grade voip systems .
+14	one swims mostly upon one side , making an overhand movement , lifting the arm alternately out of the water .
+4	central processing units ; arm armware ; mips spim : open virtual platforms ' ovpsim 500 mips mips32 , enables you to develop software on your pc using virtual platforms , emulators including mips processors running at up to 500 mips for mips32 processors running many oses including linux .
+7	a tight cord was wound around the arm of the condemned .
+14	a fly or flye is a strength training exercise in which the hand and arm move through an arc while the elbow is kept at a constant angle .
+22	the cemetery is also known for the common ivy , which grows on the tree and its stem are thick as an arm of an adult human .
+15	in 1992 , acorn once more won the queen 's award for technology for the arm .
+9	another example is used by the linux kernel on arm .
+11	xeroderma occurs most commonly on the scalp , lower legs , arm , hands , the knuckle , the sides of the abdomen , and thigh .
+15	in scouring wool clothing , blanket or coarse linen , when the strength of the arm and manual friction are found insufficient , highland women put them in a tub with a prop -- or quantity of water , then , with petticoat tucked up , they commence the operation of posting , which they continue until every part of the clothes receives an effectual cleansing .
+5	early minimo development centered around arm devices ( such as hewlett-packard 's ipaq ) with around 64 mb of ram , running familiar linux and the gpe palmtop environment ( where it is was the default browser ) .
+3	in computing in arm assembly language it is used to denote an immediate value .
+26	design and construction minifigures generally feature six parts ( widely referred to as tools in the toy industry ) : head , torso , hip , arm , hand , and leg ; these six parts allow seven points of articulation : swivel head , swivel arms , swivel wrists , and swivel legs .
+29	cross section of the thigh/upper leg showing the different fascia in different colors on the human body , the limb can be divided into segments , such as the arm and the forearm of the upper limb , and the thigh and the leg of the lower limb .
+21	2012 january 8 -- it is announced that the new generation of google tv devices will run on a variety of arm soc designs .
+30	replantation has been defined by the american society for surgery of the hand as '' the surgical reattachment of a body part , most commonly a finger , hand or arm , that has been completely cut from a person 's body '' .
+35	despite being initially written for a single computer architecture , open64 has proven that it can generate efficient code for cisc , risc , and vliw architectures , including mips , x86 , ia-64 , arm , and others .
+17	the flexing and stretching in bowling works tendon , joint , ligament , and muscle in the arm and promotes weight loss .
+40	however , the 6502 performed reasonably well compared to other contemporary processors such as the z80 , which used a much faster clock rate , and the 6502 has been credited as being inspirational to risc processors such as the arm .
+10	paddles are often used with pull buoy to build up arm strength .
+6	bi-endian hardware some architectures ( including arm versions 3 and above , powerpc , alpha , sparc v9 , mips , pa-risc , superh sh-4 and ia-64 ) feature a setting which allows for switchable endianness in data segments , code segments or both .
+11	the tube was also used during the initial development of the arm processor .
+23	; embedded systems in addition to widely used x86 and x86-64 platforms , freebsd supports a number of less-used hardware platforms such as arm , powerpc and mips .
+6	( current hp calculators use an arm processor to emulate a saturn processor .
+31	carlo calls righetto ( vittorio congia ) the paparazzi photographer who snapped the picture at the last second and he goes back to the original and sees a moving hand - arm in the far left of the frame .
+28	it is cross-platform and has been ported to various operating systems ( windows , linux , mac os x ) and hardware architectures ( x86 , x86-64 , arm , mips ) .
+26	xtratum is a bare-metal hypervisor specially designed for embedded real-time systems available for the instruction set x86 , leon2 and leon3 ( sparc v8 ) , arm cortex-r4f processors .
+15	) da variants da variants ( target '' digital audio '' ) da25x is an arm processor and a c55x core .
+14	leg restraints limb restraints are physical restraint that are applied to a person 's arm or leg .
+4	terminal hair growth on arm is a secondary sexual characteristic in boys and appears in the last stages of puberty .
+24	a rapid sequence of taps delivered first near the wrist and then near the elbow creates the sensation of sequential taps hopping up the arm from the wrist towards the elbow , although no physical stimulus was applied between the two actual stimulus locations .
+28	image of a wrist with peripheral veins visible the peripheral vascular system consists of the veins and arteries not in the chest or abdomen ( i.e. in the arm , hand , leg and feet ) .
+1	this arm powered calculator also has some limited scientific functions which is relatively rare in financial calculators .
+15	hardware the device has two usb 2.0 ports for connecting hard disks and uses an arm - compatible intel xscale ixp420 cpu .
+10	art is a cross-platform runtime which supports the x86 , arm , and mips architectures in both 32-bit and 64-bit environments .
+51	the words are as follows : the words circle and dot are accompanied by the corresponding shape meaning in the shape of two circles with dots in the middle being traced ( or , in some cases , drawn with a pen or marker ) on the recipient 's hand or arm .
+8	crawling is a mode of locomotion involving the arm and leg .
+19	the main torso is ganbaruger , though revolger adds onto it , and forms the head , and lower arm at least .
+5	based on their own 32-bit arm risc processor , the systems were shipped with a gui os called arthur .
+0	arm buds and a tail are visible .
+35	inside , she sees a large stone snake decorating the wall , and in the middle of the cave , she sees a man with long hair and beard chained ( by both of his arm and by his neck ) , on his knee , and apparently sleep ( his eye are closed and he is snoring ) .
+14	1987 : acorn archimedes ( europe ) , launched with an 8 mhz 32-bit arm 2 microprocessor , with between 512kb and 4mb of ram , and an optional 20 or 40mb hard drive .
+0	arm - based products have a particularly rich third party market , and a number of those vendors have expanded to non-arm platforms like mips and powerpc .
+8	the logo of this brand is a muscular arm holding a hammer .
+11	gafner focuses on her chest , shoulders , back , and arm in order to bring up her upper body to match her strong legs ( brainum , 224 ) .
+14	the digic ii and digic iii asic contain embedded 32-bit processors based on the arm instruction set .
+7	the project has been ported to the arm and amd64 processor architectures , and partially implements windows api functionality .
+18	the most popular current meaning refers to a closed-chain bodyweight movement where the body is suspended by the arm , gripping something , and pulls up .
+5	the chips are based on arm controllers integrated with low-noise radio receivers to decode gps signals at very low signal levels ( typically -160 dbm ) .
+11	its largest business is designing processors ( cpu ) bearing the arm name , although it also designs software development tools under the ds-5 , realview and keil brands , systems and platforms , system-on-a-chip ( soc ) infrastructure and software .
+11	they are modeled after a tyrannosaurus rex and have hydraulically activated arm , grasping claw , and jaw , as well as flame thrower set up in the head to give the effect of breathing fire from the mouth .
+7	capros currently runs on intel ia-32 and arm microprocessors .
+10	both versions have jit compilation support on 32-bit/64-bit x86 and arm processors .
+2	born without arm and legs due to a genetic disorder called tetra-amelia syndrome , ototake is most notable for his 1998 memoir ( isbn 4770027648 ) .
+15	the nickname of the architecture is '' bitsy , '' after the name of the arm - based chipsets used in many of the machines .
+0	arm defines its version of iommu as system memory management unit ( smmu ) to complement its virtualization architecture .
+13	these areas include the sides and back of the neck , the inner arm , the axilla ( armpits ) and sides of the thorax .
+16	on the human body , the limb can be divided into segments , such as the arm and the forearm of the upper limb , and the thigh and the leg of the lower limb .
+10	its functions are to move the scapulae and support the arm .
+4	some such as the arm with thumb-extension have mixed variable encoding , that is two fixed , usually 32-bit and 16-bit encodings , where instructions can not be mixed freely but must be switched between on a branch ( or exception boundary in armv8 ) .
+16	however , they have come under competitive pressure from via on the x86 side , and arm and xscale taking much of the low-end business .
+30	oberon-07 compilers have been developed for use with 32-bit windows ( ) , ( compiles code for both windows and linux ) , ( produces javascript code ) , 32-bit arm , cortex-m3 and cortex-m4 microcontrollers , and a wirth-designed risc processor implemented using a xilinx fpga spartan-3 board .
+26	the procedure consists in the removal of the breast , the lining over the chest muscles and a part of the lymph nodes from under the arm .
+26	technique although the name implies that the paint is applied with the fingers , expert use of this medium makes use of the hand and lower arm too .
+23	the upper limb or upper extremity is the region in an animal extending from the deltoid region to the hand , including the arm , axilla and shoulder .
+17	the server base system architecture ( sbsa ) is a standardized platform for server based on 64-bit arm processors .
+35	after a chapter on evolution , the following 22 chapters are dedicated respectively to : hair , brow , ear , eye , nose , cheek , lip , mouth , neck , shoulder , arm , hand , breast , waist , hip , belly , back , pubic hair , genital , buttock , legs , and feet .
+4	products celestial semiconductor 's arm - based chipsets are used on two out of the three different set-top boxes used in the deployment of digital terrestrial television ( dtt ) in argentina , using the isdb-tb standard .
+21	in a few cases , dcis may cause : a lump or thickening in or near the breast or under the arm a change in the size or shape of the breast nipple discharge or nipple tenderness ; the nipple may also be inverted , or pulled back into the breast ridges or pitting of the breast ; the skin may look like the skin of an orange a change in the way the skin of the breast , areola , or nipple looks or feels such as warmth , swelling , redness or scaliness .
+111	x freebsd 's opencrypto api ( aesni ( 4 ) driver ) hytrust openssl 1.0.1 and above oracle database 11g release 2 patchset 1 ( 11.2.0.2 ) transparent data encryption pgp whole disk encryption : 10.1.0 + on windows , 10.2.0 + on mac os x safeguard enterprise 6.0 by sophos ( utimaco ) secretagent 6.1.1 and above from information security corp. securedoc 5.2 by winmagic truecrypt 7.0 and above vormetric encryption 5 and above winrar 5.10 and above hardware acceleration in other architectures aes support with unprivileged processor instructions is also available in the latest sparc processors ( t4 , t5 , m5 , and forward ) and in latest arm processors .
+10	windows runs on ia-32 , x86-64 , and on 32-bit arm ( armv7 ) processors .
+3	it has two arm and its flat , circular base has a diameter of 45 cm .
+20	in progressive cases , the brachial plexus is also affected , causing pain and weakness in the muscles of the arm and hand ( thoracic outlet syndrome ) .
+15	pc-on-a-stick is a term describing a pc in a usb stick format , generally using arm system on a chip .
+7	any accessible vein can be used although arm and hand veins are used most commonly , with leg and foot veins used to a much lesser extent .
+5	the compiler supports powerpc , arm , mips , sh , coldfire , tricore , intel , and more architectures .
+29	the irish mythology includes the fomorians , who are almost without exception described as being deformed , possessing only one of what most have two of ( eye , arm , leg , etc. ) or having larger than normal limbs .
+13	body armour - is designed to protect the wearer 's upper body , arm , shoulders and back from impact during falls .
+29	they do n't lift off or push the rib cage into the mat , paying particular attention to the placement of the rib cage when inhaling or while performing arm movements overhead .
+24	project scope the yocto project has the aim and objective of attempting to improve the lives of developers of customised linux systems supporting the arm , mips , powerpc and x86 / x86 64 architectures .
+107	continuing the above example , jumping to the second byte of the '' mov '' instruction results in an '' inc '' instruction : 1 : 44 inc % esp inc esp 2 : 33 22 xor ( % edx ) , % esp xor esp , dword ptr ( edx ) 4 : 11 35 11 22 33 44 adc % esi ,0 x44332211 adc dword ptr ds : 0x44332211 , esi a : 35 11 22 33 44 xor $ 0x44332211 , % eax xor eax ,0 x44332211 computer hardware that allows jumping into the middle of an instruction includes x86 , x86-64 , and arm .
+14	the humerus ( , plural : humeri ) is a long bone in the arm or forelimb that runs from the shoulder to the elbow .
+20	it has suffered persistent and expensive vandalism - a hand with a pointing finger has been lopped off the right arm , and a gavel prized away from the left .
+5	thus , its wing and arm bones were probably reduced , a process known to have taken as little as 10,000 years in some island rail .
+12	there are/were native versions for the ceres , intel ia-32 , and arm platforms .
+33	inclusion body myositis ( ibm ) is an inflammatory muscle disease , characterized by slowly progressive weakness and wasting of both distal and proximal muscles , most apparent in the muscles of the arm and legs .
+4	a pillow between the arm and torso may provide support and increase comfort .
+10	ports have been made to embedded architectures , such as arm and superh ; these tasks were easily achieved with bootstrap , a tool developed especially to automate making ports .
+21	since the release of specification 1.20 ( september 10th , 2010 ) qseven modules can be indifferently based on x86 or arm architectures .
+24	brachial plexus block s are regional anesthesia techniques that are sometimes employed as an alternative to general anesthesia for surgery of the shoulder , arm , forearm , wrist and hand .
+10	heat cramps are associated with cramping in the abdomen , arm and calves .
+15	instructions are given conditional execution flag in similar to some risc processors ( notably the arm ) , thus providing a constant runtime .
+20	the anterior humeral circumflex artery ( anterior circumflex artery , anterior circumflex humeral artery ) is an artery in the arm .
+25	it is measured by keeping a measuring tape horizontal and wrapping it around the body so that it goes over the nipple and under the arm .
+15	each of the following cpus served as the basis for a family of processors : arm dec pdp-6 , which led to the ka10 family ( used in pdp-10 , decsystem-20 ) dec pdp-11 ( influenced vax and m68000 ) intel 8008 , 8080 and 8085 zilog z80 x86-16 instruction set first used in the intel 8086 intel 8088 ( variant used in the first and early ibm pc ) intel 80186 intel 80286 ( the first x86 processor with protected mode , used in the ibm at ) x86-32 intel 80386 intel 80486 intel pentium and xeon cpus x86-64 the original specification was created by amd .
+68	( os from microware for intel x86 based microcomputers ; based on os-9 , written in c ) osf/1 ( developed into a commercial offering by digital equipment corporation ) openstep qnx ( posix , microkernel os ; usually a real time embedded os ) rhapsody ( an early form of os x ) risc ix - derived from bsd 4.3 , by acorn computers , for their arm family of machines .
+3	it forms the arm , wings and chest of ganbaruger .
+9	it has many features similar to those of the arm cortex-a8 core and it is based on the armv7 instruction set , but theoretically has much higher performance for multimedia-related simd operations .
+14	media processors the zms processors are based on a low-power multicore architecture including dual arm cores for handling traditional cpu tasks plus a closely coupled , fully programmable simd array processor to do the heavy lifting for intensive media processing tasks such as ; 2d graphics , 3d graphics , video decode/encode , image processing and floating point ( 32-bit ieee ) .
+9	although master shake does not have a nose , arm or any reproductive organ , he does have two yellow hands with only four finger connected to each side of him .
+6	jtag / swd debug probe for arm microcontrollers with usb and ethernet interfaces to host jtag and/or swd debug interface host adapters ( in alphabetical order ) : colinkex by coocox i-jet by iar j-link by segger supports jtag and swd .
+44	technique description when a practitioner is in north-south position , ( with opponent lying supine , practitioner is prone , positioned 180 degrees their opposite , contacting the opponent chest - to-chest ) , the practitioner will encircle the opponent 's neck with either arm .
+8	native ports include : x86 , mips , arm , powerpc , sparc .
+10	dr. nicolaes tulp is pictured explaining the musculature of the arm to medical professionals .
+16	sweating is an essential function that helps the body stay cool and commonly occurs under the arm , on the feet , and on the palms of the hands .
+13	risc os , the computer operating system developed by acorn computers for their arm - based acorn archimedes range , was originally released in 1987 as , soon followed by , and .
+34	event on may 29 , 2012 , when wu was driving a bus from wuxi to hangzhou on an expressway , a piece of iron broke through the glass and hit his abdomen and arm .
+44	elisabeth louise vigée-lebrun , madame vigée-lebrun et sa fille , by louise élisabeth vigée le brun , 1789 a group hug among young men show their close friendship a hug is a near universal form of physical intimacy in which two people put their arm around the neck , back , or waist of one another and hold each other closely .
+25	the c6 nerve root shares a common branch from c5 , and has a role in innervating many muscles of the rotator cuff and distal arm , including : subclavius supraspinatus infraspinatus biceps brachii brachialis deltoid teres minor brachioradialis serratus anterior subscapularis pectoralis major coracobrachialis teres major supinator extensor carpi radialis brevis extensor carpi radialis longus latissimus dorsi damage to the c6 motor neuron , by way of impingement , ischemia , trauma , or degeneration of nerve tissue , can cause denervation of one or more of the associated muscles .
+18	kryoflux consists of a small hardware device , which is a software-programmable fdc system that runs on small arm - based devices that connects to a floppy disk drive and a host pc over usb , and software for accessing the device .
+16	supported hardware mer can be compiled for a number of instruction set such as x86 , arm or mips .
+9	samsung electronics announced support of usb 3.0 with its arm - based exynos 5 dual platform intended for handheld devices .
+31	in 1966 , hiroshi yamauchi , president of nintendo at the time , came to a hanafuda factory yokoi was working at and took notice of a toy , an extending arm , that yokoi made for his own amusement during spare time as the company 's machine maintenance man .
+7	it supports the x86 , powerpc , arm architectures , and is released under the terms of a bsd style license .
+8	the main cpu in this smartphone is an arm compatible chip ( omap 1710 ( armv5 architecture , arm9 core ) ) running at 220 mhz , an unprecedented speed for a smartphone at its release .
+10	the lump continues to grow , eventually becoming a full-sized arm .
+11	conditional execution some computer architectures have conditional instructions ( such as arm , but no longer for all instructions in 64-bit mode ) or conditional load instructions ( such as x86 ) which can in some cases obviate the need for conditional branches and avoid flushing the instruction pipeline .
+17	this ranges from arteries serving the brain to those bringing blood to the lung , kidney , arm and leg .
+32	the opening poem of double persephone , '' formal garden , '' a '' girl with the gorgon touch '' walks through the title location searching for '' a living wrist and arm '' , but all she finds is a '' a line of statue '' with '' marble flesh .
+11	a limb infarction is an area of tissue death of an arm or leg .
+14	meatwad does not have a nose or ears , but he does have retractable arm that only appear when needed .
+16	most common places are the abdomen ( especially near the navel ) , breast , upper arm , underarms , back , thigh ( both inner and outer ) , hips , and buttocks .
+7	cpu : 400 mhz to 1000 mhz arm marvell armada 610 at 0.8 watt , with integrated graphics controller 1024 to 2048 mb of ddr3 ( ) 1024 kb ( 1 mb ) flash rom with open-source open firmware 4-8 gb of slc nand flash memory ( upgradable , microsd ) accelerometer average battery life 5-10 hrs screen 1200 × 900 7.5 inch ( 19 cm ) diagonal lcd ( 200 dpi ) that uses 0.1 to 1.0 w depending on mode .
+21	using the ios sdk , xcode can also be used to compile and debug applications for ios that run on the arm processor .
+11	the international ` gt-i9000 ' reference version features a 1 ghz arm '' hummingbird '' processor , a powervr graphics processor , 8 or 16 gb of internal flash memory , a 480 × 800 pixel super amoled capacitive touchscreen display , wi-fi connectivity , a 5 - megapixel primary camera and a 0.3-megapixel secondary front-facing camera .
+7	one contends that he had the longest arm in boxing history , with the ability to touch his knee without bending down .
+21	she challenged the finger - centric approach of much classical piano teaching and instead advocated a holistic attitude in which the arm and torso are the conductors of a musical image conceived first in the mind .
+10	however , mazinger will be unable to punch until its arm return .
+5	it sometimes occurs in the arm or penis .
+6	wilson giving a public presentation on arm development in 2009 since the demise of acorn computers , wilson has made a small number of public appearances to talk about her time there .

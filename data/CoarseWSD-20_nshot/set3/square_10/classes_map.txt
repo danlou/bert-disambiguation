@@ -1,0 +1,1 @@
+{"0": "square_square", "1": "square_square_(company)", "2": "square_town_square", "3": "square_square_number"}

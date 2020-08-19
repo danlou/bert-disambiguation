@@ -1,0 +1,10 @@
+sent: gymnast , baseball pitcher and ten pin bowler use rosin to improve grip .
+gold class: pitcher_pitcher
+pred class: pitcher_pitcher_(container)
+sim_diff: 0.001932
+========
+sent: but they 're missing one element , like the pitcher or something .
+gold class: pitcher_pitcher
+pred class: pitcher_pitcher_(container)
+sim_diff: 0.051239
+========

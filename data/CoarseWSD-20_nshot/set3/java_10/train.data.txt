@@ -1,0 +1,20 @@
+11	kampong makassar was one several internment camps in the island of java near batavia ( present-day jakarta ) in which the japanese interned enemy civilians , mostly dutch , after the dutch east indies fell to japanese forces in 1942 .
+2	much of java became a dutch plantation , making it a profitable , self-sufficient colony and saving the netherlands from bankruptcy and helping it become a thriving and modernized bourgeois society .
+61	burmese pythons are found throughout southern - and southeast asia , including eastern india , nepal , western bhutan , southeastern bangladesh , myanmar , thailand , laos , cambodia , vietnam , northern continental malaysia , far southern china ( fujian , jiangxi , guangdong , hainan , guangxi and yunnan ) , hong kong , and in indonesia on java , southern sulawesi , bali and sumbawa .
+17	the tiered roof shows many similarities with wooden religious structures from the hindu - buddhist civilizations of java and bali .
+20	at the end of the burma campaign , the british empire had ordered 92,000 troops to the indonesian island of java , with a deadly assault on september 15 , 1945 .
+16	in the indonesia archipelago , t. helena is found in sumatra , nias , enggano , java , bawean , kangean islands , bali , lombok , sumbawa , great natuna ( bunguran ) , sulawesi , butung , tukangbesi , kalimantan and brunei .
+27	afterwards he returned to breslau as an assistant to dermatologist albert neisser ( 1855-1916 ) , under whose direction he participated on a medical research mission to java ( 1907 ) .
+25	10 -- 15th century many chinese merchants chose to settle down in the southeast asian ports such as champa , cambodia , sumatra , and java , and married the native women .
+7	it is native to the island of java in indonesia , southeastern asia .
+7	it was named after the island of java .
+6	j# : a cli-compliant implementation of java .
+13	netbeans is an integrated development environment ( ide ) for developing primarily with java , but also with other languages , in particular php , c / c++ , and html5 .
+12	the school has some online classes , such as introductory c++ , java , and ap computer science .
+0	java 's library contains a class , which implements a min-priority-queue .
+9	plotting extensions for the languages perl , python and java are also supported for most operating systems .
+5	architecture idempiere consists of a java server ( based on an apache tomcat container ) with a zk web gui .
+45	morfik technology pty ltd. , an australia company , is the developer of morfik , a set of visual designers , compilers and a framework combined in an integrated development environment ( ide ) aimed at developing ajax applications in a high-level language such as java , c# , basic or object pascal .
+17	first , the languages that do not support anonymous functions c , pascal , object pascal , java are all conventional statically typed languages .
+16	nutch is an effort to build an open source web search engine based on lucene and java for the search and index component .
+16	the influence of simula is often understated , and simula-type objects are reimplemented in c++ , java and c# .

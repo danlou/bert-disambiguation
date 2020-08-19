@@ -1,0 +1,5 @@
+sent: the arm first appeared in 1985 .
+gold class: arm_arm_architecture
+pred class: arm_arm
+sim_diff: 0.112352
+========

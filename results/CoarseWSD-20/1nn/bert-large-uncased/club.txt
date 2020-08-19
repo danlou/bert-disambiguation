@@ -1,0 +1,150 @@
+sent: the text gives a list of benaiah 's '' great exploits '' , suggesting that these are what brought him fame and honor ; compared with the feats ascribed by the text to abishai , and to the members of the three , benaiah 's feats are somewhat minor ( though regarded by scholars as more realistic ) : killing two of moab 's best warriors killing a lion in a pit on a snow day attacking a 7 1/2 foot tall egypt with a club , stealing the spear that the egyptian was using , and killing the egyptian with it .
+gold class: club_club
+pred class: club_club_(weapon)
+sim_diff: 0.209363
+========
+sent: mighty minotaur ( voiced by tom wyner ) - a minotaur monster created by finster that wielded a spiked club and a shield .
+gold class: club_club
+pred class: club_club_(weapon)
+sim_diff: 0.218961
+========
+sent: after the battle of manzikert these incursions intensified , and the region 's people would see the ghāzī corporations coalesce into semi - chivalric fraternities , with the white cap and the club as their emblems .
+gold class: club_club_(weapon)
+pred class: club_club
+sim_diff: 0.017236
+========
+sent: he is like a war club , or a sword , or a sharp arrow .
+gold class: club_club
+pred class: club_club_(weapon)
+sim_diff: 0.162051
+========
+sent: it became a major club and dance radio hit in america , and even managed to peak at # 97 on the billboard hot 100 chart .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.169058
+========
+sent: other dances included the women 's dele , which humiliated enemy prisoners sex , and the men 's cibi , which uses spear and club .
+gold class: club_club
+pred class: club_club_(weapon)
+sim_diff: 0.173373
+========
+sent: it quickly became a worldwide smash hit , crossing over from the rhythmic and club charts to the us hot 100 , peaking at # 24 on the chart , and receiving a gold certification from the riaa .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.143917
+========
+sent: 3 ) hot spot ( 8/17/1999 ) - a trendy new club called '' flame '' replaces a dive bar on the ground floor of alex 's building .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.056394
+========
+sent: coragus attended the duel in full body armor and weaponry , including javelin , a spear , and a sword , while dioxippus appeared with a simple club .
+gold class: club_club
+pred class: club_club_(weapon)
+sim_diff: 0.215238
+========
+sent: the underground is a club / music venue in hanley , stoke-on-trent .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.074347
+========
+sent: promotional 12 '' single label '' it 's a disco night ( rock do n't stop ) '' is a 1979 club hit for the isley brothers , released on their t-neck label as the second single from their gold - certified album , winner takes all .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.174859
+========
+sent: as of 2011 , the paramount is in the midst of a $ 1.725 million renovation to once again become a theater after decade as a disco and concert hall , ( the hippodrome , ) when it was the center of springfield 's club scene .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.061714
+========
+sent: during the 60 's and with improved technology its focus has moved onto criminal activity , including drugs , criminal control of club and brothel and the obscene publications industry .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.050321
+========
+sent: it is the club district in downtown fort lauderdale , florida .
+gold class: club_nightclub
+pred class: club_club
+sim_diff: 0.040574
+========
+sent: the scene then shifts into club with the black-and-white checkered tile flooring , where she is seen performing to the song with back-up dancers behind her .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.058270
+========
+sent: to execute , one brings their palms together ( slightly off-centre ) , locks the fingers downward , then swings at an opponent as if they were holding a club - weapon ( like a bat ) .
+gold class: club_club
+pred class: club_club_(weapon)
+sim_diff: 0.136217
+========
+sent: dates included concerts at music festivals , universities , colleges and club venues around the world .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.061337
+========
+sent: a continuation of the kala tour , dates included concerts at music festival , universities and club venues .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.049714
+========
+sent: then they decided to go for another song , which was to be picturized in a club setting .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.106840
+========
+sent: her musical style can be described as dance music , with pop , club and latin elements .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.108040
+========
+sent: after the gate of minas tirith is broken , battle trolls enter the city as shock troops , sporting armor and spiked club alluded to in the appendices .
+gold class: club_club
+pred class: club_club_(weapon)
+sim_diff: 0.174908
+========
+sent: the music video starts off with brown driving into a club ( where he chews a fresh stick of doublemint gum ) , and people are seen dancing while brown starts to sing the first verse .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.073397
+========
+sent: she also performed the song at club in brisbane and sydney , and also toured shopping malls in melbourne and gold coast .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.031380
+========
+sent: she , who one day can be ready to leave ratty after winning a trip , and the next day can ride with the leader of the motorcycle gang to the rat club '' ratz .
+gold class: club_nightclub
+pred class: club_club
+sim_diff: 0.075104
+========
+sent: the magazine featured photography , music , cd reviews , dance and club listings .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.102667
+========
+sent: scott stamper , ( march 10 , 1962 ) is an american club owner , booking agent , and talent scout .
+gold class: club_nightclub
+pred class: club_club
+sim_diff: 0.041380
+========
+sent: gary d also gained maas a residency at hamburg 's famous club , the tunnel , between 1994 and 1996 .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.091046
+========
+sent: ' the zodiac ' was a club on the cowley road in southeast oxford .
+gold class: club_nightclub
+pred class: club_club
+sim_diff: 0.040234
+========
+sent: adjacent to mannheim 's main campus is mannheim downtown that represents the major night life district , where numerous bar and club are located close to each other .
+gold class: club_club
+pred class: club_nightclub
+sim_diff: 0.000335
+========
+sent: in 1995 harman recorded a song named for the zoo bar club in lincoln , nebraska .
+gold class: club_nightclub
+pred class: club_club
+sim_diff: 0.014663
+========

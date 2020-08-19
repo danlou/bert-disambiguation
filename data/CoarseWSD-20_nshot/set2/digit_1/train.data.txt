@@ -1,0 +1,2 @@
+17	a serial computer is typified by bit-serial architecture -- i.e. , internally operating on one bit or digit for each clock cycle .
+22	some other genera , such as neoseps , have reduced limbs , lacking forelegs , and with fewer than five toe ( digit ) on each foot .

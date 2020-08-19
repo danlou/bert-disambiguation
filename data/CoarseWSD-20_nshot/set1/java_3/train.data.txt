@@ -1,0 +1,6 @@
+22	variants an h6k2-l navy transport flying boat type 97 ; h6k1 operators royal air force mechanics inspecting an h6k at soerabaja , java , prior to a test flight in january 1946 .
+14	it is found in the southern pacific , including hawaii and french polynesia , java , sulawesi , the new hebrides , samoa , the austral islands and the marquesas .
+20	at the end of the burma campaign , the british empire had ordered 92,000 troops to the indonesian island of java , with a deadly assault on september 15 , 1945 .
+1	using java or similar technology , graphical versions of boards and counters can be manipulated in cyberspace as if a manual version of the game was being played .
+4	examples are r , java , and python , each of which can be classified as free and open source software .
+74	features some of rtext 's features include : syntax highlighting for over 20 languages regular expression search and replace find in files and replace in files supports all character encodings supported by the jvm configurable document interface ( tabbed , mdi or list view ) editor supports multiple fonts simultaneously bracket matching current line highlighting customizable interface ( icons , look and feel , color scheme , etc. ) compatibility rtext is written in java and runs on linux , mac os x , os/2 , unix , openvms , and windows .

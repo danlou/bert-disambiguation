@@ -1,0 +1,6 @@
+15	instructions are given conditional execution flag in similar to some risc processors ( notably the arm ) , thus providing a constant runtime .
+6	it began as a producer of arm computers and manufactured the acorn - branded range of desktop computers that run risc os .
+24	sccs usually occur on portions of the body commonly exposed to the sun ; the face , ears , neck , hand , or arm .
+13	risc os , the computer operating system developed by acorn computers for their arm - based acorn archimedes range , was originally released in 1987 as , soon followed by , and .
+5	thus , its wing and arm bones were probably reduced , a process known to have taken as little as 10,000 years in some island rail .
+11	the tube was also used during the initial development of the arm processor .

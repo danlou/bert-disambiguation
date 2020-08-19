@@ -1,0 +1,128 @@
+6	there are one triangle , two square , and one hexagon on each vertex .
+8	in general , these designs begin with a square sheet of paper whose sides may be different colors or prints .
+23	dice had been interested in english translations of japanese games and following in the footsteps of ted woolsey in the translation of several square japanese titles .
+20	if there are twelve rods arranged in a circle , they symbolize the celestial world , four rods forming a square symbolizes the earthly world .
+22	soundtrack development hiroki kikuta , best known for composing the music to seiken densetsu 2 and seiken densetsu 3 while working at square , established sacnoth in 1997 with funding from snk .
+9	at the center of the village is a large square known as the ` borough ' around which are grouped picturesque cottage and a public house , the phelips arms ; there is a second public house and hotel situated in the village , called the king 's arms .
+7	it was published by ntt publishing / square on july 15 , 1991 with the catalog number n23d-003 .
+26	the name of the squaring function shows its importance in the definition of the area : it comes from the fact that the area of a square with sides of length is equal to .
+16	a part of that definition may be singled out ( using parentheses here ) : a square : ( a quadrilateral that has interior angles which are all right angles ) , and that has bounding sides which all have the same length .
+10	in the special case , where the trapezoid faces are square or rectangle , the pairs of triangles becoming coplanar and the polyhedron 's geometry is more specifically a right rhombic prism .
+8	in 1998 , bushido blade , published by square , introduced a realistic fighting engine that featured three-dimensional environments while abandoning time limits and health bars in favor of an innovative body damage system , where a sword strike to a certain body part can amputate a limb or decapitate the head .
+25	this graphical method is not only suited to racing games ; it is also used extensively for the overworld sections of role-playing games such as square 's popular 1994 game final fantasy vi .
+7	final fantasy chronicles is a compilation of square 's role-playing video game final fantasy iv and chrono trigger , released for the north american sony playstation on june 29 , 2001 .
+30	in the desarguesian projective plane of order q , pg ( 2 , q ) , the size of a blocking set b is bounded : when q is a square the lower bound is achieved by any baer subplane and the upper bound comes from the complement of a baer subplane .
+25	development moon : remix rpg adventure is the first of three games developed by love-de-lic , a game developer made up of former members of square .
+12	after several years of private composition studies he became an employee of square in 1994 .
+25	a decomino , or 10-omino , is a polyomino of order 10 , that is , a polygon in the plane made of 10 equal-sized square connected edge-to-edge .
+1	a square has even multiplicity for all prime factors ( it is of the form a 2 for some a ) .
+25	on the bottom part of the screen is a small keyboard , on which there are some shapes ( triangle , circle , diamond , square , etc. ) .
+10	when unspecified , the base is usually assumed to be square .
+3	consider the largest square that can be placed in an arbitrary triangle .
+5	it looks like a rounded square with '' sides '' of length and centered on the origin .
+18	an american-style crossword grid layout a crossword is a word puzzle that normally takes the form of a square or a rectangular grid of white and black shaded squares .
+3	in 1986 , square released the science fiction adventure game suishō no dragon for the nes console .
+36	final fantasy vii ( ) , also called core crisis ( ) , is a chinese unofficial , unlicensed '' shanzhai '' demake of the 1997 role-playing video game final fantasy vii , originally developed by square for the playstation .
+19	in geometry , the rhombicuboctahedron , or small rhombicuboctahedron , is an archimedean solid with eight triangular and eighteen square faces .
+23	monument dedicated to the heroes of the battles of independence of bahia from portugal ( july 2 , 1823 ) , campo grande square .
+43	he also provided the voice of jack skellington , the main character in tim burton 's animated disney film the nightmare before christmas ( 1993 ) , and has since reprised the role in many other subsequent productions , including the disney / square video games kingdom hearts and kingdom hearts ii and the capcom sequel to the original film , .
+10	next the outlaw places his red peg on the small square on the opposite end of the board .
+12	gems normal gems come in seven different colors and shapes such as square - shaped rubies , rhombus - shaped topaz , sphere - shaped diamond , decagonal emerald , crystal-shaped sapphire , triangle - shaped amethyst , and hexagonal garnets .
+6	the principality of chach had a square citadel built here around the 5th to 3rd centuries bc , some south of the syr darya river .
+5	the symmetry group of a square belongs to the family of dihedral group , d n ( abstract group type dih n ) , including as many reflections as rotations .
+24	however , he was not originally slated to be the protagonist as disney wanted donald duck to be the protagonist of the game while square wanted to have mickey mouse as the protagonist .
+24	he spent the next few years working first as a manga illustrator then as a composer for anime series before coming to work for square .
+8	they have 2 n triangle , 4 n square , and 2 n - gon .
+3	december 18 , square 's hironobu sakaguchi releases final fantasy for the famicom in japan .
+38	a nonomino or jigsaw sudoku puzzle , as seen in the sunday telegraph a nonomino ( or 9-omino ) is a polyomino of order 9 , that is , a polygon in the plane made of 9 equal-sized square connected edge-to-edge .
+11	concrete wading pools come in many shapes , traditionally rectangle , square or circle .
+19	( see centimetre ) 1 cm -- 10 millimeters 1 cm -- 0.39 inch 1 cm -- edge of square of area 2 1 cm -- edge of cube of volume 1 ml 1 cm -- approximate width of average fingernail 1.5 cm -- length of a very large mosquito 2 cm -- approximate width of an adult human finger 2.54 cm -- 1 inch 3.1 cm -- 1 attoparsec ( 10 − 18 parsec ) 3.5 cm -- width of film commonly used in motion pictures and still photography 4.3 cm -- minimum diameter of a golf ball 7.3-7 .5 cm -- diameter of a baseball 8.6 cm × 5.4 cm -- dimensions of a typical credit card 1 decimetre lengths between 10 centimetre and 100 centimetres ( 10 − 1 metre and 1 metre ) .
+17	p4 ( 442 ) : 2 × 4-fold , 2 × 2-fold ; rotation group of a square lattice .
+5	tajiri was also influenced by square 's game boy game the final fantasy legend , noting in an interview that the game gave him the idea that more than just action games could be developed for the handheld .
+21	video the video features d mob and singing in front of people with yellow mask in the shapes of triangle , square and circle , with the occasional mask of an eye .
+32	inequalities if r and r are the inradius and the circumradius respectively , then the area k satisfies the inequalities there is equality on either side only if the quadrilateral is a square .
+54	the n - dimensional cross-polytope can also be defined as the closed unit ball ( or , according to some authors , its boundary ) in the -norm on r n : in 1 dimension the cross-polytope is simply the line segment ( 1 , +1 ) , in 2 dimensions it is a square ( or diamond ) with vertices -lcb- ( ± 1 , 0 ) , ( 0 , ± 1 ) -rcb- .
+18	the study of equidissections began in the late 1960s with monsky 's theorem , which states that a square can not be equidissected into an odd number of triangles .
+34	the wonderswan is playable both vertically and horizontally , and features a unique library of games , including numerous first-party titles based on licensed anime properties , as well as significant third-party support from square , namco , and taito .
+4	a trigonal trapezohedron with square faces is a cube .
+18	committed from the start to make a franchise to rival series such as enix 's dragon quest and square 's final fantasy , murayama wrote a chronological prequel for his story and used that instead in order not to waste the suikoden ii script due to his lack of experience .
+10	the brunswick parks and recreation department operates city park and square .
+18	so : fifth powers are also formed by multiplying a number by its fourth power , or the square of a number by its cube .
+15	starting with a given quadrilateral ( a polygon having four sides ) , construct a square on each side .
+7	is a role-playing video game developed by square for the playstation .
+13	, or ( 5 squared ) , can be shown graphically using a square .
+16	he also proved that the area of a circle was equal to π multiplied by the square of the radius of the circle ( πr 2 ) .
+32	the name was jaguar 's idea , inspired in the italian folk-tale character pasquino , who , according to the legend , used to write and tell stories in a major public square .
+13	undecorated bottles used as containers for a variety of liquids were blown into square molds to give them corners so they could be packed into compartments of wooden cases .
+40	the visitors can observe pieces of art , depictions of the mining process , geology displays , educational exhibitions about environmental friendly mining and sustainable development the main places at the park are : '' the sacred axis '' a square with an halite hand carved cross ( 4.20 meters height ) the salt dome the mine the brine museum , where the visitor learns about how works the extraction process of salt from the halite .
+8	the 6-cube is prismatic ( product of a square and a cube ) , but is considered separately because it has symmetries other than those inherited from its factors .
+17	plato felt that the perfect proportion was the ratio of the side to the diagonal of a square .
+31	the game was directed by yasumi matsuno , and since the release of the title , he has chosen sakimoto as a regular for his development team at quest and later square .
+9	development einhänder was the first 3d shooter developed by square , a company otherwise mostly known for their role-playing video game .
+16	there are only three shapes that can form such regular tessellations : the equilateral triangle , square , and regular hexagon .
+5	for example , quasitruncating the square gives a regular octagram , and quasitruncating the cube gives the uniform stellated truncated hexahedron .
+0	square ( regular quadrilateral ) : all four sides are of equal length ( equilateral ) , and all four angles are right angles .
+7	soule sent the tape to lucasarts and square .
+16	for example , -lcb- 3 -rcb- is an equilateral triangle , -lcb- 4 -rcb- is a square and so on .
+12	the rectangular cuboid ( six rectangular faces ) , cube ( six square faces ) , and the rhombohedron ( six rhombus faces ) are all specific cases of parallelepiped .
+6	markt is the name of a square in rosmalen , north brabant , netherlands .
+4	the following year , square 's suishō no dragon on the nes took it a step further with its introduction of visual icons and animated scenes .
+1	ball square : a low rectangular parallelepiped shape .
+1	the square was created in 1785 .
+16	pintaderas were usually decorated with ornate geometric shapes , including zigzag , triangle , rectangle , square and circle .
+15	the novel was adapted into a film and a popular horror role-playing video game by square .
+7	the population density was 6.1 people per square mile ( 2.4 / km ² ) .
+21	a quadrilateral is affine-regular if and only if it is a parallelogram , which includes rectangle and rhombus as well as square .
+7	other now-famous companies such as enix , square and nihon falcom also produced similar eroge in the early 1980s before they became famous for their mainstream role-playing games .
+10	in computer and video games in several games produced by square , including chrono trigger , final fantasy v , final fantasy vii , final fantasy viii , final fantasy ix , and final fantasy x , dark matter exists as a powerful magical element , enabling certain kinds of major attacks .
+17	pythagorean theorem the pythagorean theorem states that : in any right triangle , the area of the square whose side is the hypotenuse ( the side opposite the right angle ) is equal to the sum of the areas of the squares whose sides are the two legs ( the two sides that meet at a right angle ) .
+37	the 3-d battles of worldrunner ( shortened to 3-d worldrunner on the north american box art ) , originally released in japan as , is a 1987 third-person rail shooter platform video game developed and published by square for the family computer disk system and published by acclaim for the nintendo entertainment system itself .
+9	is a 1999 video game developed and published by square .
+21	it is one of the most important intersections in mingora , and there are numerous shops and establishments located around this square .
+65	any non-self-crossing quadrilateral that has an axis of symmetry must be either a kite ( if the axis of symmetry is a diagonal ) or an isosceles trapezoid ( if the axis of symmetry passes through the midpoints of two sides ) ; these include as special cases the rhombus and the rectangle respectively , which have two axes of symmetry each , and the square which is both a kite and an isosceles trapezoid and has four axes of symmetry .
+9	the end points of these two ranges are a square between two pronic number , with each of the pronic numbers being twice a pair triangular number .
+13	creid ( , meaning '' believe '' ) is the arranged soundtrack to square 's role-playing video game xenogears .
+28	in july 1986 , xtalsoft was among six other companies to form the disk original group , a collective publishing house for famicom disk system games headed by square for their part , xtalsoft developed sword of kalin under the disk original group .
+13	the area of a shape can be measured by comparing the shape to square of a fixed size .
+5	the torrejones were relatively simple square or egg-shaped structures , with several floors , built of limestone or brick .
+18	the pete initially developed as a pedestrian precinct with the public spaces evolving with bazaar streets , temple square , lakes and maidans ( open grounds ) .
+39	there are two possible values for k , namely 1 and 2 , and so two possible apex angles , namely : according to the pdn-theorem the quadrilateral a 2 is a regular 4-gon , that is , a square .
+18	( ex : snatcher ) software companies that produced exclusive software for the nec pc-8801 included enix , square , sega , nihon falcom , bandai , hal laboratory , ascii , pony canyon , technology and entertainment software , wolf team , dempa , champion soft , starcraft , micro cabin , psk , and bothtec .
+8	its frontal façade creates the border of the square .
+12	in 1998 , while still working for capcom , mizuta applied to square as a composer in response to an advertisement and was hired .
+24	the diamond-shaped tufa blocks were placed with the pointed ends into the cement core at an angle of roughly 45 degrees , so the square bases formed a diagonal pattern , and the pattern of mortar lines resembled a net .
+22	plaza degetau , formally plaza federico degetau , is the larger of two plaza at plaza las delicias , the main city square in the city of ponce , puerto rico .
+3	there are one square , one hexagon , and one hexadecagon ( 16-sides ) on each vertex .
+11	a four-sided plane figure is a quadrilateral ( quadrangle ) or square , sometimes also called a tetragon .
+5	prior to the merger of square and enix in 2003 , enix did not initially have a localization department and outsourced its western releases to translators who had no close contact with the original development teams .
+4	the west tower was square in plan , the east tower octagonal .
+14	along with sakaguchi , their combined appearance culminated in the separation of the '' square '' label from parent software company denyuusha .
+18	the circulation around a closed curve c is the line integral : the dimension of circulation are length square , divided by time ; l 2 ⋅ t − 1 , which is equivalent to velocity times length .
+7	the diamond , which is the main square in the town , includes a prominent ' obelisk ' celebrating ` the four masters ' , four gaelic historians led by brother mícheál ó cléirigh who wrote the annals of the four masters in the 1630s .
+17	is an action game for the nintendo super famicom , developed by hal laboratory and published by square .
+14	the starter kit includes 92 pieces of various geometric shapes including a triangle , square , and hexagon , various beams and connectors , and treads that can be attached to shapes to form wheels .
+10	later that same year , game arts licensed thexder to square in order to develop a conversion for the nintendo entertainment system ( nes ) game console .
+21	here is a partial list of notable expressways , tunnel , bridge , road , avenues , street , crescent , square and bazaar in hong kong .
+24	the first dragon slayer title was an early action role-playing game , released in 1984 for the nec pc-88 computer system and ported by square for the msx .
+32	a quincunx of pips on the fifth side of a die a quincunx is a geometric pattern consisting of five points arranged in a cross , with four of them forming a square or rectangle and a fifth at its center .
+19	in mathematics , a costas array can be regarded geometrically as a set of n points lying on the square of a n n checkerboard , such that each row or column contains only one point , and that all of the n ( n 1 ) / 2 displacement vector between each pair of dots are distinct .
+29	video games for more details on this topic , see lgbt characters in video games and lgbt themes in video games saga frontier ( a playstation title produced by square ) has a lesbian character named asellus .
+8	there is the 1-d split-ring structure with two square rings , one inside the other .
+3	tourism a large square dominates to the village where a roman catholic church is situated from 1590 .
+12	a p-gonal antiprismatic prism or p-gonal antiduoprism has 4p triangle , 4p square and 4 p-gon faces .
+27	the number 10 , for example , can be arranged as a triangle ( see triangular number ) -rcb- but 10 can not be arranged as a square .
+11	doug perry of ign said the game was an attempt by square to '' cash in '' on the popular kart racer genre created by nintendo 's successful mario kart .
+21	distances shorter than 1 µm ~ 0.7 -- 300 µm -- wavelength of infrared radiation 1 µm -- the side of square of area m² 1 µm -- edge of cube of volume m³ ( one fl .
+9	the 99t also makes appearances in rad racer from square and continental circus from taito , both released in 1987 .
+27	other buildings include a storage building ( 1895 ) , an oil house ( 1906 ) , a boathouse , and a hand-operated fog bell in a square pyramidal tower ( automated subsequently ) .
+1	a square with interior is also a 2-manifold with boundary .
+13	in number theory , the sum of the first n cube is the square of the n th triangular number .
+38	the four regular hendecagrams -lcb- 11/2 -rcb- , -lcb- 11/3 -rcb- , -lcb- 11/4 -rcb- , and -lcb- 11/5 -rcb- in geometry , a hendecagrammic prism is a star polyhedron made from two identical regular hendecagram connected by square .
+6	it contains 20 triangle , 30 square and 12 pentagon .
+13	in geometry , a hypercube is an n - dimensional analog of a square ( n = 2 ) and a cube ( n = 3 ) .
+10	an equilateral quadrilateral is a rhombus , which includes the square as a special case .
+9	among video game music influences , he has cited square for providing him '' with the education for what quality means to this business '' and nobuo uematsu in particular .
+11	biography after graduating from tokyo zokei university , hiroyuki ito joined square in 1987 .
+31	the café novelty ( coffeehouse novelty ) is the oldest café in the city of salamanca ( spain ) , which was founded in 1905 and is situated in the main square of the city , plaza mayor de salamanca .
+12	is a 3d fighting game developed by light weight and published by square and sony for the playstation .
+11	the term is occasionally used to refer to a non - square rectangle .

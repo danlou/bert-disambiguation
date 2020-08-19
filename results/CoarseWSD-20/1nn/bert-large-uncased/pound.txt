@@ -1,0 +1,50 @@
+sent: some of charlemagne 's units of measure , such as the pied du roi ( the king 's foot ) remained virtually unchanged for about a thousand years , while others , such as the aune ( ell - used to measure cloth ) and the livre ( pound ) varied dramatically from locality to locality .
+gold class: pound_pound_(mass)
+pred class: pound_pound_(currency)
+sim_diff: 0.043219
+========
+sent: in particular , some food sellers refused to comply , selling vegetable by the pound without a metric equivalent .
+gold class: pound_pound_(mass)
+pred class: pound_pound_(currency)
+sim_diff: 0.051879
+========
+sent: historical units include the stone , the pound , the carat and the grain .
+gold class: pound_pound_(mass)
+pred class: pound_pound_(currency)
+sim_diff: 0.029952
+========
+sent: they are sold loose by weight in paper bags , traditionally in '' quarters '' -- a quarter of a pound .
+gold class: pound_pound_(mass)
+pred class: pound_pound_(currency)
+sim_diff: 0.040499
+========
+sent: the appointment fee that he had to pay to the ottoman sultan to allow his election was the maximum ever reached : no less than 36,400 kuruş , about 5,600 gold pound .
+gold class: pound_pound_(mass)
+pred class: pound_pound_(currency)
+sim_diff: 0.086196
+========
+sent: most of mankind has used the day and its subdivisions as a basis of time with the result that the second , minute , hour and day , unlike the foot or the pound , were the same regardless of where it was being measured .
+gold class: pound_pound_(mass)
+pred class: pound_pound_(currency)
+sim_diff: 0.010072
+========
+sent: in late april 2008 , prices hit 24 us cent a pound , twice the price of seven months earlier .
+gold class: pound_pound_(mass)
+pred class: pound_pound_(currency)
+sim_diff: 0.051661
+========
+sent: like the pound of 12 troy ounces ( 373 g ) , the mark was also used as a unit of currency , e.g. in many shakespeare plays set in medieval england , and in various incarnations in germany and finland until the adoption of the euro in 1999 .
+gold class: pound_pound_(mass)
+pred class: pound_pound_(currency)
+sim_diff: 0.056227
+========
+sent: they established a local post that used a uniform rate of one old penny for delivery of letters and packets weighing up to one pound within the cities of westminster and london as well as southwark .
+gold class: pound_pound_(mass)
+pred class: pound_pound_(currency)
+sim_diff: 0.077883
+========
+sent: british guns and their ammunition were designated in pound , e.g. , as '' two-pounder '' shortened to '' 2-pr '' or '' 2-pdr '' .
+gold class: pound_pound_(mass)
+pred class: pound_pound_(currency)
+sim_diff: 0.027327
+========

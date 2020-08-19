@@ -1,0 +1,2 @@
+7	error correction is implemented by using more digit ( bit in case of a binary channel ) than the number strictly necessary for the samples , and having the receiver compute the most likely valid message that could have resulted in the received one .
+14	morphology pronycticebus neglectus possessed what appears to be a grooming claw on the second digit of each foot like modern strepsirhine ( fleagle , 1999 ) and had a dental formula of 2 : 1 : 4 : 3 .

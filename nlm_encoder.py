@@ -29,7 +29,7 @@ class TransformerEncoder():
             self.pad_encoding = self.nlm_tokenizer.encode(self.nlm_tokenizer.pad_token, add_special_tokens=False)[0]
 
         else:
-            # TO-DO
+            # TO-DO: this module only supports BERT
             raise(BaseException('Invalid model_name - %s' % model_name_or_path))
 
         self.nlm_model.eval()
@@ -57,7 +57,7 @@ class TransformerEncoder():
             return [self.cls_encoding] + encodings + [self.sep_encoding]
 
         else:
-            # TO-DO
+            # TO-DO: this module only supports BERT
             raise(BaseException('Invalid model_name - %s' % model_name_or_path))
 
 
@@ -205,7 +205,7 @@ class TransformerEncoder():
 if __name__ == '__main__':
 
     encoder_cfg = {
-        'model_name_or_path': 'bert-large-uncased',
+        'model_name_or_path': 'bert-base-uncased',
         'weights_path': '',
         'min_seq_len': 0,
         'max_seq_len': 32,

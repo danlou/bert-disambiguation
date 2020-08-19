@@ -1,0 +1,20 @@
+25	the dutch were the first to start the spread of the coffee plant in central and south america , and by the early 19th century java was the third largest producer in the world .
+23	many circular shapes decorated the whole complex , the design of which reminds people of the shape of candi in the east of java .
+33	charles curtis ( 1853 23 august 1928 ) was an english botanist who was sent by james veitch & sons to search for new plant species in madagascar , borneo , sumatra , java and the moluccas , before settling in penang , where he became the first superintendent of the penang botanic gardens .
+5	the eendracht sailed on to java and reached batavia on october 28 with a remarkable 84 of the original 87 crew members of both ships on board .
+6	although the dance is native to java , indonesia , it also performed by javanese communities in suriname , malaysia and singapore .
+17	it is found in southern queensland and from coastal new south wales to central australia and on java .
+8	cephas was recognized for his contributions to preserving java 's cultural heritage through membership in the royal netherlands institute of southeast asian and caribbean studies and an honorary gold medal of the order of orange-nassau .
+22	about 270,000 of these javanese laborers were sent to other japanese-held areas in south east asia , only 52,000 were repatriated to java , meaning that there was a death rate of 80 % .
+30	on 5 april 1815 , a moderate-sized eruption occurred , followed by thunderous detonation sounds , heard in makassar on sulawesi , away , batavia ( now jakarta ) on java away , and ternate on the molucca islands away .
+19	its origin area is south china , vietnam , laos , cambodia , thailand and the indonesian island of java .
+12	the school has some online classes , such as introductory c++ , java , and ap computer science .
+21	supported programming languages since openrtm-aist is based on the corba technology , it supports several programming languages , including : c++ java python erlang ( unofficial ) tools rtc builder rtc builder rtc builder is a tool for skeleton-code generation .
+3	mocha is a java decompiler , which allows programmers to translate a program 's bytecode into source code .
+25	'' nexaweb technology the nexaweb enterprise web suite ( nexaweb ews ) includes legacy code analysis and capture tools and cloud application reference frameworks for java and ajax .
+11	many concepts initially introduced by eiffel later found their way into java , c# , and other languages .
+5	cte xl was written in java and was supported on win32 systems .
+9	carmetal carmetal is a free gpl software written in java .
+11	over forty programming language , such as c , c++ , java , javascript , perl , python , ruby , r , sql , etc. .
+6	checked exceptions similar to those in java .
+19	in the 1990s , translation into p-code became a popular strategy for implementations of languages such as python and java .

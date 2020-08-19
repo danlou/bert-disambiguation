@@ -1,0 +1,40 @@
+sent: classes classes ( keyword '' class '' ) in haxe are similar to those in java or as3 .
+gold class: java_java
+pred class: java_java_(programming_language)
+sim_diff: 0.280778
+========
+sent: he heard a recording of java gamelan and was hooked .
+gold class: java_java
+pred class: java_java_(programming_language)
+sim_diff: 0.008810
+========
+sent: throughout his professional career , krantz authored more than 60 academic articles and 10 books on human evolution , and conducted field research in europe , china , and java .
+gold class: java_java
+pred class: java_java_(programming_language)
+sim_diff: 0.039620
+========
+sent: in java gamelan music , the slendro scale is pentatonic , with roughly equally spaced intervals ( ) .
+gold class: java_java
+pred class: java_java_(programming_language)
+sim_diff: 0.040948
+========
+sent: however , these instruments are performed using a seven-tone java gamelan scale known as pelog .
+gold class: java_java
+pred class: java_java_(programming_language)
+sim_diff: 0.038736
+========
+sent: a pendopo or pendapa is a fundamental element of java architecture ; a large pavilion - like structure built on column .
+gold class: java_java_(programming_language)
+pred class: java_java
+sim_diff: 0.097837
+========
+sent: scope = '' row '' island of java - valign = '' top '' style = '' background : # b0e0e6 ; '' !
+gold class: java_java
+pred class: java_java_(programming_language)
+sim_diff: 0.188452
+========
+sent: scope = '' row '' island of java - style = '' background : # b0e0e6 ; '' !
+gold class: java_java
+pred class: java_java_(programming_language)
+sim_diff: 0.249559
+========

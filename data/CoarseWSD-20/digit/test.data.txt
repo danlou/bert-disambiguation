@@ -1,0 +1,42 @@
+13	numbers ( both cardinal and ordinal ) in names are often represented by digit rather than initial letters : as in 4gl ( fourth generation language ) or g77 ( group of 77 ) .
+13	selected 7-digit numbers ( 1,000,000 -- 9,999,999 ) 1,000,003 -- smallest 7 - digit prime number 1,046,527 -- carol number 1,048,576 = 2 20 ( power of two ) , 2,116 - gonal number , an 8,740-gonal number and a 174,764-gonal number , the number of byte in a mebibyte , the number of kibibyte in a gibibyte , and so on .
+14	it is notable for having chicks that possess claw on two of their wing digit .
+3	toes are the digit of the foot of a tetrapod .
+15	in mathematics and computer science , truncation is the term for limiting the number of digit right of the decimal point , by discarding the least significant ones .
+25	therefore , when a vulgar fraction with 7 in the denominator is converted to a decimal expansion , the result has the same six - digit repeating sequence after the decimal point , but the sequence can start with any of those six digits .
+22	it is rarely used in mathematics because it is indistinguishable from the latin letters o , o and easily confused with the digit 0 .
+7	in elementary arithmetic a carry is a digit that is transferred from one column of digits to another column of more significant digits during a calculation algorithm .
+22	when all of the player 's lives are exhausted , a '' number match '' screen appears with a random 3 - digit number in 50-base increments ( 100 , 150 , 200 , 250 , and so on ) .
+4	these four or five digit codes are a standardized system intended to aid checkout and inventory control in produce markets .
+10	bit bit is a representation of a bit ( binary digit ) , and as such is only capable of providing ( 0,1 ) answers to any question , through which it managed to convey various emotions .
+13	a googol is the large number 10 100 ; that is , the digit 1 followed by 100 zeroes : the term was coined in 1938 by 9-year-old milton sirotta , nephew of american mathematician edward kasner .
+30	the word '' hand '' is sometimes used by evolutionary anatomists to refer to the appendage of digits on the forelimb such as when researching the homology between the three digit of the bird hand and the dinosaur hand .
+4	in a rbr , digit are pairs of bits , that is , for every place , a rbr uses a pair of bits .
+14	the numbers of lenin and stalin statues were to be the tens and ones digit , respectively , of a number that they then had to tell the bookstore manager ; if incorrect , a 10 minute penalty would be issued before another guess could be made .
+12	the reticulated leaf frog ( phyllomedusa ayeaye ) has a single opposed digit on each fore foot and two opposed digits on its hind feet .
+16	the simplest sequential system is probably a flip flop , a mechanism that represents a binary digit or '' bit '' .
+12	data is encoded by assigning a bit pattern to each character , digit , or multimedia object .
+3	the english word digit as well as its translation in many languages is also the anatomical term for fingers and toes .
+20	the earliest of these were for in-band signaling between switching centers , where long-distance telephone operators used a 16 - digit keypad to input the next portion of the destination telephone number in order to contact the next downstream long-distance telephone operator .
+22	consider a number n ) 0 in base b ≥ 2 , where it is written in standard notation with k +1 digit a i as : with , as usual , 0 ≤ a i ( b for all i and a k ≠ 0 .
+10	decimal palindromic numbers all numbers in base 10 with one digit are palindromic .
+42	word-medial separator in finnish and swedish , the colon can appear inside words in a manner similar to the apostrophe in the english possessive case , connecting a grammatical suffix to an abbreviation or initialism , a special symbol , or a digit ( e.g. , finnish usa : n and swedish usa : s for the genitive case of '' usa '' , finnish % : ssa for the inessive case of '' % '' , or finnish 20 : een for the illative case of '' 20 '' ) .
+18	more formally , a 10-adic number can be defined as where each of the a i is a digit taken from the set -lcb- 0 , 1 , ... , 9 -rcb- and the initial index may be positive , negative or 0 , but must be finite .
+8	graduation in primary school students start with single digit arithmetic exercises .
+24	similarly , the magnitude of the largest normal number in a format is given by where p is the precision of the format in digit and emax is ( emin ) +1 .
+10	it used bi-quinary coded decimal arithmetic with four bits per digit , allowing 11-digit signed numbers .
+14	most often , the delivery point is added , usually being the last two digit of the address or po box number .
+6	norwegian postal codes are 4 - digit codes , known in norwegian as postnummer ( literally '' post number '' ) .
+10	some older computers ( decimal computer ) , were decimal digit - addressable .
+10	base b = 10 : the unit is called decimal digit , hartley , ban , decit , or dit , and is equal to log 2 10 ( ≈ 3.322 ) bits .
+13	some players , such as backwell and chick have opted for amputation of digit in a bid to extend their playing careers and continue to mark the ball .
+21	other genera , such as neoseps , have reduced limbs , lacking forelegs , and with fewer than five toe ( digit ) on each foot .
+19	characters and strings a character type ( typically called '' char '' ) may contain a single letter , digit , punctuation mark , symbol , formatting code , control code , or some other specialized code ( e.g. , a byte order mark ) .
+5	some displays can show only digit or alphanumeric characters .
+29	in mathematics , a primeval number is a natural number n for which the number of prime number which can be obtained by permuting some or all of its digit ( in base 10 ) is larger than the number of primes obtainable in the same way for any smaller natural number .
+4	here are the final digit strings for each of the three calculations : binary digits of pi from five trillion minus three to five trillion seventy-six ( completed august 30 , 1998 ) : binary digits of pi from forty trillion minus three to forty trillion sixty-four ( february 9 , 1999 ) : binary digits of pi from one quadrillion minus three to one quadrillion sixty ( september 11 , 2000 ) : therefore , the least significant known bit of pi is 1 at position 1,000,000,000,000,060 ( one quadrillion sixty ) or 10 15 +60 .
+20	the mobile identification number ( min ) or mobile subscription identification number ( msin ) refers to the 10 - digit unique number that a wireless carrier uses to identify a mobile phone , which is the last part of the international mobile subscriber identity ( imsi ) .
+11	in mathematical notation for number , signed-digit representation indicates that each digit is associated with a sign , positive or negative .
+34	other codes in reserve for this use : 522 ( had been used for mexico roaming ) , 588 ( as with 522 , '' easily recognizable '' codes as the second and third digit match ) , plus these '' regular '' 5xx codes : 521 , 523 , 524 , 525 , 526 , 527 , 528 , 529 ( other 52x codes for mexico roaming ) , 532 , 535 , 538 , 542 , 543 , 545 , 546 , 547 , 549 , 550 , 552 , 553 , 554 , 556 , 558 , 569 , 578 , and 589 .
+11	the two frogs can be distinguished by a disproportionately long second digit of the inner front toes in the case of l. fletcheri .
+7	the articulating prosthetic hand has individually powered digit and thumb and has a choice of grips .

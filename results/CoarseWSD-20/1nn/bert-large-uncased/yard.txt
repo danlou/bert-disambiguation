@@ -1,0 +1,40 @@
+sent: a very large stone was procured from a nearby building site and installed in the middle of the interior yard .
+gold class: yard_yard
+pred class: yard_yard_(sailing)
+sim_diff: 0.063496
+========
+sent: on 19 march , a bust of st. joseph - sculpted by mr. karl hervet - was unveiled in the school yard .
+gold class: yard_yard
+pred class: yard_yard_(sailing)
+sim_diff: 0.020436
+========
+sent: he also helped standardize the measures of length the yard and chain for the admiralty .
+gold class: yard_yard
+pred class: yard_yard_(sailing)
+sim_diff: 0.055442
+========
+sent: however , the word park , as well as the similar complex of words that have the same indo-european root : garden , yard , girdle , orchard , court , etc. , all refer simply to a deliberately enclosed area , but not necessarily an area enclosed by walls .
+gold class: yard_yard
+pred class: yard_yard_(sailing)
+sim_diff: 0.029660
+========
+sent: some of these include : helping with cooking or food preparation putting laundry away taking out the trash vacuuming or mopping clean up after pets feed and water pets on a schedule do yard work , like raking leaves and gardening 9-12 years : independent tasks with consequences for children 9 -- 12 years old are important in instilling responsibility , so reward and punishment can be introduced .
+gold class: yard_yard
+pred class: yard_yard_(sailing)
+sim_diff: 0.056775
+========
+sent: callicarpa americana ( american beautyberry ) is an open-habit , native shrub of the southern united states which is often grown as an ornamental in garden and yard .
+gold class: yard_yard
+pred class: yard_yard_(sailing)
+sim_diff: 0.014245
+========
+sent: the villages often have one main street ( šor ) where each subsequent family house has auxiliary buildings and a spacious yard , as well as a water well .
+gold class: yard_yard
+pred class: yard_yard_(sailing)
+sim_diff: 0.028926
+========
+sent: in weights and measures the number of yard in a chain .
+gold class: yard_yard
+pred class: yard_yard_(sailing)
+sim_diff: 0.021538
+========

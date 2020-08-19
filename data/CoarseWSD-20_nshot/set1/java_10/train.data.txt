@@ -1,0 +1,20 @@
+16	the boundary between the western and central time zones established is a line running north between java and bali through the center of kalimantan .
+8	the short hilt , which is pentagonal on java , forms as it were , an extension of the metok .
+32	one siamese chronicle states that anawrahta 's armies invaded the khmer kingdom and sacked the city of angkor , and another one goes so far as to say that anawrahta even visited java to receive his tribute .
+22	variants an h6k2-l navy transport flying boat type 97 ; h6k1 operators royal air force mechanics inspecting an h6k at soerabaja , java , prior to a test flight in january 1946 .
+20	at the end of the burma campaign , the british empire had ordered 92,000 troops to the indonesian island of java , with a deadly assault on september 15 , 1945 .
+22	lupis is often found in traditional markets throughout indonesia , and in javanese area , especially in the middle and eastern of java .
+14	it is found in the southern pacific , including hawaii and french polynesia , java , sulawesi , the new hebrides , samoa , the austral islands and the marquesas .
+7	it is popular on the islands of java and bali and their surroundings .
+12	armenian church , settlement and history in surabaya armenians first traveled to java towards the end of the 18th century .
+13	it contains only one species , eugauria albidentata , which is found on java .
+4	examples are r , java , and python , each of which can be classified as free and open source software .
+74	features some of rtext 's features include : syntax highlighting for over 20 languages regular expression search and replace find in files and replace in files supports all character encodings supported by the jvm configurable document interface ( tabbed , mdi or list view ) editor supports multiple fonts simultaneously bracket matching current line highlighting customizable interface ( icons , look and feel , color scheme , etc. ) compatibility rtext is written in java and runs on linux , mac os x , os/2 , unix , openvms , and windows .
+12	tads 3 uses a language with a syntax that resembles c++ and java .
+1	using java or similar technology , graphical versions of boards and counters can be manipulated in cyberspace as if a manual version of the game was being played .
+2	maven : java project management and comprehension tool mina : multipurpose infrastructure for network application , a framework to develop high performance and high scalability network applications .
+16	) here , scala is shown clearly behind a first-tier group of 11 languages ( including java , c , python , php , ruby , etc. ) , but leading a second-tier group .
+4	for instance , a java application may need to execute a system call .
+38	official language bindings c : 2.1 .net : 2.1 external language bindings python : 2.0 d : 1.6 ( derelict 2 ) and 2.0 ( derelict 3 ) ruby : rc-2 .0 ocaml : 1.6 and rc-2 .0 java : 2.1 rust : 2.1 hello world the program below provides a short overview of the sfml .
+6	programs exist in database design , java programming , project management , scrummaster certification , kai certification , and leadership development , among many others .
+42	the average speed improvement is typically in the 1.5-4x range , making python performance close to languages such as smalltalk and scheme , but still slower than compiled languages such as fortran , c or some other jit languages like c# and java .

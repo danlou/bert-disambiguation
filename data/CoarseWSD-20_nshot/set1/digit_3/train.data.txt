@@ -1,0 +1,6 @@
+19	pok deng ( ) is a thai gambling card game in which players aim for a hand whose ones digit beats the dealer 's , while taking into account pairs , three of a kinds , and flushes .
+16	this allowed the full alphabet ( instead of combining i and j ) , plus the digit from 0 to 9 .
+7	error correction is implemented by using more digit ( bit in case of a binary channel ) than the number strictly necessary for the samples , and having the receiver compute the most likely valid message that could have resulted in the received one .
+30	some evolutionary anatomist use the term hand to refer to the appendage of digits on the forelimb more generally -- for example , in the context of whether the three digit of the bird hand involved the same homologous loss of two digits as in the dinosaur hand .
+5	the thumb is the last digit of the hand .
+14	morphology pronycticebus neglectus possessed what appears to be a grooming claw on the second digit of each foot like modern strepsirhine ( fleagle , 1999 ) and had a dental formula of 2 : 1 : 4 : 3 .

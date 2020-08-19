@@ -1,0 +1,1080 @@
+sent: virgil johnson , a former deejay at radio kdav in lubbock , texas , was the lead tenor singer , with backup from mark prince ( bass ) , clarence rigsby ( tenor ) , robert thursby ( first tenor ) , and william solomon ( baritone ) .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.035461
+========
+sent: according to some sources , including otis williams autobiography , bass singer melvin franklin did not record vocals on either side of this single , as he was visiting family in alabama .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.057528
+========
+sent: a prominent bass rhythm carries the song and provides flashy funk - style fill .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.016056
+========
+sent: instrumentation the result of combining the rumba - flemish and pop , with arrangements torregrossa , produced a instrument varied and , while modern and traditional , where the basic training is battery guitar classical strings bass and wind s for most metals of the trajectory of the group .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.024766
+========
+sent: cristian flako lara , bass and peruvian cajón ( 1996 -- 2005 ) .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.018093
+========
+sent: negro cristi , bass ( 2005 -- 2009 ) .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.012077
+========
+sent: negro medel , bass ( 2009 ) .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.033669
+========
+sent: musical instrument amplification some musicians also prefer the distortion characteristics of tubes over transistors for electric guitar , bass , and other instrument amplifier .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.027102
+========
+sent: , it has been accredited by the national association of schools of music , and offers six-quarter associate of arts degree in music performance ( drums , guitar , bass or voice ) and in music production ; the degrees are classed as '' professional '' , and are not transferable to other institutions .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.024004
+========
+sent: a piano , trumpet , horn , saxophone , and synthesizer are used along with the standard guitar , drums , and bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.006657
+========
+sent: per zanussi is one of the best known bass players in norway .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.041717
+========
+sent: by exploring , arranging , and commissioning music for guitar , keyboard , drums , and bass , the group mixes classical and rock music in a genre that has been described as art rock , experimental music , avant-progressive , or avant-rock .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.003473
+========
+sent: bud cockrell was a bass and vocal for the california rock and roll band pablo cruise .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.016828
+========
+sent: track listing personnel randi stene - vocals ketil bjørnstad - piano lars anders tomter - viola frode alnæs - guitar arild andersen - bass jon christensen - drums credits composer and producer -- ketil bjørnstad album devised from poems by john donne ( 1562 -- 1626 ) ingar marcussen - in memoriam engineered by jan erik kongshaug recorded and mixed at rainbow studio , oslo , norway 1990 .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.043844
+========
+sent: three original members of the band , frontman jurica pađen , mladen krajnik and zlatan živković appeared on the album , which also introduced new bass player , tomislav šojat , who played with pađen in pađen band during the 1990s .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.000969
+========
+sent: 1 , for organ ( brunswick ) six fugues pour les orgues ou le clavecin , ( amsterdam , 1802 ) serenade , for piano , 2 violin , flute , 2 horns , bass ; 2 sonata , for piano with violin ; concerto , for piano with 2 violins , op .
+gold class: bass_double_bass
+pred class: bass_bass_(voice_type)
+sim_diff: 0.005481
+========
+sent: he also became fluent with other instruments along the way , including the mandolin , the violin and the bass .
+gold class: bass_bass_guitar
+pred class: bass_bass_(voice_type)
+sim_diff: 0.060468
+========
+sent: luc sometimes detunes the sixth ( and even fifth ) strings of his guitars ( sometimes up to an octave below normal ) , both to emulate a bass sound while accompanying and to accompany himself in solos .
+gold class: bass_bass_guitar
+pred class: bass_bass_(voice_type)
+sim_diff: 0.056275
+========
+sent: uncle earl and quartet sharon joined up with uncle earl , an eclectic group of female musicians incorporating dance into their act , playing bass until 2006 .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.010537
+========
+sent: background '' coming home '' , a song written by jake hook , nick patrick and jeff chegwin and produced by patrick for the soldier 's first album coming home the song 's lyrics are a stirring wish and plead for army personnel to come home safely , the song features a tin whistle , piano , bass , drum and full string section .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.004018
+========
+sent: as a teenager , he took part in forming the charlottesville-albemarle youth orchestra , in which future dave matthews band member and bass stefan lessard also took part several years later .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.018903
+========
+sent: it featured london may on drums , geoff kresge on stand up bass and nick 13 on vocals and guitar .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.044270
+========
+sent: he has been the bass player for the rock band yo la tengo , since their 1992 album , may i sing with me .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.000890
+========
+sent: he is most notable for his design of guitar and bass without a traditional headstock , which are called steinberger instruments .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.031747
+========
+sent: personnel drum programming : brett baker , colin emmanuel , a. jermaine mobley , young rj , eric roberson , osunlade , jr hutson live drums : brett baker keyboards : brett baker , colin emmanuel , a. jermaine mobley , young rj , dana sorey , osunlade , jr hutson , craig lane percussion : donna sorey guitar : ben o'neil , curt chambers , allan simpson , a. jermaine mobley bass : wayne moore , jay bratten hammond organ : dana sorey fender rhodes : curt chambers , jr hutson trumpet : matt cappy saxophone : korey riker trombone : aaron goodie executive producer : eric roberson , james roberson , charlotte roberson photography : d. brown art direction and design : concep samples '' a tale of two '' contains a sample of '' inside my love '' , as performed by minnie riperton .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.008097
+========
+sent: bob mair is a composer/producer who began his career as a touring and studio bass player .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.024538
+========
+sent: his best known vocals were on the cadets ' biggest hit '' stranded in the jungle '' and his bass vocals on the coasters ' hits '' yakety yak '' and '' charlie brown .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.043708
+========
+sent: guitar hero iii : legends of rock retains the basic gameplay from previous games in the guitar hero series , where the player uses a guitar-shaped controller to simulate the playing of lead , bass , and rhythm guitar parts in rock songs by playing in time to scrolling notes on-screen .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.005730
+========
+sent: julie slick julie slick began taking bass lessons at age twelve at the paul green school of rock as one of seventeen students paul green taught in his apartment in 1998 in order to help pay his tuition at the university of pennsylvania , where he was a philosophy major .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.028489
+========
+sent: martyn craig campbell ( born 1970 in liverpool ) is an english bass player .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.023813
+========
+sent: track listing personnel honey cone : lead and background vocals robbie dunbar : piano gary '' gazza '' johnson : bass , guitar reynard miner eddie wayne production producer : ronald dunbar , george perry and william weatherspoon .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.004924
+========
+sent: matinier occurs usually with other instrumentalists , such as with renaud garcía-fons , who accompanied him in a very interactive duo on his bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.058049
+========
+sent: performers on the song include slim harbert on bass , johnny gimble on fiddle , jimmy rollins and joe knight on guitar , and harold carmack on piano .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.038769
+========
+sent: this is the oak ridge boys only single to feature bass singer richard sterban on lead vocals .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.046750
+========
+sent: many extended-range bassists play the bass part in bands , but many also perform their instrument in a solo setting , often using advanced techniques such as two-handed tapping or chording .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.041919
+========
+sent: he had been singing and playing bass in bands with ian craig marsh since 1973 .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.007932
+========
+sent: guest musicians included felix pappalardi on bass , a young john sebastian playing harmonica , and pete childs on dobro and electric guitar .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.009467
+========
+sent: harvey bainbridge ( left ) on stage with the hawkwind spin-off hawklords , live in germany 2012 harvey frederick bainbridge ( born 24 september 1949 , dorset ) is an english bass and keyboard player .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.018971
+========
+sent: biography born into a musical family in emory gap , tennessee , wakefield by age eight already knew how to play harmonica , guitar and bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.011161
+========
+sent: robert lynn '' bob '' livingston ( born november 26 , 1948 ) is an american singer-songwriter , bass player , and a founding member of the lost gonzo band .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.001876
+========
+sent: with a floating membership of around 30 individuals playing sax , brass , percussion , and stringed instruments , it has appeared both as a mobile unit for parades , and as an amplified band with bass , fiddle , guitar , and banjo .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.029283
+========
+sent: jpg lasse lindfors - bass image : miikka koivisto , disco ensemble , bochum 2007 .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.040242
+========
+sent: parks was a studio bass player , backing many of the reggae artists , including justin hinds on duke reid 's treasure isle label .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.027182
+========
+sent: he has various musicians on saxophone , bass , piano , conga , accordion , tambora , and güira , and 2-3 backup singers .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.037898
+========
+sent: john pierce bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.027818
+========
+sent: annette meriweather ( soprano ) ; julian pike ( tenor ) ; nicholas isherwood ( bass ) ; markus stockhausen ( trumpet and flugelhorn ) ; michael svoboda ( trombone ) ; massimiliano viel , simon stockhausen ( synthesizer ) ; andreas boettger , renee jonker ( percussion ) ; wdr choir , karlheinz stockhausen ( cond .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.010518
+========
+sent: in 1972 , boosey & hawkes published a version of the suite fusing the structure of the orchestral suite with the scoring of the original ballet : double string quartet , bass , flute , clarinet , bassoon , and piano .
+gold class: bass_double_bass
+pred class: bass_bass_(voice_type)
+sim_diff: 0.029006
+========
+sent: she eventually moved on to the violin , saxophone and then bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.033472
+========
+sent: jukka jylli jukka kalevi jylli is a finnish bass - player who played in the psychedelic / progressive rock group kingston wall .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.010503
+========
+sent: whitfield arranged and recorded the non-orchestral elements of the instrumental with motown 's studio band , the funk brothers , who for this recording included eddie '' chank '' willis on guitar , jack ashford on marimba , jack brokensha on timpani , andrew smith on drums , and bob babbitt on bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.017491
+========
+sent: '' the end of each section of the temptations ' lists of woes is punctuated by bass singer melvin franklin 's line , '' and the band played on .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.066117
+========
+sent: members linnéa rilton ( soprano ) matilda lindell ( soprano ) mia greayer ( alto ) daniel greayer ( baritone ) sebastian rilton ( bass ) former members ida carnestedt mathilda lindgren ( mezzosoprano ) discography kompis ( 2002 ) kamrat ( 2003 ) här är passion ( 2005 ) de vill att vi bugar och niger ( 2008 ) japanmix ( 2009 ) awards winner , 2005 best folk/world album of the year , contemporary a cappella society .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.019625
+========
+sent: he is a session player and arranger on guitar , bass , strings , horns , and keyboards , and , as a producer , arranges , records , and programs samples and drum loops .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.001627
+========
+sent: she is a jewish mexican , one of linda's best friends , and plays upright bass in a jazz band with linda flynn and jeremy 's mom .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.044828
+========
+sent: track listing personnel bill haley -- rhythm guitar , vocals danny cedrone -- lead guitar on 1 2 4 6 12 art ryerson - lead guitar on 3 5 7 8 9 10 11 billy williamson -- steel guitar johnny grande -- piano ; organ on 11 marshall lytle -- bass billy gussak -- drums on 3 4 5 6 7 8 9 10 cliff leeman - drums on 11 dick richards - backing vocals on 9 11 tony lance baritone saxophone on 3 9 11 dave miller - clapboard on 11 , backing vocals on 7 note : no drums were used on tracks 1 , 2 , 12 .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.009232
+========
+sent: primarily designed for electric guitar and bass , the software uses amplifier modeling to allow real-time digital signal processing in both standalone and studio ( vst / dxi / rtas / au ) environments .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.028681
+========
+sent: the ensemble played acoustic guitar , electric guitar and bass and sang multi-part harmonies .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.004484
+========
+sent: nikolai eilertsen - bass , baritone , guitar , piano , glockenspiel and vocals .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.007453
+========
+sent: bass on '' tell me where it hurts '' was performed by daniel shulman , who had been garbage 's touring bassist from 1995 until 2002 , as well as performing on tracks from both version 2.0 and beautiful garbage .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.011414
+========
+sent: it is notable for only using sounds made by an electric guitar , from tapping on the pickups for drum , to detuning the guitar for bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.011238
+========
+sent: at the 20th second , the guitar and bass cease , marking joey 's first line , '' hey ho , let 's go !
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.001651
+========
+sent: members yves barbieux : flute and galician bagpipe veronica codesal : vocals soetkin collier : vocals sophie cavez ( replaced didier laloy ) : diatonic accordion philip masure : acoustic guitar michel morvan : drums ( died 3 july 2010 ) dirk naessens : violin marie-sophie talbot : vocals , piano and percussion ( no longer with the band ) cedric waterschoot : bass career as the name indicates , urban trad is a traditionally-inspired music band , deeply rooted in the 21st century .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.000320
+========
+sent: he was primarily a singer and guitarist ; however , he also played other instruments on various studio recordings and sessions , including bass , dobro , mandolin , harmonium ( intro to '' lover , you should 've come over '' ) , organ , dulcimer ( '' dream brother '' intro ) , tabla , esraj , harmonica .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.010087
+========
+sent: les nemes - born leslie nemes , 5 december 1960 , croydon , surrey - bass .
+gold class: bass_bass_guitar
+pred class: bass_bass_(voice_type)
+sim_diff: 0.077676
+========
+sent: the lineup which produced their most well-known country and crossover hits ( such as '' elvira '' , '' bobbie sue '' , and '' american made '' ) consists of duane allen ( lead ) , joe bonsall ( tenor ) , william lee golden ( baritone ) , and richard sterban ( bass ) .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.093278
+========
+sent: ferguson also dons a mustache similar to ringo starr and plays bass left-handed just like paul mccartney .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.017610
+========
+sent: also , in the late 1930s and 1940s , country music became the dominant influence on cajun music , and bass and steel guitar were used .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.033783
+========
+sent: his distinctive fingerstyle playing often included playing , in effect , bass , rhythm , lead , percussion , and vocal , all at the same time .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.022418
+========
+sent: recording sessions were produced by reinhold mack at musicland studios in munich ( west germany ) and consisted of deacon playing almost all the instruments : bass , piano , rhythm and lead guitar and handclap percussion .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.003707
+========
+sent: ) the various lineups of the tympany five ( which often featured two or three extra players ) included bill jennings and carl hogan on guitar , renowned pianist-arrangers wild bill davis and bill doggett , '' shadow '' wilson and chris columbus on drums and dallas bartley on bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.012891
+========
+sent: he grew up in mississippi and rose to fame as the bass singer for the american pop boy band 'n sync .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.003499
+========
+sent: best known for his electric guitar skills , johnson is also a highly proficient acoustic , lap steel , resonator , and bass guitarist as well as an accomplished pianist and vocalist .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.021134
+========
+sent: he became proficient in piano , bass and guitar by the time he enrolled in tulsa 's will rogers high school .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.038624
+========
+sent: parry was replaced by guy rigby on bass for ... here 's tom with the weather ( 2003 ) .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.005023
+========
+sent: michael kelly guitars is an american guitar , bass and mandolin manufacturer , based in clearwater , florida .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.030171
+========
+sent: tom gray ( born february 1 , 1941 in chicago , illinois ) is a bluegrass music widely considered one of the best bass players in the genre .
+gold class: bass_double_bass
+pred class: bass_bass_(voice_type)
+sim_diff: 0.010032
+========
+sent: sveinung hovensjø ( born 5 december 1950 in lillehammer , norway ) is a norwegian jazz musician ( bass and guitar ) , known as one of the most used studio musicians in norway , and thus known from numerous recordings , but most of all from the collaboration with guitar legend terje rypdal ( 1974 -- 78 ) .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.036372
+========
+sent: the bass and drums enter after the first two lines .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.015355
+========
+sent: the bass vocal at the beginning of the song is performed by ray davis .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.047370
+========
+sent: performance in live performance ( starting around the release of siamese dream ) corgan would often improvise a speech during the extended bass break ; as a result the song could extend to 8 -- 10 minutes in length .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.005627
+========
+sent: ashdown peacemaker 20 guitar amplifier ashdown engineering is a british manufacturer of instrument amplifier , particularly for bass , and one range of guitar amps .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.023927
+========
+sent: her dulcimer skills were first showcased on blue and in particular the original recording of '' carey '' , which also features stephen stills ( of nash ) on bass and acoustic guitar .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.005505
+========
+sent: stainer 's violins are comparatively rare today and few of his viola , cello , and bass are known to exist .
+gold class: bass_double_bass
+pred class: bass_bass_(voice_type)
+sim_diff: 0.022162
+========
+sent: warren '' pete '' moore ( born november 19 , 1939 , detroit , michigan ) is an african american soul singer , record producer , and songwriter , notable as the bass singer for motown group the miracles from 1955 onwards , and is one of the group 's original members .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.016297
+========
+sent: the band 's current lineup includes claude morrison ( tenor ) , garth mosbaugh ( tenor ) , gavin hope ( baritone ) and tyrone gabriel ( bass ) .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.082128
+========
+sent: personnel john lennon vocal , acoustic rhythm guitar , 12-string guitar paul mccartney harmony vocal , bass , piano george harrison lead guitar ringo starr drums cover versions in 1973 blue ash no more , no less mercury records srm1-666 in 1976 , c.b . victoria recorded a version for his album '' dawning day '' in 1981 , nils lofgren included a version on his album night fades away .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.000021
+========
+sent: it was written by paul mccartney ( credited to lennon–mccartney ) and features him on lead vocal , guitar , and '' vocal bass '' .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.012252
+========
+sent: mxtabs.net was a music tablature website created in 1999 , offering free guitar , bass , and drum tablature created by users of the site , in addition to music reviews and instrument lessons .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.018823
+========
+sent: his bass and a backing piano produce a countermelody , with lennon 's guitar playing chords on the backbeat .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.024006
+========
+sent: he played bass part-time in lennon 's first band , the quarrymen , and was responsible for introducing lennon to paul mccartney at a community event ( the woolton village fête ) on 6 july 1957 , where the quarrymen were performing .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.013315
+========
+sent: combining guitar , fiddle , banjo , bass , mandola , trumpet and percussion , rusty shackle draw influences from bluegrass , folk , rock , celtic and old time blues .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.001616
+========
+sent: rdb ( an acronym for rhythm , dhol , bass ) is a band initially formed by three british sikh brothers in 1997 , whose style blends western genres with traditional punjabi beats and vocals .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.014019
+========
+sent: also unusual for a rock song , the bass does n't come in until the first chorus , and plays prominent alternating root / fifth quarter notes .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.026842
+========
+sent: bill wyman 's bass line is postponed until the second verse .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.022371
+========
+sent: it is intended primarily for a rhythm section ( usually consisting of piano , guitar , drums and bass ) .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.004366
+========
+sent: '' the instrument creates a wide array of sounds from mimicking a guitar and bass to massive percussive blows that often shut down public address systems during live performances .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.000520
+========
+sent: by his teens he was a songwriter and musician , learning instruments such as bass guitar , piano , as well as audio engineering .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.010319
+========
+sent: they were previously led by singer marc hunter and are currently led by his brother , bass player todd hunter .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.007214
+========
+sent: these sessions included john starling on guitar and lead vocals , mike auldridge on dobro and baritone vocals , and tom gray on bass .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.000509
+========
+sent: constructed around a synthesiser and bass arrangement , it was written about the importance of relationships .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.002653
+========
+sent: track listing ; bonus tracks ( 2005 reissue ) personnel roy wood -- lead and backing vocals , guitars , steel guitar , recorders , bass , clarinet , bassoon , tenor and baritone saxes .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.015424
+========
+sent: rick kemp ( born 15 november 1941 in little hanford , dorset ) is an english bass player , songwriter , vocalist and record producer , best known for his work with the pioneering electric folk band , steeleye span .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.009456
+========
+sent: when asked if he plays instruments , he modestly replies , '' just piano , guitar , trumpet , drums , and bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.016695
+========
+sent: ; personnel maciek pysz - acoustic and classical guitars yuri goloubev - bass asaf sirkis - drums and percussion ; reviews insight received universally favourable reviews .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.033987
+========
+sent: the album featured the first recording of dylan 's '' do n't think twice , it 's all right '' in 1971 happy once again joined dylan in the studio , playing guitar , banjo , bass , and singing harmony on three songs , which appeared on bob dylan 's greatest hits vol . ii .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.003719
+========
+sent: its instrumentation comes from bass , cello , contrabass , drums , guitar , piano , viola and violin .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.022491
+========
+sent: the a cappella group cantus also covered the song , with bass tom mcnichols singing the lead part .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.004489
+========
+sent: earl falconer ( born 23 january 1957 , birmingham , england ) is a british bass player and singer , currently working with the british reggae band , ub40 .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.011058
+========
+sent: the band is made up of stephen van kampen ( vocals , guitar ) , paul van kampen ( vocals , piano ) , dan wilson ( vocals , drums ) , brett gunther ( vocals , guitar ) , henry hsieh ( vocals , bass ) , and hoyee wong ( vocals , violin ) .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.045568
+========
+sent: musicians this john scofield album consists of john scofield , pat metheny , bill frisell ( guitar ) ; joe lovano , eddie harris ( tenor saxophone ) ; howard johnson ( tuba ) ; randy brecker ( trumpet ) ; charlie haden , dennis irwin , marc johnson ( bass ) ; don alias ( percussion ) ; joey baron , jack dejohnette , idris muhammad , bill stewart ( drums ) .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.032845
+========
+sent: this was a feature song at concerts for bass player berry oakley until his death in a motorcycle accident in 1972 .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.019312
+========
+sent: bassist pete sharpe had his first studio experience at 11 , recording an album on bass with jamaican artists .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.021031
+========
+sent: rouvas plays guitar , bass , piano , cello and some percussion .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.011210
+========
+sent: chris tarry ( born 24 august 1970 at swift current , saskatchewan ) is a new york city based , canadian electric bass player and writer .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.011776
+========
+sent: with similar style of using the saxophone and bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.051013
+========
+sent: members brian d. graham - co-leader , baritone sax john maclaine - co-leader , trombone chas lester - vocals , percussion , beat box megan jo wilson - vocals matthew day - trumpet matt lagarde - trumpet stephen smith - trumpet emma stanley - trumpet dave noyes - trombone jamie colpoys - trombone james hebert - trombone adam montminy - alto sax mat leighton - alto sax ben appel - tenor sax , clarinet , flute tyler card - tenor sax , soprano sax dave henault - drum set max cantlin - guitar adam frederick - bass emmett harrity - piano discography big band syndrome vol .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.026341
+========
+sent: effects are used during live performances or in the studio , typically with electric guitar , keyboard and bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.007949
+========
+sent: painter grew up in miami , and began playing trumpet , saxophone , bass , guitar and piano by age 11 .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.016788
+========
+sent: in big band music , the guitarist is considered part of the rhythm section , alongside bass and drums .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.016835
+========
+sent: on another episode , the lennon sisters performed the orlons ' '' the wah-watusi '' with bass singer larry hooper wearing a beatnik outfit .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.067537
+========
+sent: '' musical style and influences alternative tunings kim gordon walking over her bass during a 1991 performance in the netherlands sonic youth 's sound relied heavily on the use of alternative tunings .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.018959
+========
+sent: after stints as a session bass player in many different rock bands in the 1980s and early 1990s , followed by a degree from the academy of music in copenhagen , halfdan e collaborated with danish poet dan turèll on the crossover project '' pas på pengene '' , resulting in two cd recordings , which both won danish grammy award .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.011903
+========
+sent: personnel hank altman -- technical supervisor george butler -- executive producer stanley crouch -- liner notes jo di donato -- art direction steven epstein -- producer tim geelan -- engineer , mixing phil gitomer -- assistant engineer tim greelan -- engineer caroline greyshock -- photography robert hurst -- bass delfeayo marsalis -- mixing jason marsalis -- special edits wynton marsalis -- performer , trumpet wynton marsalis quartet -- performer j.b. matteotti -- assistant engineer marcus roberts -- piano jeff '' tain '' watts -- drums credits adapted from allmusic .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.001723
+========
+sent: at ten , after his family moved to houston , texas in 1962 , he switched to drums , then bass at 15 .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.019540
+========
+sent: he played bass for the latter group , replacing phil lesh during the sessions for their first album .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.010116
+========
+sent: this arrangement differed from the earlier recordings , featuring a roland cr-78 drum machine , violin and synthesizer , along with guitar , bass and conventional percussion ( predominantly tom-tom ) .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.002278
+========
+sent: the original quartet consisted of archie watkins , tenor ; ronnie hutchins , lead ; jack laws ; baritone , troy burns bass / later lead singer ; and martin cook on piano .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.073219
+========
+sent: gite moved to new orleans at age 11 and began playing bass at the age of 12 .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.023474
+========
+sent: he is the son of former pink floyd bass player and lyricist roger waters and his second wife lady carolyne christie , the niece of the 3rd marquess of zetland .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.000928
+========
+sent: the record is notable for featuring michael angelo batio on bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.007540
+========
+sent: currently the band 's lineup is jonathan love ( tenor ) , chris herard ( tenor ) , ken lima-coelho ( tenor ) , and cédric blary ( bass ) .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.086822
+========
+sent: cleartone is marketed under various fretted instrument categories , including electric guitar , acoustic guitar , bass and mandolin .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.029515
+========
+sent: the softly sung verses are accompanied by vibraphone and bass ; the choruses are louder , harder , and are accompanied by the whole band .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.027158
+========
+sent: members mike andes -- mandolin / vocals mitchell davis -- banjo / vocals chris sexton -- fiddle / vocals tony shorter -- bass / vocals jesse smathers -- guitar / vocals reviews , articles , notices '' nothin ' fancy bluegrass festival kicks off sept. 25 for 3 day run '' by travis tackett , september 10 , 2008 .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.038147
+========
+sent: glen kimberlin is a session musician and songwriter based in nashville , tennessee who plays bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.003518
+========
+sent: he was a bass player in the grand ole opry before he was hired , in 1953 , to listen to new songs in a new business started by jack stapp , the manager of the grand ole opry .
+gold class: bass_bass_guitar
+pred class: bass_bass_(voice_type)
+sim_diff: 0.059272
+========
+sent: bass and percussion usually round out the essentials for a bar-touring band , but a piano , baritone guitar , banjo , fiddle or harmonica on studio recordings ( or in larger shows ) are the norm for the genre .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.036126
+========
+sent: background and recording on its intro , it features a piano , and the bass played by maurice , and the bill shepherd 's orchestra , this song has a plenty of maurice 's instrumentals and harmony vocal .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.023787
+========
+sent: the first six minutes of the song are dominated by a memorable , '' endless , droning minor key riff '' , a guitar and bass ostinato .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.009007
+========
+sent: supporting instruments include the piano , bass , drum set , tubular bell , and electric guitar .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.000996
+========
+sent: she plays piano , guitar , and bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.016851
+========
+sent: los van van is the most recognized post-revolution cuban musical group , led for many years by bass juan formell until almost his death in 2014 .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.032108
+========
+sent: steve rodby ( born december 9 , 1954 in joliet , illinois ) is an american bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.046765
+========
+sent: already influenced by the psychedelic-pop of pink floyd and king crimson , he took up the bass by age 14 .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.005193
+========
+sent: his performances feature cheerleader/go-go dancer bamboorella and a mixture of instrumentation including , but not limited to : keyboard , baritone saxophone , guitar , bass , and drums .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.004192
+========
+sent: jesse murphy is a new york city-based bass player .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.005483
+========
+sent: pynn 's debut solo cd in mirrored sky ( 1995 ) is a collection of autumnal pieces , and features bass player herbie flowers and adrian oxaal of james on cello .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.030967
+========
+sent: it consists of piano , bass , trombone , conga drum , bongo drum , timbales flute and vocal .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.042285
+========
+sent: it begins with an ominous techno beat ( removed on the remaster ) and disco bass line .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.000147
+========
+sent: the song is based around a synthesizer and bass arrangement and was written about the importance and meaningfulness that somebody shares with another , despite that it might not necessarily last .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.005026
+========
+sent: he processes the sounds of fretted and fretless electric bass in real time , creating multi-level soundscapes .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.036031
+========
+sent: '' elliott smith - coomes played bass on the 2000 album figure 8 on the songs '' stupidity tries , '' '' in the lost and found ( honky bach ) , '' and '' pretty mary k '' .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.000134
+========
+sent: since the 1990s , ferris has been the bass player and co-writer for the british blues trio , smokestack , who were invited to guest for a live session on the paul jones blues program on bbc radio 2 in 1999 .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.013548
+========
+sent: this consisted of 3 saxes/clarinets , 2 trumpets , a trombone , piano , bass and drums .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.060514
+========
+sent: backed by a '' heavy '' bass and synthesizer , it is an uptempo eurodance and dance-pop track .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.004030
+========
+sent: the blue moon boys were a band formed by elvis presley , guitar scotty moore and bass bill black .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.003184
+========
+sent: at fifteen , he started on the bass , which led him to appear with different bands on the côte d'azur .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.012836
+========
+sent: during musical numbers , the performer playing tom sings bass .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.008488
+========
+sent: michael joseph porcaro ( born may 29 , 1955 ) is an american bass player .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.041310
+========
+sent: for the recording of the song , johnny cash was backed by '' the tennessee two '' , luther perkins on guitar and marshall grant on bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.018650
+========
+sent: primarily a pianist , he also plays other keyboards ( organ and synthesizer ) as well as bass , guitar , and percussion .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.004619
+========
+sent: '' on recordings his instruments have included guitar , keyboard , accordion , bass , autoharp , dulcimer , synths , and mandolin among others .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.019122
+========
+sent: zahler eventually changes over from his position as lead guitarist to playing the bass , due to the fact he normally plays lower parts regardless and his fingers are suited for the larger instrument .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.010423
+========
+sent: zombie band - an accordion , bass , and saxophone zombie players .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.004028
+========
+sent: russ savakus is an american session bass player ( both electric and stand-up ) , violin and singer .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.021371
+========
+sent: track listing personnel sarah vaughan - vocals lester young - tenor saxophone shorty mcconnell - trumpet sadik hakim , sammy benskin - ( piano ) freddie lacey - guitar rodney richardson - bass roy haynes - drums references sources gridley , mark c. jazz styles : history & analysis .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.003348
+========
+sent: other original members included heidi puckett ( bass ) and jeff grubic ( tenor sax ) .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.021172
+========
+sent: cameroon jazz composer andre manga plays bass , and south africa guitarist ray phiri , who also collaborated on graceland , plays on much of the album , while famed trumpeter and worldbeat bandleader hugh masekela is credited with playing flugelhorn on one song .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.029901
+========
+sent: common instruments in contemporary sertanejo are the acoustic guitar , which often replaces the viola , the accordion and the harmonica , as well as electric guitar , bass and drums .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.003249
+========
+sent: interplay ( ajd72226 ) ; released in 2004 on azica records ; featured john lockwood on bass and yoron israel on drums .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.004690
+========
+sent: encounterpoint ( wcs 042 ) ; released in 2008 on whaling city sound ; featured zé eduardo nazario on drums , john lockwood on bass , and koichi sato on keyboards .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.028907
+========
+sent: hi fly ( wcs 054 ) ; released in 2011 on whaling city sound ; featured zé eduardo nazario on drums , john lockwood on bass , and jake sherman on keyboards .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.030517
+========
+sent: emotion ( wcs 066 ) ; released in 2014 on whaling city sound ; featured matias mingote german on drums , john lockwood on bass , evan harlan on accordion , and rebecca kleinmann on flutes .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.007690
+========
+sent: the founding members were corrado '' connie '' codarini , bass ( died april 28 , 2010 ) ; john bernard '' bernie '' toorish ( born march 2 , 1931 ) , tenor ; james f. '' jimmy '' arnold ( january 4 , 1932 -- june 15 , 2004 ) , lead ; and frank busseri , baritone and group manager .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.001802
+========
+sent: in 2006 he recorded his fourth album , '' amen '' , under the israeli label '' hatav hashmini '' , with omer avital on bass , daniel friedman on drums and omri mor on piano .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.016666
+========
+sent: it features very fast-paced , rhythm and blues-based rock 'n ' roll with high levels of distortion in the guitar and , in some cases , the bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.013094
+========
+sent: tony saunders is an american bass player and synthesizer player in the genres of jazz , gospel , r & b , pop and world music .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.035862
+========
+sent: the moody blues released one album with warwick on bass , go now - the moody blues # 1 ( usa release on london records ) a.k.a. the magnificent moodies on decca in the uk , with sleeve notes by donovan .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.037511
+========
+sent: jimmy abegg : guitar , bass , mandolin , hambone .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.001531
+========
+sent: a serious musician , he has composed over 150 songs and plays the guitar and bass professionally .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.009087
+========
+sent: after leaving lawrence sheriff school at the age of 16 , he went to work in a sheet metal factory in birmingham , and it was then he began to teach himself to play bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.023273
+========
+sent: besides trumpet , cooke plays other brass instruments , including the french horn , and occasionally plays electric guitar and bass live .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.018716
+========
+sent: '' track listing personnel art pepper alto saxophone , tenor saxophone , clarinet pete candoli trumpet al porcino trumpet jack sheldon trumpet dick nash trombone bob enevoldsen valve trombone , tenor saxophone vince derosa french horn herb geller alto saxophone bud shank alto saxophone charlie kennedy alto saxophone bill perkins tenor saxophone richie kamuca tenor saxophone med flory baritone saxophone russ freeman piano joe mondragon bass mel lewis drums marty paich arranger , conductor references sources art pepper & laurie pepper .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.018589
+========
+sent: a solid-body musical instrument is a string instrument such as a guitar , bass or violin built without its normal sound box and relying on an electric pickup system to directly receive the vibrations of the strings .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.031056
+========
+sent: the opening chords are whole notes played on electric guitar and bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.017592
+========
+sent: iggy pop wrote the tune with david bowie , and tony sales plays bass on the record .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.000182
+========
+sent: it is based around four repeating barre chords of a minor , b-flat major , e minor and f major , played on electric guitar , to create a trance-like , hypnotic and spacious atmosphere , while the bass is played rhythm to fill in the guitar spaces .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.011931
+========
+sent: educated at the langley school of fine arts and mcgill university , montreal , he was inspired to play guitar , bass , keyboards , piano and drums before becoming a top clarinet player .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.008373
+========
+sent: track listing all compositions by maciek pysz except track 3 , amici , which is by maciek pysz and gianluca corona personnel maciek pysz - acoustic and classical guitars yuri goloubev - bass asaf sirkis - drums and percussion reception insight received universally favourable reviews .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.032252
+========
+sent: bass josh ansley , saxophonist ryan eldred , and trombonist james egan , who was also kevin gunther 's first music teacher , rounded out the original lineup .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.027333
+========
+sent: ovation has also produced solid-body electric&nbsp;guitar and active bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.024963
+========
+sent: called an '' early example of psychedelic pop '' , it is built around a mock - gregorian chant , with producer gomelsky adding the droning bass vocal under keith relf 's melody line .
+gold class: bass_bass_(voice_type)
+pred class: bass_bass_guitar
+sim_diff: 0.081253
+========
+sent: at the age of eleven , he began teaching himself guitar and bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.030289
+========
+sent: the membership varied over the years , but the most famous line-up comprising john bieling ( first tenor ) , billy murray ( second tenor ) , steve porter ( baritone ) , and william f. hooley ( bass ) recorded for the victor talking machine company from 1909 to 1913 .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.021494
+========
+sent: an evening with the allman brothers band : first set was the first live allman brothers band album , and the third overall , to feature warren haynes on guitar and allen woody on bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.015586
+========
+sent: he was nearly always backed by percussion ; depending on the song , he also recorded with guitar legends , les paul and chet atkins ; bass ; a backup chorus ; strings ; horns such as saxophone , trombone , trumpet ; and even the banjo .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.031960
+========
+sent: bruce abel is an american bass player .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.036410
+========
+sent: in 1987 , he created the '' johnny michto '' band , that combines moroccan berber rhythm with the electric buzuq , bass , clarinet and bagpipes - an attempt to give the public an alternative choice to other numerous rock formations by combining the individual , group members own backgrounds .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.021913
+========
+sent: the song follows a basic musical formula with bass and drums centering on newman 's catchy pop piano line in the key of a major .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.000279
+========
+sent: musicians harry connick jr . -- piano , vocals branford marsalis -- tenor sax , soprano sax russell malone -- guitar benjamin jonah wolfe -- bass shannon powell -- drums cheers episode connick guest starred as russell boyd , in the season 10 episode of cheers , '' a diminished rebecca with a suspended cliff '' .
+gold class: bass_double_bass
+pred class: bass_bass_guitar
+sim_diff: 0.001672
+========
+sent: lester 's work on that first lightnin ' slim session led the producer , jay miller , to record lester 's solo and also to use him as a multi-instrumentalist on percussion , guitar , bass , and harmonica on sessions headlined by other miller-produced artists including , notably , slim harpo .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.010845
+========
+sent: lisa pifer aka : lisafer ( born 1967 ) is an american bass player and song writer from los angeles .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.006419
+========
+sent: william ` bill ' church ( born 9 december 1946 ) started out playing bass in a band called sawbuck in 1969 , with mojo collins , starr donaldson , ronnie montrose and chuck ruff .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.005982
+========
+sent: personnel george ` wydell ' jones -- lead vocals ( died september 27 , 2008 ) larry green -- first tenor james reynolds -- second tenor harry green -- baritone marshall sewell -- bass ( died june 4 , 2013 ) influence of the song '' rama lama ding dong '' a cover version of the song was performed on the muppet show once : in episode 89 ( or season 4 , episode 17 ) , the episode that also had mark hamill , c-3po , r2-d2 and chewbacca from star wars as guests , a shepherd , his sheep and his girl perform the song .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.093559
+========
+sent: david foster : keyboards ; tom keane : keyboards & synthesizer programming ; michael landau : guitars ; randy jackson : bass on track 5 .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.001671
+========
+sent: unable to gain a key to the nearby capricorn sound studios , the duo broke in and recorded a quick demo with twiggs lyndon on bass and johnson on congas .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.005430
+========
+sent: typically , jones also played bass in the studio , rather than suffer the ineptitude of the band 's official bassist , sid vicious .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.005770
+========
+sent: robert '' polaco '' zelazeck -- bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.020062
+========
+sent: juantxu olano : bass .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.045876
+========
+sent: feri is a bass , working with guitarist dean sim , pianist timothy toh , and singer irma seleman .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.040509
+========
+sent: at the end of the 1970s he performed in the theatre play dragiša , život je čudna stvar ( dragiša , life is a strange thing ) , playing bass , directed by conceptual art kosta bunuševac .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.003097
+========
+sent: track listing personnel musicians bucky pizzarelli guitar russ kassoff piano jerry bruno bass john pizzarelli guitar , vocals richard ables a & r support bernard brightman executive producer bill farrar liner notes gary pozner engineer reception writing two decades after the album 's release , scott yanow of allmusic commented that pizzarelli '' never had a strong voice , but his charm and likable personality usually overcame his vocal shortcomings '' ' .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.003117
+========
+sent: spaulding 's father , james , is playing guitar ; his older brother , james spaulding jr. , is playing saxophone ; the bass - player figure represents larry ridley ; freddie hubbard is on trumpet ; and '' killer '' ray appleton is on the drums .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.028329
+========
+sent: la década prodigiosa came up in 1985 as a project directed by javier de juan ( drums ) , manel santisteban ( piano ) and manuel aguilar ( bass ) to produce an album of medleys of popular spanish songs from the sixties .
+gold class: bass_bass_guitar
+pred class: bass_double_bass
+sim_diff: 0.013668
+========
+sent: on the bridge , franklin , the group 's bass , is in the role of another potential beau that decides to ask the woman if he could be her man .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.013414
+========
+sent: career the group was formed in 1943 , with an original membership of gene alford ( lead tenor ) , oscar broadway ( bass ) , clarence dixon ( baritone ) , and john wallace ( tenor , guitar ) .
+gold class: bass_bass_(voice_type)
+pred class: bass_double_bass
+sim_diff: 0.084049
+========

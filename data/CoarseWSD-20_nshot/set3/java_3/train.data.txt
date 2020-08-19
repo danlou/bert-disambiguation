@@ -1,0 +1,6 @@
+25	10 -- 15th century many chinese merchants chose to settle down in the southeast asian ports such as champa , cambodia , sumatra , and java , and married the native women .
+16	in the indonesia archipelago , t. helena is found in sumatra , nias , enggano , java , bawean , kangean islands , bali , lombok , sumbawa , great natuna ( bunguran ) , sulawesi , butung , tukangbesi , kalimantan and brunei .
+7	it was named after the island of java .
+45	morfik technology pty ltd. , an australia company , is the developer of morfik , a set of visual designers , compilers and a framework combined in an integrated development environment ( ide ) aimed at developing ajax applications in a high-level language such as java , c# , basic or object pascal .
+17	first , the languages that do not support anonymous functions c , pascal , object pascal , java are all conventional statically typed languages .
+5	architecture idempiere consists of a java server ( based on an apache tomcat container ) with a zk web gui .

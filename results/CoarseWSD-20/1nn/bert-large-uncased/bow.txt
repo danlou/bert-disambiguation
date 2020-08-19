@@ -1,0 +1,50 @@
+sent: jpg bow of the mikasa image : general togo heihachiroh .
+gold class: bow_bow_(ship)
+pred class: bow_bow_(music)
+sim_diff: 0.108911
+========
+sent: these included the woomera and boomerang in australia , and the bow in some parts of melanesia and polynesia .
+gold class: bow_bow_and_arrow
+pred class: bow_bow_(music)
+sim_diff: 0.006295
+========
+sent: energy bows are variants of the standard bow .
+gold class: bow_bow_and_arrow
+pred class: bow_bow_(music)
+sim_diff: 0.002332
+========
+sent: this terrifies them even more , and they crouch in the bow to hide from it .
+gold class: bow_bow_(ship)
+pred class: bow_bow_and_arrow
+sim_diff: 0.008544
+========
+sent: ; ( ; , ) a bow type armament used by malfa volekaya of svet russia .
+gold class: bow_bow_and_arrow
+pred class: bow_bow_(ship)
+sim_diff: 0.171043
+========
+sent: the number of laps and target sizes depend on age and bow type .
+gold class: bow_bow_and_arrow
+pred class: bow_bow_(music)
+sim_diff: 0.031351
+========
+sent: the bow was manufactured in increasingly larger and more powerful versions to increase both the weapon range and armor penetration performance .
+gold class: bow_bow_and_arrow
+pred class: bow_bow_(ship)
+sim_diff: 0.131658
+========
+sent: straight-grained osage timber ( most is knotty and twisted ) makes very good bow .
+gold class: bow_bow_and_arrow
+pred class: bow_bow_(music)
+sim_diff: 0.020296
+========
+sent: līndəi literally means '' bow '' in pashto .
+gold class: bow_bow_and_arrow
+pred class: bow_bow_(music)
+sim_diff: 0.009608
+========
+sent: operation kaman 99 ( operation bow 99 ) was an operation launched by the islamic republic of iran air force in retaliation to iraqi surprise aerial attacks on iran the day before which marked the beginning of the 8-year-long iran–iraq war .
+gold class: bow_bow_and_arrow
+pred class: bow_bow_(music)
+sim_diff: 0.009333
+========

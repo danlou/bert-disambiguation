@@ -1,0 +1,1 @@
+{"0": "pound_pound_(mass)", "1": "pound_pound_(currency)"}

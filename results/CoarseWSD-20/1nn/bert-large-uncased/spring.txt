@@ -1,0 +1,50 @@
+sent: distribution the present genus occurs in spring , and sometimes cave or groundwater , from catalonia across central europe to the aegean region of turkey .
+gold class: spring_spring_(hydrology)
+pred class: spring_spring_(season)
+sim_diff: 0.025939
+========
+sent: stewart often makes fun of his appearances in the high-profile flop death to smoochy , in which he played a treacherous television executive , and the animated film doogal , where he played a blue spring named zeebad who shot a freeze ray from his mustache .
+gold class: spring_spring_(device)
+pred class: spring_spring_(hydrology)
+sim_diff: 0.052230
+========
+sent: spring , rivers , lakes and oases occur when the water table reaches the surface .
+gold class: spring_spring_(hydrology)
+pred class: spring_spring_(season)
+sim_diff: 0.032408
+========
+sent: the industry of the town is represented by the spring factory zavod za pruzhini ad , founded in 1974 as part of the kazanlak-based arsenal ad firearms manufacturing company .
+gold class: spring_spring_(device)
+pred class: spring_spring_(hydrology)
+sim_diff: 0.023127
+========
+sent: vernon is a surname , from a masculine name that is derived from the gaul word vern for alder tree ( also spring , flourishing , or full of life ) and a gaulish - latin suffix indicating a location .
+gold class: spring_spring_(hydrology)
+pred class: spring_spring_(season)
+sim_diff: 0.027657
+========
+sent: it is found in temperate climates from warm-temperate to tropical , where the moisture content is high but not saturating , in the moist , well-drained sand , loam or limestone many habitat , including rainforests , shrub and woodlands , broadleaf and coniferous forests , and desert cliff seep , and spring .
+gold class: spring_spring_(hydrology)
+pred class: spring_spring_(season)
+sim_diff: 0.078009
+========
+sent: he recorded songs for the tv show '' podijum '' ( '' the stage '' ) , for the '' kako je propao rokenrol '' ( '' the fall of rock 'n ' roll '' ) omnibus movie , divljan recorded soundtrack for the '' do izvora dva putića '' ( '' two paths to the spring '' ) section directed by zoran pez .
+gold class: spring_spring_(hydrology)
+pred class: spring_spring_(season)
+sim_diff: 0.052676
+========
+sent: drangey has for ages been a harbinger of spring for the local residents .
+gold class: spring_spring_(season)
+pred class: spring_spring_(hydrology)
+sim_diff: 0.001511
+========
+sent: about located in the shemiran area in the northernmost part of tehran , on the slopes of the alborz mountain range , valenjak is known for its beautiful landscape , mild climate , fresh mountain air , spring , and wildlife .
+gold class: spring_spring_(hydrology)
+pred class: spring_spring_(season)
+sim_diff: 0.000221
+========
+sent: after the death of his mother , he comes face to face with a spring that turns him white ( paulo josé ) .
+gold class: spring_spring_(season)
+pred class: spring_spring_(hydrology)
+sim_diff: 0.069885
+========

@@ -1,0 +1,3 @@
+22	the game follows a rock-paper-scissors mechanism in which axe beat lance , lances beat sword , and swords beat axes ; the bow in the game is not a part of any weapon triangle , but is especially effective against flying units .
+14	when at anchor or alongside , it is flown from the jackstaff at the bow of the ship .
+11	it is bowed with either a notched stick or a horsehair bow .

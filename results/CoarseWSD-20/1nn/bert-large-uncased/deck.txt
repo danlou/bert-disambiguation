@@ -1,0 +1,40 @@
+sent: her deck was thick .
+gold class: deck_deck_(ship)
+pred class: deck_deck_(building)
+sim_diff: 0.001626
+========
+sent: it consisted of two deck .
+gold class: deck_deck_(ship)
+pred class: deck_deck_(building)
+sim_diff: 0.025562
+========
+sent: she had a curved protective deck that was thick on the slope and on the flat .
+gold class: deck_deck_(ship)
+pred class: deck_deck_(building)
+sim_diff: 0.008304
+========
+sent: native hawaiian used the wood to make pola , the deck on a wa a kaulua ( double-hulled canoe ) .
+gold class: deck_deck_(ship)
+pred class: deck_deck_(building)
+sim_diff: 0.018806
+========
+sent: the group is known as '' ark shells '' because species such as arca have a large flat area between the umbones which , in an undamaged shell , somewhat resembles a deck , with the rest of the shell perhaps illustrating an ancient wooden boat such as noah 's ark is thought to have been .
+gold class: deck_deck_(ship)
+pred class: deck_deck_(building)
+sim_diff: 0.042094
+========
+sent: so grace and her parents ran out as they were , and they finally got out on the deck .
+gold class: deck_deck_(ship)
+pred class: deck_deck_(building)
+sim_diff: 0.097010
+========
+sent: the deck was three inches of yellow pine beneath of wrought iron .
+gold class: deck_deck_(ship)
+pred class: deck_deck_(building)
+sim_diff: 0.107582
+========
+sent: if chengal is used as a boat deck , it is extremely durable and requires very little maintenance .
+gold class: deck_deck_(ship)
+pred class: deck_deck_(building)
+sim_diff: 0.052673
+========

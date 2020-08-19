@@ -1,0 +1,20 @@
+21	it is designed to be used on systems with at least 8 mb of ram , and can work on linux arm , powerpc , or mips architecture .
+21	if written in some '' high-level '' languages , apps written for windows runtime can be compatible with both intel and arm versions of windows , otherwise they are not binary code compatible .
+12	choices has been ported to and runs on sparc , x86 and arm .
+12	devices the first commercial device to use a pixel qi display , arm - based adam tablet by notion ink , was released mid-january 2011 .
+4	some such as the arm with thumb-extension have mixed variable encoding , that is two fixed , usually 32-bit and 16-bit encodings , where instructions can not be mixed freely but must be switched between on a branch ( or exception boundary in armv8 ) .
+60	stephen byram '' steve '' furber cbe , frs , freng ( born 21 march 1953 ) is the icl professor of computer engineering at the school of computer science at the university of manchester and is probably best known for his work at acorn computers , where he was one of the designers of the bbc micro and the arm 32-bit risc microprocessor .
+0	arm and powerpc architectures are also supported .
+26	xtratum is a bare-metal hypervisor specially designed for embedded real-time systems available for the instruction set x86 , leon2 and leon3 ( sparc v8 ) , arm cortex-r4f processors .
+3	eka2 runs on arm cpus and the '' wins '' emulator .
+12	reception the older , original surface and surface 2 , with their arm - based processors and windows rt operating system , are pitched against the ipad and other tablet computer .
+11	gafner focuses on her chest , shoulders , back , and arm in order to bring up her upper body to match her strong legs ( brainum , 224 ) .
+16	sweating is an essential function that helps the body stay cool and commonly occurs under the arm , on the feet , and on the palms of the hands .
+19	the infant 's head size and spontaneous reflexes such as sucking , swallowing , crying , and moving the arm and leg may all seem normal , depending on the severity of the condition .
+6	in 1900 he lost his left arm when he fired a cannon .
+15	in relation to the elbow , a concentric contraction of the biceps would cause the arm to bend at the elbow as the hand moved from the leg to the shoulder ( a biceps curl ) .
+35	after a chapter on evolution , the following 22 chapters are dedicated respectively to : hair , brow , ear , eye , nose , cheek , lip , mouth , neck , shoulder , arm , hand , breast , waist , hip , belly , back , pubic hair , genital , buttock , legs , and feet .
+0	arm buds and a tail are visible .
+18	the reverse prayer position , a technique used in bdsm play , involves restraint of a person 's arm by binding them behind the person 's back , with the hands placed between the shoulders , with the fingers of both hands straight , extended , and the palms of the hands touching each other .
+15	in scouring wool clothing , blanket or coarse linen , when the strength of the arm and manual friction are found insufficient , highland women put them in a tub with a prop -- or quantity of water , then , with petticoat tucked up , they commence the operation of posting , which they continue until every part of the clothes receives an effectual cleansing .
+17	the flexing and stretching in bowling works tendon , joint , ligament , and muscle in the arm and promotes weight loss .

@@ -1,0 +1,15 @@
+sent: miss leaf ( performed by susan beattie ) - miss leaf is a mole who came into mopatop 's shop in '' the seed '' looking for a plant only to learn that mr. seed had already bought the last one .
+gold class: mole_mole_(animal)
+pred class: mole_mole_(espionage)
+sim_diff: 0.046165
+========
+sent: assisted by the mole journalist pup schoonagliffen ( mennus in disguise ) , hermux infiltrates mennus ' clinic , but is himself captured ; whereupon mennus places hermux and linka in a mousetrap to die .
+gold class: mole_mole_(animal)
+pred class: mole_mole_(espionage)
+sim_diff: 0.099395
+========
+sent: this fact generated a shift in the opinion of certain sectors of real madrid 's fans , who gave casillas the nickname '' topor '' ( a portmanteau of '' topo '' , and '' portero '' , spanish for '' mole '' and '' goalkeeper '' , respectively ) .
+gold class: mole_mole_(espionage)
+pred class: mole_mole_(animal)
+sim_diff: 0.118624
+========

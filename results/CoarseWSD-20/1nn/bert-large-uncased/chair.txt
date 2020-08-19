@@ -1,0 +1,25 @@
+sent: opening a business day paragraph 1 ( a ) states that after the presiding officer has taken the chair , after the chaplain's prayer , and after the presiding officer , or a senator designated by the presiding officer , leads the senate from the dais in reciting the pledge of allegiance , and a quorum being present , the senate journal of the preceding day shall be read unless by non-debatable motion the reading shall be waived , the question being , '' shall the journal stand approved to date ?
+gold class: chair_chairman
+pred class: chair_chair
+sim_diff: 0.045118
+========
+sent: from 1969 to 1973 he served as lecturer of the chair of general history at tartu state university .
+gold class: chair_chair
+pred class: chair_chairman
+sim_diff: 0.070139
+========
+sent: ( doctorate in theology ) 1908 to 1911 privatdozent at the university of vienna 1911 to 1932 professor and ( from 1913 chair for new testament exegesis 1928 to 1929 rector of the university of vienna 1929 to 1930 minister of social affairs in the third government of chancellor johann schober 1932 archbishop of vienna 1933 cardinal , founded the cathedral and diocesan museum of vienna political activity and assessment the anschluss innitzer 's role in early 20th century austria history remains disputed , because of his involvement in politics .
+gold class: chair_chair
+pred class: chair_chairman
+sim_diff: 0.092634
+========
+sent: posthumously leiden university established the cleveringa chair , occupied each year for one year by the appointed cleveringa professor , who holds the annual cleveringa lecture around 26 november .
+gold class: chair_chair
+pred class: chair_chairman
+sim_diff: 0.050948
+========
+sent: in the 2005/2006 academic year , leiden university appointed fresco as its cleveringa chair , and in 2006 she was selected to deliver the rabobank duisenberg lecture at the annual wb/imf meeting in singapore .
+gold class: chair_chair
+pred class: chair_chairman
+sim_diff: 0.113120
+========

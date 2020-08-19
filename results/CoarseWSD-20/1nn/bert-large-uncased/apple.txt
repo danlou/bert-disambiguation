@@ -1,0 +1,40 @@
+sent: in versions other than the commodore 64 version , a variety of power-up are available , including ecstasy tablets ( for a turn of speed ) , spliff ( to fly over life 's troubles ) and apple ( because they 're good for you ) .
+gold class: apple_apple
+pred class: apple_apple_inc.
+sim_diff: 0.054913
+========
+sent: they typically feature solid colors of red , white , black , or gray , and have been described as '' stylish '' and as '' apple of the sex toy industry .
+gold class: apple_apple_inc.
+pred class: apple_apple
+sim_diff: 0.012682
+========
+sent: in the process , they dropped the apple from their logo .
+gold class: apple_apple
+pred class: apple_apple_inc.
+sim_diff: 0.008383
+========
+sent: as jobs would later comment , '' if it had n't been for the blue boxes , there would n't have been an apple '' .
+gold class: apple_apple_inc.
+pred class: apple_apple
+sim_diff: 0.056098
+========
+sent: alar was first approved for use in the u.s. in 1963 , it was primarily used on apple until 1989 when it was voluntarily withdrawn by the manufacturer after the u.s. environmental protection agency proposed banning it based on concerns about cancer risks to consumers .
+gold class: apple_apple
+pred class: apple_apple_inc.
+sim_diff: 0.013698
+========
+sent: on september 9 , 2014 , apple announced the iphone 6 and iphone 6 plus which supports hevc/h .265 for facetime over cellular .
+gold class: apple_apple
+pred class: apple_apple_inc.
+sim_diff: 0.220643
+========
+sent: first seen in : chuck versus tom sawyer lester patel ( vik sahay ) is a member of the nerd herd who specializes in apple products and is regularly scheming with jeff .
+gold class: apple_apple_inc.
+pred class: apple_apple
+sim_diff: 0.021832
+========
+sent: the page for an apple would contain , in addition to standard text information , some machine-readable or at least machine-intuitable semantic data .
+gold class: apple_apple
+pred class: apple_apple_inc.
+sim_diff: 0.021393
+========

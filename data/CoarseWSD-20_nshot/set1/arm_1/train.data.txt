@@ -1,0 +1,2 @@
+0	arm and powerpc architectures are also supported .
+0	arm buds and a tail are visible .

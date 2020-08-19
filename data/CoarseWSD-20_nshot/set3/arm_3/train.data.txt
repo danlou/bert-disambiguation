@@ -1,0 +1,6 @@
+7	most companies developing software with vrtx use arm , mips , powerpc or other risc microprocessor .
+26	his website closed , and it remains to be seen if he will continue work on nulldc or if he will release source code related to arm and powerpc devices .
+12	simics can simulate systems such as alpha , x86-64 , ia-64 , arm , mips ( 32 - and 64-bit ) , msp430 , powerpc ( 32 - and 64-bit ) , power , sparc-v8 and v9 , and x86 cpus .
+10	a scooter is useful for persons without the stamina or arm / shoulder flexibility necessary to use a manual wheelchair .
+24	sccs usually occur on portions of the body commonly exposed to the sun ; the face , ears , neck , hand , or arm .
+26	technique although the name implies that the paint is applied with the fingers , expert use of this medium makes use of the hand and lower arm too .

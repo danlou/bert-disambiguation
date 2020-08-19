@@ -1,0 +1,60 @@
+11	the international ` gt-i9000 ' reference version features a 1 ghz arm '' hummingbird '' processor , a powervr graphics processor , 8 or 16 gb of internal flash memory , a 480 × 800 pixel super amoled capacitive touchscreen display , wi-fi connectivity , a 5 - megapixel primary camera and a 0.3-megapixel secondary front-facing camera .
+15	) the tegra system-on-a-chip ( soc ) integrates eight specialized processors , including a multi-core arm cpu , a gpu , and dedicated audio , video and image processors .
+66	the ultrabook would be a thin ( less than 0.8 inches thick ) notebook that utilized intel processors , and would emphasize portability and a longer battery life than other laptops by this marketing initiative and an associated $ 300 million fund , intel hoped to influence the slumping pc market against rising competition from smartphone and tablet computer , which are typically powered by competing arm - based processors .
+3	eka2 runs on arm cpus and the '' wins '' emulator .
+6	non-x86 pc/104 cpu boards based on arm or powerpc are also commercially available .
+18	a list of the currently known to work unix versions are found below : linux on i386 , arm , powerpc , sparc and x86-64 cpus freebsd 7 .
+11	ecos runs on a wide variety of hardware platforms , including arm , calmrisc , fr-v , hitachi h8 , ia-32 , motorola 68000 , matsushita am3x , mips , nec v8xx , nios ii , powerpc , sparc , and superh .
+12	simics can simulate systems such as alpha , x86-64 , ia-64 , arm , mips ( 32 - and 64-bit ) , msp430 , powerpc ( 32 - and 64-bit ) , power , sparc-v8 and v9 , and x86 cpus .
+16	additionally , there are powerpc ports for mac os x and linux , and a 32-bit arm port for linux .
+10	the at sign ( @ ) is used on the arm platform .
+11	linkstation linkstation hg the linkstation is a powerpc , mips or arm based network attached storage appliance sold in north america , europe and japan , that is significantly notable among the linux community both in japan and in the us/europe for being '' hackable '' into a generic linux appliance and made to do tasks other than the file storage task for which it was designed .
+57	given three machines a , b , and c , one uses machine a ( e.g. running windows xp on an ia-32 processor ) to build a cross compiler that runs on machine b ( e.g. running mac os x on an x86-64 processor ) to create executables for machine c ( e.g. running android on an arm processor ) .
+6	most players use texas instruments tms320da25x arm plus digital signal processor as their cpu and support some version of creative 's environmental audio extensions ( eax ) .
+2	support for arm v7a and v8a virtualization extensions came with xen 4.3 .
+18	os-9000 has also been ported to the powerpc , mips , some versions of advanced risc machines ' arm processor , and some of the hitachi sh family of processors .
+20	arkos is a linux distribution based on arch linux , designed primarily for hosting web sites and services on cheap arm - based devices such as raspberry pi , cubieboard 2 , cubietruck or beaglebone black , with plans to expand to other platforms such as x86 .
+30	hardware support chrome os is initially intended for secondary devices like netbooks , not as a user 's primary pc , and will run on hardware incorporating an x86 or arm - based processor .
+10	this includes kinetis , coldfire , powerpc , arc , arm , strongarm , xscale cpus .
+8	amulet is a series of microprocessors implementing the arm processor architecture .
+7	most companies developing software with vrtx use arm , mips , powerpc or other risc microprocessor .
+5	the compiler supports powerpc , arm , mips , sh , coldfire , tricore , intel , and more architectures .
+26	today , os-9 is a product name used by both a motorola 68000 - series machine language os and a portable ( powerpc , x86 , arm , mips , sh4 , etc. ) version written in c , originally known as os-9000 .
+5	early minimo development centered around arm devices ( such as hewlett-packard 's ipaq ) with around 64 mb of ram , running familiar linux and the gpe palmtop environment ( where it is was the default browser ) .
+20	ports atmel : avr ( atmega , atxmega ) ( atmega328p , atmega644 , atxmega256a1 ) texas instruments : msp430 arm : cortex-m3 ( untested ) ports for other modern microcontrollers are planned for future releases .
+12	reception the older , original surface and surface 2 , with their arm - based processors and windows rt operating system , are pitched against the ipad and other tablet computer .
+18	because pe is used on windows ce , it continues to support several variants of the mips , arm ( including thumb ) , and superh isas .
+26	his website closed , and it remains to be seen if he will continue work on nulldc or if he will release source code related to arm and powerpc devices .
+4	the hardware includes an arm - based qualcomm snapdragon processor and 1gb of ram .
+15	in 1992 , acorn once more won the queen 's award for technology for the arm .
+4	some such as the arm with thumb-extension have mixed variable encoding , that is two fixed , usually 32-bit and 16-bit encodings , where instructions can not be mixed freely but must be switched between on a branch ( or exception boundary in armv8 ) .
+6	in 1900 he lost his left arm when he fired a cannon .
+3	amputation of the arm , leg , jaw , or half of the pelvis ( called a hemipelvectomy ) may be necessary in some cases .
+28	image of a wrist with peripheral veins visible the peripheral vascular system consists of the veins and arteries not in the chest or abdomen ( i.e. in the arm , hand , leg and feet ) .
+32	the opening poem of double persephone , '' formal garden , '' a '' girl with the gorgon touch '' walks through the title location searching for '' a living wrist and arm '' , but all she finds is a '' a line of statue '' with '' marble flesh .
+24	brachial plexus block s are regional anesthesia techniques that are sometimes employed as an alternative to general anesthesia for surgery of the shoulder , arm , forearm , wrist and hand .
+26	technique although the name implies that the paint is applied with the fingers , expert use of this medium makes use of the hand and lower arm too .
+20	the anterior humeral circumflex artery ( anterior circumflex artery , anterior circumflex humeral artery ) is an artery in the arm .
+17	the flexing and stretching in bowling works tendon , joint , ligament , and muscle in the arm and promotes weight loss .
+10	a scooter is useful for persons without the stamina or arm / shoulder flexibility necessary to use a manual wheelchair .
+12	the brachialis ( brachialis anticus ) is a muscle in the upper arm that flexes the elbow joint .
+12	the primary membranes attached to the extremely long fourth finger of each arm and extended along the sides of the body to the ankles .
+8	crawling is a mode of locomotion involving the arm and leg .
+29	they do n't lift off or push the rib cage into the mat , paying particular attention to the placement of the rib cage when inhaling or while performing arm movements overhead .
+44	utility sleep studies can help diagnose or rule out : sleep-related breathing disorders , such as sleep apnea sleep-related seizure disorders sleep-related movement disorders , such as periodic limb movement disorder , which is repeated muscle twitching of the feet , legs , or arm during sleep .
+8	yiddish ( ) der hekht means spear , arm .
+4	'' windmilling '' the arm or rotating the hand from the wrist are examples of circumductive movement .
+25	the c6 nerve root shares a common branch from c5 , and has a role in innervating many muscles of the rotator cuff and distal arm , including : subclavius supraspinatus infraspinatus biceps brachii brachialis deltoid teres minor brachioradialis serratus anterior subscapularis pectoralis major coracobrachialis teres major supinator extensor carpi radialis brevis extensor carpi radialis longus latissimus dorsi damage to the c6 motor neuron , by way of impingement , ischemia , trauma , or degeneration of nerve tissue , can cause denervation of one or more of the associated muscles .
+22	the cemetery is also known for the common ivy , which grows on the tree and its stem are thick as an arm of an adult human .
+5	it sometimes occurs in the arm or penis .
+0	arm buds and a tail are visible .
+10	heat cramps are associated with cramping in the abdomen , arm and calves .
+26	design and construction minifigures generally feature six parts ( widely referred to as tools in the toy industry ) : head , torso , hip , arm , hand , and leg ; these six parts allow seven points of articulation : swivel head , swivel arms , swivel wrists , and swivel legs .
+35	after a chapter on evolution , the following 22 chapters are dedicated respectively to : hair , brow , ear , eye , nose , cheek , lip , mouth , neck , shoulder , arm , hand , breast , waist , hip , belly , back , pubic hair , genital , buttock , legs , and feet .
+25	cicadas are benign to humans under normal circumstances and do not bite or sting in a true sense , but may mistake a person 's arm or other part of their body for a tree or plant limb and attempt to feed .
+20	in progressive cases , the brachial plexus is also affected , causing pain and weakness in the muscles of the arm and hand ( thoracic outlet syndrome ) .
+13	body armour - is designed to protect the wearer 's upper body , arm , shoulders and back from impact during falls .
+10	however , mazinger will be unable to punch until its arm return .
+24	sccs usually occur on portions of the body commonly exposed to the sun ; the face , ears , neck , hand , or arm .
+18	skeletal similarities include the neck , the pubis , the wrist ( semi-lunate carpal ) , the ' arm ' and pectoral girdle , the shoulder blade , the clavicle and the breast bone .
+14	the humerus ( , plural : humeri ) is a long bone in the arm or forelimb that runs from the shoulder to the elbow .

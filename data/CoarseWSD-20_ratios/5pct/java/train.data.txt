@@ -1,0 +1,227 @@
+9	alternative uses possibly because its code is based on java and thus is easy to modify , jake2 has been used for several experiments : in 2006 , it was used to experiment playing 3d games with eye tracking .
+3	implementation written in java , tweaker is a stand-alone desktop application which includes optional remote desktop and web client capabilities .
+4	ec2box is written in java ( server side ) and javascript ( client ) .
+4	the padjitanian culture from java was traditionally thought to be the only oriental culture to manufacture hand axes .
+4	paul tosari was one java evangelist based in surabaya .
+3	the provinces of java range from 5 % christian up to 12 % in the capital jakarta .
+16	by contrast , xquery syntax is more suitable for embedding in traditional programming languages such as java or c# .
+20	it 's developed in a rdf - aware dynamic language , adenine , built for this project on top of java .
+13	programing languages to be covered include ; html , css , javascript , java and node.js .
+15	it is found from the himalaya to japan , taiwan , burma , borneo and java .
+37	silverman was part of a team that reverse-engineered the mos technology 6502 and intel 4004 microprocessors and developed transistor-level emulators for them , and that ported spacewar! , one of the earliest digital computer games , to java , by writing another emulator for the pdp-1 on which the game was originally written .
+36	the japanese 7th area army was formed on march 19 , 1944 under the southern expeditionary army group for the specific task of opposing landings by allied forces in japanese-occupied malaya , singapore and borneo , java , sumatra and to consolidate a new defense line after the loss of the solomon islands , new guinea and eastern portions of the netherlands east indies .
+6	also jambi ( sumatra ) and java .
+32	foundation of the dynasty a series of wars and clashes between the adipati ( dukes ) followed the death of the last sultan of demak bintoro , the first islamic kingdom in java .
+21	the officers and european crew from talthybius formed part of the crew of , which took 600 refugees form singapore to java , indonesia and then towed from tanjung priok , indonesia to freemantle , australia .
+7	for example , in different parts of java the dishes are adapted to local culture and taste , in return chinese indonesians reside in this region also had developed a taste for local cuisine .
+2	netbeans / java this is a professional level platform .
+8	once the main dutch force had returned to java , the local balinese ruler jelantik refused to pay the agreed settlement to the dutch and endeavored to unite balinese forces against them .
+20	usage in programming languages this usage follows from design choices embedded in many influential programming language , including c , java , and lisp .
+13	the problem of building and integrating adequate front ends for conventional languages ( java , c++ , php , ... ) may be of equal difficulty as building the program transformation system itself because of the complexity of such languages .
+25	features syntax highlighting for many languages ( batch , bash , c / c++ , c# , css , d , diff , idl , java , javascript , lua , html , makefiles , perl , python , php , ruby , sql , xml ) plaintext - and regexp - based text search/replacement line numbers text wrapping autocomplete auto-indent bracket matching current line highlighting saving/restoring of named sessions line markers character encoding selection customizable gui brazilian portuguese , chinese ( simplified ) , czech , english , french , german , polish , russian and spanish translations .
+5	they took the cannon to java , where it stayed until 1795 , when it was given to acheh and brought to kuala selangor .
+28	his father , a ship 's captain , intended his son for trade , but this humdrum prospect disgusted him , and in 1838 he went out to java and obtained a post as a civil servant .
+1	on java , nearly everyone identifies with islam , but most people practice agama jawa , javanese religion , or javanese islam .
+6	it is found in indonesia ( java ) , china ( guangdong ) , taiwan , malaysia , the philippines , mauritius , hawaii , madagascar and réunion .
+16	university researchers helped develop ucsd pascal , an early machine-independent programming language that later heavily influenced java , the national science foundation network , a precursor to the internet , and the network news transfer protocol during the late 1970s to 1980s .
+5	other influences include borodin and java gamelan music .
+1	using java or similar technology , graphical versions of boards and counters can be manipulated in cyberspace as if a manual version of the game was being played .
+21	however , there is no record of a substantial collection reaching holland , and somehow these two specimens ended up at java where they remained for over seventy years .
+10	these modules could be implemented in different ways : on java - based eai systems , these could be web application or ejbs or even pojo that conform to the eai system 's specifications .
+6	r statistical service beanshell script ( java - like script language ) external tools on remote machines ( via ssh ) xpath xml data extraction importing data from microsoft excel spreadsheets and other .
+40	the industry flourished in southern and eastern africa between 2.6 and 1.7 million years ago , but was also spread out of africa and into eurasia by traveling bands of h. erectus , who took it as far east as java by 1.8 million years ago and northern china by 1.6 million years ago .
+3	there are also java implementations of x servers .
+13	electric is currently part of the gnu project and has been developed in java and distributed as free and open-source software , subject to the requirements of the gnu general public license ( gpl ) , version 3 or any later .
+1	a java version called '' ersatz picolisp '' was released in december 2010 .
+16	while australian forces succeeded in occupying the outer islands with minimal resistance , british forces in java and sumatra were challenged by a nascent indonesian republic led by sukarno and hatta .
+8	then he flew his b-17 flying fortress to java in the dutch east indies , where his squadron had been diverted in an attempt to stem the japanese advance .
+37	he traveled in mexico , under a commission from the french ministry of education , in 1857-1861 ; in madagascar in 1863 ; in south america , particularly chile and argentina , in 1875 ; and in java and australia in 1878 .
+77	programming languages with printf ampl awk ( via sprintf ) bourne shell ( sh ) and derivatives such as korn shell ( ksh ) , bourne again shell ( bash ) , or z shell ( zsh ) c c++ ( also provides overloaded shift operators and manipulators as an alternative for formatted output - see iostream and iomanip ) objective-c clojure common lisp d f# gnu mathprog gnu octave g ( labview ) go haskell j java ( since version 1.5 ) clojure scala lua ( string .
+3	1948 map of java showing the van mook line after the renville agreement .
+5	in 1931 hoogerwerf moved to java in the dutch east indies ( now indonesia ) , where he worked at the bogor botanical gardens .
+6	unchecked exceptions ( such as the java objects and ) remain unhandled .
+4	synth is a skinnable java look and feel , which is configured with an xml property file .
+10	properties daikon can detect properties in c , c++ , java , perl , and ioa programs , as well as spreadsheet files or other data sources .
+21	adisucipto ( or adisutjipto ) international airport ( ) is the principal airport serving the yogyakarta area on the island of java , indonesia .
+25	an alternative lobby , tasclient , is written in delphi , and there are lobby servers - used to organize multi-player games - written in java and python .
+15	; pojos and pocos : pojos and pocos are technical implementation concepts , specific to java and the .net framework respectively .
+11	the japanese appointed 59 members , representing the major groups in java and madura .
+12	roast beef is partial to unix and his preferred programming language is java .
+13	as chief factor of the british east india company 's trading post in java , saris ' mission was primarily one of seeking trade .
+13	it contains only one species , tasenia nigromaculalis , which is found on java .
+13	four principalities in western sumbawa were dependencies of the majapahit empire of eastern java .
+17	it is found in china ( shandong , yunnan ) , indonesia ( sumatra , nias , java , bali , borneo , sulawesi , the moluccas , ambon island , buru , lombok , dammer , aru ) , timor , the philippines , new guinea and australia ( western australia and queensland ) .
+22	each of these various regions had its own subspecies of gallus gallus , including : g. g. gallus indochina g. g. bankiva java g. g. jabouillei vietnam g. g. murghi india g. g. spadiceus burma g. g. domesticus ( domestic chicken ) sexual dimorphism male and female birds show very strong sexual dimorphism .
+15	the commercial tree is most heavily cultivated in the rainforests of asia , notably in java ( hence its nicknames ) , philippines , malaysia , hainan island in china as well as in south america .
+11	indonesia in indonesia , there is a similar headdress worn in java , which is known as the blangkon .
+16	in 1911 , he was the u.s. representative to the international fibre congress in surabaya , java .
+5	it is found in western java .
+10	a thesis on indo-malayan tortricidae completed , he returned to java in 1939 to take up a post as an entomologist at a sugar plantations and industries research station .
+8	this document mentions a leader of medang in java .
+24	afterwards he was employed in the plantations of the same company 's factories and became a director of the sugar estate of minggiran in java in 1935 .
+11	for even wider scope , from bandar lampung on sumatra to java to denpasar on bali lies a near '' continual '' series of cities broken by some straits that potentially qualify as a megalopolis .
+13	opends software is a free , open source directory service , written in java , and developed as part of the opends project .
+12	phyllocnistis humiliella is a moth of the gracillariidae family , known from java , indonesia .
+19	in our earlier generation solution , we took a cautious decision to bind it specifically to amazon and chose java as the primary language of choice .
+10	omegat+ -- free computer assisted translation tools platform cross-platform ( java ) .
+19	the company soon established its first trading post in the east indies , at bantam on the island of java , and others , beginning with surat , on the coasts of what is now india and bangladesh .
+16	despite the large and dwarf forms , four subspecies are known : g. v. variegatus ( java ) , g. v. temminckii ( sumatra ) , g. v. borneanus ( borneo ) , and g. v. peninsulae ( peninsular malaysia and mainland of southeast asia ) incorporating on the genetic species concept due to geographic isolation and genetic divergence .
+9	habenaria medusa is a species of orchid endemic to java , sumatra , sulawesi and borneo .
+9	he was captain in the army at japara on java and from 1692 in malabar in south-west india .
+9	unlike other early application server competitors , netdynamics chose java as the development language for the platform .
+11	in the early 20th century , many young minangkabaus migrated to java and europe as students .
+20	chet-c ( the chapel hill electronic text-converter ) , an application originally written in vba , then as a free-standing java app , and now available as a self-contained javascript platform written by hugh cayless .
+18	single precision is known as real in fortran , as float in c , c++ , c# , java , as float in haskell , and as single in delphi ( pascal ) , visual basic , and matlab .
+11	jcsp is a blending of csp and occam concepts in a java thread support api .
+19	anant altekar mentions that sati spread with hindu migrants to southeast asian islands as well , such as to java , sumatra and bali other hindu-influenced cultures where reports of sati has come are from cambodia and mergui in present day burma ( myanmar ) .
+12	malay pilots , either recruited or forcibly conscripted , guided them via java , the lesser sundas and ambon to run , arriving in early 1512 .
+8	during his time in office the british invaded java .
+1	, java , sulawesi ) , ; china ( hong kong ) , singapore , india , ; indochina west to myanmar ( = burma ) , vietnam , thailand , laos , cambodia , ; australia ( cook islands ) type locality : hong kong .
+11	gluonj is a simple aspect-oriented programming ( aop ) extension for java .
+5	society children studying quran in java during dutch colonial periods a mosque in bukittinggi , with traditional minangkabau roof architecture to a significant degree , the striking variations in the practice and interpretation of islam -- in a much less austere form than that practiced in the middle east -- in various parts of indonesia reflect its complex history .
+13	operation transom was a major bombing raid on japan targets at surabaya , java by american and british planes on 17 may 1944 during world war ii .
+19	technology focus the company is a microsoft gold certified partner and member of sun advantage program with .net and java r & d centers .
+4	after the occupation of java , natori participated in the battle of christmas island .
+41	the names of many of these frameworks are a variation on '' sunit '' , usually substituting the '' s '' for the first letter ( or letters ) in the name of their intended language ( '' junit '' for java , '' runit '' for r etc. ) .
+10	distribution the bold-striped tit-babbler is found in borneo , and java .
+21	a line from the west point of gedeh bay , kangean island , to tg sedano , the northeast extreme of java and down the east coast to tg bantenan , the southeast extreme of the island .
+25	the e10 class 0-10-0rt e1060 which was originally delivered to west sumatra in the 1960s for working the coal railway , but was brought to java , later returned again to sawahlunto , and a conventional locomotive 2-6-0t c1218 which was restored to working order in 2006 , but transferred to solo to working as tourist train , named sepur kluthuk jaladara .
+23	the only known specimens of this anomalous hominid were retrieved from sites along the bengawan solo river , on the indonesia island of java .
+2	written in java , ew encrypts all file types for data-at-rest and data-in-transit protection .
+8	a magnitude 6.8 earthquake struck the south of java , indonesia , that occurred on april 3 , killing one person .
+7	april 15 , 2006 indonesia gubug , java , 13 people die and 26 are injured as two trains collide and wreckage falls into a paddy field .
+8	composer dick lee found inspiration in bali , java and among his own peranakan heritage .
+9	'' most river names in the sundanese portion of java , indonesia start with the prefix ci - , which is sundanese for '' river '' .
+7	jad files are commonly used to package java applications or games that can be downloaded to mobile phones .
+16	warren was part of the british force which captured the city , and the island of java , in 1811 .
+29	megophrys montana ( asian horned frog , horned frog , asian spadefoot toad , javan horned frog , malayan leaf frog ) is a species of frog found in java and possibly sumatra .
+11	for c++ , in the library for c# , at for java , in the library for matlab , in the package for perl , in the module for python , in the networkx library for r , in package see also dijkstra 's algorithm , an algorithm for finding single-source shortest paths in a more restrictive class of inputs , graphs in which all edge weights are non-negative johnson 's algorithm , an algorithm for solving the same problem as the floyd -- warshall algorithm , all pairs shortest paths in graphs with some edge weights negative .
+8	objects with lock ( e.g. , as in java and c# ) can be modeled as a serializer , provided that their implementations are such that messages can continually arrive ( perhaps by being stored in an internal queue ) .
+21	after sun in 1994 , naughton quit sun for starwave ( then a property of paul allen ) to develop server java applications for web sites .
+11	later , whippoorwill screened tulsa as the two ships proceeded for java .
+12	they must submit solutions as programs in c , c++ , or java .
+17	it is an collection of open source libraries for high performance scientific and technical computing written in java .
+8	officially supported languages for development and deployment are java , php , python and ruby via the open buildpack api originally developed by heroku .
+12	there is a version programmed in perl and another one programmed in java .
+11	it is found in southern thailand , malaysia , sumatra , java , sulawesi , papua and new guinea , vanuatu , and the solomon islands .
+9	h2 is a relational database management system written in java .
+3	activejdbc is a java implementation of the active record design pattern developed by igor polevoy .
+1	in java , indonesia , sea turtle eggs were a popular delicacy .
+6	it is found on seram and java and in southern india ( palnis and khasis ) .
+7	for example , if a third party java library implements a class you are not allowed to modify , you can not use an instance of the class in place of an interface you have defined yourself , whereas duck typing would allow this .
+10	software the wiring ide is a cross-platform application written in java which is derived from the ide made for the processing programming language .
+6	google provides gdata client libraries for java , javascript , .net , php , python , and objective-c .
+20	fecb also cooperated with kamer 14 ( room 14 ) , the dutch unit at the bandung technical college in java .
+20	at ibm , cuomo has led projects in the areas of mobile and cloud computing , web application servers , java , tcp/ip , real-time collaboration software , and high-performance transactional systems .
+29	range the butterfly occurs in india from assam , the khasi hills , eastwards and across to north and south myanmar , thailand , peninsular malaysia , singapore , java , borneo , sumatra , sulawesi and nias .
+46	however , its use is not strictly limited to the gnu operating system ; it is a portable debugger that runs on many unix-like systems and works for many programming language , including ada , c , c++ , objective-c , free pascal , fortran , java and partially others .
+14	checkstyle is a static code analysis tool used in software development for checking if java source code complies with coding rules .
+22	reinwardt was the founder ( 1817 ) and first director of agriculture of the botanic garden at bogor ( buitenzorg ) in java .
+21	project management for different project types , such as automake , cmake , qmake for qt based projects and ant for java based projects .
+27	workers from various ethnic and social backgrounds , including people from vanuatu , french polynesia , réunion island in the indian ocean , india , malaysia , java ( indonesia ) and as far away as west africa and the west indies , as well thousands of french convicts worked the land in and around the mission .
+23	it covers an area of 136.7 km ² in the indian ocean about 2,360 km north-west of perth and 500 km south of java in indonesia .
+11	kopi luwak is produced mainly on the islands of sumatra , java , bali and sulawesi in the indonesia archipelago .
+21	the javan surili ( presbytis comata ) is an endangered species of old world monkey endemic to the western half of java , indonesia , a biodiversity hotspot .
+5	when the other ships left java , janszoon was sent to search for other outlets of trade , particularly in '' the great land of new guinea and other east and southlands '' .
+22	the british east india company opened a trading post in bantam on the first voyage in 1601 and imports of pepper from java were an important part of the company 's trade for twenty years .
+11	mount kiaraberes-gagak or mount perbakti-gagak is the western most volcano on java island .
+14	uses doxygen can be used with c , c++ , c# , fortran , java , objective-c , php , python , idl ( corba , tcl and microsoft flavors ) , vhdl , and to some extent d .
+22	in 1879 he was appointed coeditor and later chief editor of the newspaper de locomotief ( the locomotive ) in semarang on java , and became editor-in-chief of indisch vaderland in 1883 .
+9	1st military area command , overseeing western part of java , manned by 1st infantry division , commanded by maj gen w. schilling .
+24	filed in u.s. district court in san francisco , oracle alleged that the android technology google developed for smartphones and tablets infringed oracle 's java api patents .
+110	neural network architectures adaline neural network adaptive resonance theory 1 ( art1 ) bidirectional associative memory ( bam ) boltzmann machine counterpropagation neural network ( cpn ) elman recurrent neural network neuroevolution of augmenting topologies ( neat ) feedforward neural network ( perceptron ) hopfield neural network jordan recurrent neural network radial basis function network recurrent self organizing map ( rsom ) self organizing map ( kohonen ) training techniques backpropagation resilient propagation ( rprop ) scaled conjugate gradient ( scg ) levenberg–marquardt algorithm manhattan update rule propagation competitive learning hopfield learning genetic algorithm training instar training outstar training adaline training see also joone : another neural network programmed in java fann , a neural network written in c with bindings to most other languages .
+9	baluran is a stratovolcano located on the island of java .
+7	it is found in brunei and on java .
+18	sofcheck inspector -- static detection of logic errors , race condition , and redundant code for ada and java ; automatically extracts pre / postcondition from code .
+8	jaikoz is commercially licensed software , written in java 1.5 by paul taylor .
+62	several religious movements contributed to the historical development of religion at angkor : indigenous religious cults , including those centered on worship of the ancestors and of the lingam ; a royal cult of personality , identifying the king with the deity , characteristic not only of angkor , but of other indic civilizations in southeast asia , such as champa and java ; hinduism , especially shaivism , the form of hinduism focussed on the worship of shiva and the lingam as the symbol of shiva , but also vaishnavism , the form of hinduism focussed on the worship of vishnu ; buddhism , in both its mahayana and theravada varieties .
+5	the second was against dutch-owned java , but occupied by the french .
+10	the dutch surrendered 8 march after japanese troops landed on java .
+6	the complete toolset is written in java and uses ecmascript as a scripting language .
+16	papilio karna is a species of swallowtail butterfly from the genus papilio that is found in java , sumatra , borneo and the philippines .
+11	distribution indonesia ( sumatra , bangka , borneo / kalimantan , java ) , malaysia and brunei ( malaya and east malaysia ) ; borneo , singapore island , burma ( myanmar ) , thailand ( including phuket ) , laos , cambodia , vietnam , india ( assam , arunachal pradesh ( miao - changlang district , chessa , chimpu , itanagar - papum pare district ) ( a. captain , pers .
+8	the alfresco content-management system includes jlan , a java implementation of an smb server .
+53	as the portuguese battles in the indian ocean against muslim powers raged on , ternate became a site of interest especially for the ottomans , who had gained much information about maritime southeast asia from the sultanate of aceh , and in fact kurtoğlu hızır reis the ottoman admiral intended to reach both java , borneo and ternate but was engaged in pitched battle and was outnumbered against the portuguese fleet in sumatra .
+20	caryota mitis , the clustering fishtail palm , is a species of palm native to southeast asia from india to java to southern china , now sparingly naturalized in southern florida and in parts of africa and latin america .
+57	use of vlc with other programs api several apis can connect to vlc and use its functionality : libvlc api -- the vlc core , for c and c++ vlckit -- an objective-c framework for mac os x javascript api -- the evolution of activex api and firefox integration d-bus controls go binding c# interface python controls java api directshow filters delphi/pascal api : paslibvlc by : '' robert jędrzejczyk '' free pascal bindings and an oop wrapper component , via the libvlc .
+17	six days later , in an attempt to repeat this success , the force departed surabaja , java , to intercept an enemy convoy concentration at kendari .
+6	for instance : a 15-year old java girl was hung from a cross for hours .
+28	in the 7th century the maritime empire of srivijaya based on palembang , sumatra , rose to power , and its influence expanded to the malay peninsula and java .
+19	from volcan ello , sardinia and roccamonfina similar rocks are obtained ; they occur also in bohemia , in java , celebes , kilimanjaro ( africa ) and near trebizond in asia minor .
+41	see also here for a slide presentation by eric s. roberts ( '' the allocation of memory to variables '' , chapter 7 ) - illustrating the use of stack and heap memory usage when summing three rational number in the java object-oriented language .
+29	distribution and ecology it has been recorded from panama , the canary islands and madeira , sierra leone and perhaps elsewhere in africa , the seychelles , india , java , and the hawaiian islands , samoa and the marquesas islands ( at least on hiva oa ) in the pacific .
+4	redberry is written in java and provides extensive groovy - based programming language .
+18	- hawaii , eastern maui coprosma moorei f.muell. ex rodway - tasmania , victoria coprosma myrtifolia noronha - java coprosma x neglecta cheeseman - c. repens × c. rhamnoides - new zealand north island coprosma nephelephila j. florence - marquesas islands coprosma niphophila orchard - new zealand south island , new south wales coprosma nitida hook.f. - tasmania , victoria , new south wales coprosma nivalis w.r.b. oliv .
+0	java applications can embed it as library , use it as a service in wildfly or any non-java applications can use it as remote service through tcp/ip .
+14	mount muria or gunung muria is a dormant volcano on the north coast of java , indonesia .
+22	the explosives were later moved to the south sumatra town of lubuk linggau before being taken to jakarta on the island of java .
+7	it is found in the philippines , java , new guinea , china ( hainan ) and palau .
+22	on 27 february 1942 , fubuki was assigned to '' operation j '' , covering forces landing on the western portion of java .
+16	spark is a free and open source software web application framework and domain-specific language written in java .
+19	military career in 1942 he was assistant air officer commanding far east command and air officer commanding raf in java .
+10	roberts ( p. 171 ) gives a related example in java , using a class to represent a stack frame .
+1	unlike java , unrealscript is case-insensitive , and does not have object wrappers for primitive types .
+20	` of course , the men cheerfully aid by free advice and directions ' she added ironically '' ) ; java , where a journey to a temple was two hundred miles by slow rail ; kashmir ; new zealand , a place she said she would have chosen to live other than america ; siam , a place that was very difficult to reach at that time ; the sandwich islands , where the japanese consul-general acted as her interpreter ; singapore , where she noted that '' thirty different languages are spoken '' ; south africa , en route to which , she climbed the mast in a divided skirt alongside the captain and another man .
+29	it is able to edit and save many different file types , and has syntax highlighting support for many popular programming languages including c , c++ , lisp , java , python , php , ruby , html , xml , css , prolog , idl and d .
+27	barry had a strong finish to 2008 , winning both the semen gresik widjojo soejono junior championships in surabaya and the solo open international junior championships in java in november .
+11	also in 1616 , two ships were sent from saint-malo to java .
+12	model 2 is a complex design pattern used in the design of java web application which separates the display of content from the logic used to obtain and manipulate the content .
+30	early career macario remains the first and only italian computer programmer to set two world records by solving problems of the acm international collegiate programming contest ( ansi c and java ) .
+15	the prambanan temple complex hundreds of ancient stone religious monuments lie on the island of java .
+16	the programming model is based on web development languages and standards including javascript , ajax , java , the dojo toolkit , server-side javascript and javaserver faces .
+15	it is found in coastal and estuarine habitats in southeast asia , where documented from java , borneo , singapore , the philippines and thailand .
+7	it is unclear if they remain in java .
+10	azul systems also implemented hardware transactional memory to accelerate their java appliances , but this was similarly hidden from outsiders .
+34	programming language and assemblers which have known self-hosting implementations include ada , basic , c , c++ , c# , coffeescript , dylan , f# , fasm , forth , gambas , haskell , java , lisp , modula-2 , ocaml , oberon , pascal , python , rust , scala , smalltalk , vala , and visual basic .
+7	contub is a software project written in java which runs on windows , mac os x , linux and unix operating systems through any java-enabled web browser .
+23	her husband was the oil heir and subsequent philanthropist john paul getty , jr . early life talitha dina pol was born in java , then part of the dutch east indies ( now indonesia ) .
+18	antiaris toxicaria for example , a tree of the mulberry and breadfruit family , is commonly used on java and its neighbouring islands .
+29	the american lawyer chose robert van nest as its litigator of the week in 2012 for defeating oracle corporation in its multi-billion dollar intellectual property battle with google over java technology .
+5	architecture iccube is implemented in java and follows j2ee standards .
+11	she was later reburied in the dutch war grave cemetery in java in 1951 .
+22	it is found in china ( hong kong ) , india ( sikkim , assam ) , bhutan , burma and on java .
+20	with version 3.0 , the system was completely rebuilt and is now available as a component-oriented application developed in the java programming language .
+7	this company supports the operating system : java , c , c++ , oracle , asp , linux , unix , windows nt .
+10	although most traditional malay dances were influenced by india , java and other parts of southeast asia , mak yong 's singing and musical repertoire are unique .
+26	848 santa maría del naranco built in oviedo as part of a palace complex of ramiro i king of asturias c. 850 prambanan temple built in java .
+4	the server is a java application deployable on the following operating systems : linux , mac os x , solaris , unix , and windows .
+18	karel + + is conceptually based on karel , but uses a completely new syntax , similar to java .
+12	dendrobium capra is a species of orchid endemic to the island of java in indonesia .
+17	its flagship product , the apache directory server , is an embeddable directory server entirely written in java .
+32	heroku , one of the first cloud platforms , has been in development since june 2007 , when it supported only the ruby programming language , but has since added support for java , node.js , scala , clojure , python and php and ( undocumented ) perl .
+11	the most elaborate stupa is the 8th century borobudur monument in java , indonesia .
+11	it is found from india to the philippines , sulawesi and java .
+45	symphony sdk sample client program developed using symphony apis developers construct their own client ( send requests , collects results ) and service ( accepts requests , performs computation , returns responses ) using symphony apis in the language of their choice ( c++ , java , c# , com api ) .
+4	mukherji managed to reach java in the dutch east indies , where he stayed until the end of 1919 , living under the name of dar shaheer .
+15	wonosari is the administrative center of gunung kidul regency , in yogyakarta special region on java , indonesia .
+8	) some garbage-collected object-oriented languages , such as java and python , feature weak references .
+2	starting in java , it gradually extended its range across the indonesian archipelago .
+25	significantly , oracle , previously only a software vendor , now owned both hardware and software product lines from sun ( e.g. sparc enterprise and java , respectively ) .
+1	in java cultural history , empires yielded some distinct grades of language , each grade representing the social grade of the speakers ( mainly nobles and populaces ) .
+12	participating clubs will be divided 12 groups based on their regions in java , kalimantan , sulawesi , sumatera and papua .
+103	other user-facing applications with support for essbase databases include : hyperion analyzer ( aka hyperion system 9 bi + web analysis ) hyperion reports ( aka hyperion system 9 bi + financial reporting ) hyperion enterprise reporting hyperion intelligence ( aka hyperion system 9 bi + interactive reporting ) hyperion sqr ( aka hyperion system 9 bi + production reporting ) alphablox arcplan dynasight ( aka arcplan enterprise ) oracle business intelligence suite enterprise edition ( aka obiee , siebel analytics ) the previous offerings from hyperion acquired new names as given below : api are available for c , visual basic and java , and embedded scripting support is available for perl .
+8	description women sorting dammar seeds in west-preanger , java .
+4	presently windows mobile and java based phones are also supported through the program .
+2	as with java only one of two expressions is ever evaluated .
+12	java-based operating systems given that oracle's ( formerly sun microsystems ' ) java is today one of the most dominant object-oriented languages , it is no surprise that java-based operating systems have been attempted .
+14	these ancient people also split with some heading to sulawesi and others progressing into java , and sumatra , all of which now speaks languages that belongs to the austronesian language family .
+7	it is found on peninsular malaysia , java , borneo and nias .
+40	although the ground echelon arrived in singapore , by the time the air echelon , aboard hms indomitable , was within flying off range , there were no airfields left in british hands , so the squadron flew off to java on 27 january 1942 .
+3	the musics of java , sumatra , bali , flores and other islands have been documented and recorded , and research by indonesian and international scholars is ongoing .
+24	kampala and tororo in uganda have each been mentioned as the most thunderous places on earth , a claim also made for bogor on java , indonesia and singapore .
+27	musa salaccensis , commonly called javanese wild banana , is a malesia tropical species of plant in the banana family native to the islands of sumatra and java , in indonesia .
+2	html or java format ) it mixes a promotional text with a journalistic one , but it will also have technical details like minimum requirements , etc. .
+11	some also believe that he was wounded engaging the french in java in august 1811 .
+5	the cea perspective is that java is not efficient for ce devices , and that cable companies are passing to ce manufacturers the costs of a software platform which they did n't need , and which wo n't run on their existing hardware architectures .
+26	tobacco mixed with opium was called madak ( or madat ) and became popular throughout china and its seafaring trade partners ( such as taiwan , java , and the philippines ) in the 17th century .
+32	one siamese chronicle states that anawrahta 's armies invaded the khmer kingdom and sacked the city of angkor , and another one goes so far as to say that anawrahta even visited java to receive his tribute .
+19	in other languages , semicolons are called terminator s and are required after every statement ( such as in java , and the c family ) .
+5	raffles was appointed lieutenant-governor of java by minto during the 45-day operation , and crawfurd was appointed the post of resident at the court of yogyakarta in november 1811 .
+21	it contains only one known species , peronema canescens , native to thailand , malaysia , borneo , sumatra , and java .
+22	he pursued economics at gadjah mada university where he immersed himself with leftist student movements and started to organize peasants movements in java .
+20	after a brief stay at that port , she called at makassar before receiving orders to proceed to surabaya , java , in the netherlands east indies , where she spent christmas .
+22	with the approval and initial assistance of dragon 's eye productions , adam maloy and christopher howard wolf converted the game to java and added a storyline , along with new features and new artwork .
+8	it will also generate gui front-end clients in java visual basic 6 clients active server pages web service for microsoft iis asp.net vb.net in addition to compiling generated code and deploying databases to correspond with the specification .
+32	in smalltalk , objective-c , .net , python , realbasic , and swift they are called dictionaries ; in perl , ruby and seed7 they are called hashes ; in c++ , java , go , clojure , scala , ocaml , haskell they are called maps ( see map ( c++ ) , unordered map ( c++ ) , and ) ; in common lisp and windows powershell , they are called hash tables ( since both typically use this implementation ) .
+3	the software is java based .
+12	sukamulya is a district located in the tangerang regency of banten in java , indonesia .

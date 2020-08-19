@@ -1,0 +1,60 @@
+19	jean pierre moquette ( july 5 , 1856 -- february 26 , 1927 ) moved from the netherlands to java in 1873 .
+18	the javan leopard ( panthera pardus melas ) is a leopard subspecies confined to the indonesia island of java and classified as critically endangered by iucn since 2008 .
+8	cephas was recognized for his contributions to preserving java 's cultural heritage through membership in the royal netherlands institute of southeast asian and caribbean studies and an honorary gold medal of the order of orange-nassau .
+18	the raiders were supported by 10 medium bombers and three or four seaplane based in sumatra and west java which conducted patrols in the direction of ceylon .
+14	cilacap is also a sea port on the southern coast of the island of java .
+5	the eendracht sailed on to java and reached batavia on october 28 with a remarkable 84 of the original 87 crew members of both ships on board .
+2	hornstedt left java in august 1784 , suffering the after-effects of malaria and jaundice , but even so managed to return with an impressive collection of natural history and ethnological objects .
+10	in despair , zainuddin and his friend muluk go to java , first to batavia and then to surabaya , where zainuddin becomes known as a writer and philanthropist .
+12	destabilization of the sultan 's palace at the time of raffles ruled java replaced janssens , sultanate yogyakarta threatened dibubarkan .
+6	for instance : a 15-year old java girl was hung from a cross for hours .
+7	in 1881 , abu bakar also visited java , which was under dutch rule .
+24	elymnias nesaea hypereides fruhstorfer , 1903 - n. borneo elymnias nesaea coelifrons fruhstorfer , 1907s - borneo elymnias nesaea hermia fruhstorfer , 1907e - java elymnias nesaea baweana hagen , 1896 -- bawean elymnias nesaea vordemani snellen , 1902 - kangean is .
+25	the dutch were the first to start the spread of the coffee plant in central and south america , and by the early 19th century java was the third largest producer in the world .
+30	on 5 april 1815 , a moderate-sized eruption occurred , followed by thunderous detonation sounds , heard in makassar on sulawesi , away , batavia ( now jakarta ) on java away , and ternate on the molucca islands away .
+33	charles curtis ( 1853 23 august 1928 ) was an english botanist who was sent by james veitch & sons to search for new plant species in madagascar , borneo , sumatra , java and the moluccas , before settling in penang , where he became the first superintendent of the penang botanic gardens .
+53	bok continued as an emeritus professor at the university of arizona , and he participated in or led several groups to view solar eclipse , including a trip to the eclipse near bratsk in siberia in july 1981 and his last eclipse trip to what he called his '' spiritual home '' of java to view a totality that passed near the town of salatiga in june 1983 .
+9	the hindu majapahit empire is founded by kertarajasa in java .
+23	many circular shapes decorated the whole complex , the design of which reminds people of the shape of candi in the east of java .
+73	jpg sculpture of guardian at the entrance of the mandapam of sri jalagandeeswarar temple , vellore , tamil nadu south-east asia 9th century khmer lintel the sculpture of the region tends to be characterised by a high degree of ornamentation , as seen in the great monuments of hindu and buddhist khmer sculpture ( 9th to 13th centuries ) at angkor wat and elsewhere , the enormous 9th-century buddhist complex at borobudur in java , and the hindu monuments of bali .
+17	by 1 january 1942 , eleven of the bombers had been shifted northwest to singosari airfield on java .
+10	madura is an indonesian island off the northeastern coast of java .
+12	acrocercops diplacopa is a moth of the gracillariidae family , known from java , indonesia .
+22	about 270,000 of these javanese laborers were sent to other japanese-held areas in south east asia , only 52,000 were repatriated to java , meaning that there was a death rate of 80 % .
+30	in 1922 a dutch provincial grand lodge , under the grand orient of the netherlands , at weltevreden ( batavia ) controlled twenty lodges in the colony : fourteen in java , three in sumatra and others in makassar and salatiga .
+19	its origin area is south china , vietnam , laos , cambodia , thailand and the indonesian island of java .
+11	tjisaroea ( perfected spelling : cisarua ) is a location on java where during the 1945-1949 indonesian national revolution the royal netherlands east indies army ( knil ) maintained a prison camp for soldiers convicted of breaches of military discipline .
+6	although the dance is native to java , indonesia , it also performed by javanese communities in suriname , malaysia and singapore .
+3	he died in java ( now part of indonesia ) in 1617 on a voyage to the east indies .
+12	by 2010 , he was spending weekends in belitung and weekdays in java .
+17	it is found in southern queensland and from coastal new south wales to central australia and on java .
+8	compuware optimalj was a model-driven development environment for java .
+19	in the 1990s , translation into p-code became a popular strategy for implementations of languages such as python and java .
+12	in the jtella 0.7 client software the guid is created using the java random number without an initialization .
+46	it combines a software stack with a code generation engine to build services that work efficiently to a varying degree and seamlessly between c# , c++ ( on posix - compliant systems ) , cappuccino , cocoa , delphi , erlang , go , haskell , java , node.js , ocaml , perl , php , python , ruby and smalltalk .
+9	carmetal carmetal is a free gpl software written in java .
+12	the school has some online classes , such as introductory c++ , java , and ap computer science .
+25	'' nexaweb technology the nexaweb enterprise web suite ( nexaweb ews ) includes legacy code analysis and capture tools and cloud application reference frameworks for java and ajax .
+20	chet-c ( the chapel hill electronic text-converter ) , an application originally written in vba , then as a free-standing java app , and now available as a self-contained javascript platform written by hugh cayless .
+8	ternary from c , c++ , c# , java , perl and variants comes the ternary operator , which is a so-called conditional operator , taking three parameters .
+5	cte xl was written in java and was supported on win32 systems .
+13	custom software instruments are developed for the ensemble primarily using the chuck and java programming languages .
+14	some garbage-collected languages feature or support various levels of weak references , such as java , c# , python , perl , and lisp ， shell .
+22	nclass is a free and open source software tool to create unified modeling language ( uml ) class diagram for c# and java applications .
+23	aside from his work in theoretical computer science , savitch has written a number of textbooks for learning to program in c/c++ , java , ada , pascal and others .
+19	beanywhere is compatible with android , os x and microsoft windows and it can also be used through a java - based web console .
+11	many concepts initially introduced by eiffel later found their way into java , c# , and other languages .
+63	single if choice clause : if condition then statements ( else statements ) fi '' brief '' form : ( condition statements statements ) chained if choice clause : if condition1 then statements elif condition2 then statements ( else statements ) fi '' brief '' form : ( condition1 statements : condition2 statements statements ) c a traditional if-else construct in c , java and javascript is written : if ( a ) b ) -lcb- result = x ; -rcb- else -lcb- result = y ; -rcb- this can be rewritten as the following statement : result = a ) b ?
+6	the complete toolset is written in java and uses ecmascript as a scripting language .
+23	it features integration with smarty , can work with xslt , and supports logging , unit testing , and class packaging similar to java .
+18	talks have covered languages such as perl , python , php , ruby , groovy , scala , java , mono and c .
+21	supported programming languages since openrtm-aist is based on the corba technology , it supports several programming languages , including : c++ java python erlang ( unofficial ) tools rtc builder rtc builder rtc builder is a tool for skeleton-code generation .
+13	no final keyword : algol 60 , c , c++ , haskell , java , pascal , perl , php , pl/i , python , powershell .
+11	over forty programming language , such as c , c++ , java , javascript , perl , python , ruby , r , sql , etc. .
+45	polyspace -- uses abstract interpretation , a formal methods based technique , to detect and prove the absence of certain run time errors in source code for c/c + + , and ada sofcheck inspector -- statically determines and documents pre - and post-condition for java methods ; statically checks precondition at all call sites ; also supports ada .
+32	smartsheet - online spreadsheet for project management , interactive gantt , file sharing , integrated with google apps thinkfree online calc as part of the thinkfree office online office suite , using java spreadsheets that are parts of suites ability office spreadsheet - for ms windows .
+2	in the java language since version 8 , the option type is defined as parameterized final class optional .
+6	checked exceptions similar to those in java .
+3	mocha is a java decompiler , which allows programmers to translate a program 's bytecode into source code .
+4	it is written in java and implements the webdav protocol .
+8	this is present in other programming languages like java and python .

@@ -1,0 +1,35 @@
+sent: there is also the paro , a robot baby seal intended to provide comfort to nursing home patients .
+gold class: seal_pinniped
+pred class: seal_seal_(emblem)
+sim_diff: 0.074625
+========
+sent: around 7500 seal are recorded .
+gold class: seal_seal_(emblem)
+pred class: seal_pinniped
+sim_diff: 0.173207
+========
+sent: custom seal , tapes , label , rfid tags , etc. are sometimes added .
+gold class: seal_seal_(emblem)
+pred class: seal_seal_(mechanical)
+sim_diff: 0.039059
+========
+sent: petrus christus , nga , washington sealing wax is a wax material of a seal which , after melting , quickly hardens ( to paper , parchment , ribbons and wire , and other material ) forming a bond that is difficult to separate without noticeable tampering .
+gold class: seal_seal_(emblem)
+pred class: seal_seal_(mechanical)
+sim_diff: 0.001203
+========
+sent: the author adds that the roman authorities '' made the tomb secure by putting a seal on the stone and posting the guard .
+gold class: seal_seal_(emblem)
+pred class: seal_seal_(mechanical)
+sim_diff: 0.000662
+========
+sent: in a similar sense , a matrix is the term for a mould or die used for making a wax , metal or clay seal intended for purposes of authentication .
+gold class: seal_seal_(emblem)
+pred class: seal_seal_(mechanical)
+sim_diff: 0.038516
+========
+sent: '' appears in : '' in god we trust '' , '' sad sack '' , '' righteous brothers '' , '' fakin ' it '' , '' exit strategy '' wife of gob wife of gob ( amy poehler ) is a certified seal salesperson who married gob as part of an evening of escalating dares ( meant to be a one-night stand ) .
+gold class: seal_pinniped
+pred class: seal_seal_(emblem)
+sim_diff: 0.012190
+========

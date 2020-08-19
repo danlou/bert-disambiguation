@@ -1,0 +1,60 @@
+7	it is native to the island of java in indonesia , southeastern asia .
+11	as a botanist , he is remembered for his work with java mosses .
+13	distribution and habitat the asian fairy-bluebird has a discontinuous distribution from india to java and vietnam .
+25	10 -- 15th century many chinese merchants chose to settle down in the southeast asian ports such as champa , cambodia , sumatra , and java , and married the native women .
+11	kampong makassar was one several internment camps in the island of java near batavia ( present-day jakarta ) in which the japanese interned enemy civilians , mostly dutch , after the dutch east indies fell to japanese forces in 1942 .
+18	giriloyo is a locality and graveyard in the wukirsari valley north east of imogiri , in southern central java or the yogyakarta region , indonesia .
+55	june 4 -- 21 led by the american zoologist and philanthropist richard archbold and carrying australian patrick gordon taylor as navigator , the pby-2 catalina flying boat guba ii makes the first flight across the indian ocean in history , flying from port hedland , australia , to mombasa , kenya , via batavia , java ; the cocos ( keeling ) islands ; diego garcia ; and the seychelles .
+10	there are four recognized subspecies : cynopterus horsfieldii horsfieldii - java and islands east to sumbawa cynopterus horsfieldii harpax - thailand , peninsular malaysia , sumatra cynopterus horsfieldii persimilis - borneo cynopterus horsfieldii princeps - nias biology and behavior horsfield 's fruit bats eat the fruit of strangler fig , elaeocarpus , and payena , and the flowers of bitter bean .
+12	from 2011 to march 2014 , the team built 30 bridges on java and 6 on sulawesi .
+20	parischnogaster nigricans serrei is a hover wasp species in the family vespidae , and it is predominantly found in the java region of indonesia .
+12	most came from soerabaja ( surabaya ) and other large cities on java .
+12	on 18 february , the remaining allied aircraft and aircrews moved to java .
+38	it is found in mauritius , madagascar , seychelles , assam , eastern himalayas , southern india , sri lanka , myanmar , thailand , malaysia , laos , cambodia , south china , vietnam , borneo , java , lesser sunda islands , moluccas , philippines , sulawesi , sumatra , bismark islands , new guinea , solomon islands , norfolk island , new south wales , queensland , fiji , new caledonia , samoa , vanuatu , wallis and futuna , marquesas , santa cruz islands , caroline islands , the marianas islands , taiwan , ryukyu islands .
+12	dendrobium capra is a species of orchid endemic to the island of java in indonesia .
+12	kronjo is a district located in the tangerang regency of banten in java , indonesia .
+27	afterwards he returned to breslau as an assistant to dermatologist albert neisser ( 1855-1916 ) , under whose direction he participated on a medical research mission to java ( 1907 ) .
+17	it also occurs on christmas island , an australia territory in the north-eastern indian ocean south of java .
+61	burmese pythons are found throughout southern - and southeast asia , including eastern india , nepal , western bhutan , southeastern bangladesh , myanmar , thailand , laos , cambodia , vietnam , northern continental malaysia , far southern china ( fujian , jiangxi , guangdong , hainan , guangxi and yunnan ) , hong kong , and in indonesia on java , southern sulawesi , bali and sumbawa .
+16	in the indonesia archipelago , t. helena is found in sumatra , nias , enggano , java , bawean , kangean islands , bali , lombok , sumbawa , great natuna ( bunguran ) , sulawesi , butung , tukangbesi , kalimantan and brunei .
+13	ter poorten was also allied land forces commander in the american-british-dutch-australian command on java during early 1942 .
+25	the subspecies varanus bengalensis nebulosus , the clouded monitor , occurs in southern burma , vietnam , cambodia , thailand , malaysia , sumatra , java and the sunda islands .
+7	it was named after the island of java .
+12	in february and march 1946 , lst 3010 was in service in java , dutch east indies , where a war of independence was taking place .
+45	taxonomy the white-bellied sea eagle was first described by the german naturalist johann friedrich gmelin in 1788 , although john latham had made notes on the species in 1781 , from a specimen obtained in february 1780 at princes island off the westernmost cape of java during captain cook 's last voyage .
+6	it is known from sumatra , java and borneo .
+5	foreign robbers , perhaps from java , '' men living on food more horrible than cadavers , frightful , completely black and gaunt , dreadful and evil as death '' had arrived in ships , had stolen the jewelry and had broken the linga .
+12	acrocercops eugeniella is a moth of the gracillariidae family , known from java , indonesia , as well as thailand .
+17	the tiered roof shows many similarities with wooden religious structures from the hindu - buddhist civilizations of java and bali .
+2	much of java became a dutch plantation , making it a profitable , self-sufficient colony and saving the netherlands from bankruptcy and helping it become a thriving and modernized bourgeois society .
+20	at the end of the burma campaign , the british empire had ordered 92,000 troops to the indonesian island of java , with a deadly assault on september 15 , 1945 .
+15	it has a number of open-source reference implementations , with full-spec implementations in c++ , java , and scala .
+3	the software is java based .
+16	nutch is an effort to build an open source web search engine based on lucene and java for the search and index component .
+17	first , the languages that do not support anonymous functions c , pascal , object pascal , java are all conventional statically typed languages .
+12	the school has some online classes , such as introductory c++ , java , and ap computer science .
+65	in the late 1980s and 1990s , the notable imperative languages drawing on object-oriented concepts were perl , released by larry wall in 1987 ; python , released by guido van rossum in 1990 ; visual basic and visual c++ ( which included mfc 2.0 ) , released by microsoft in 1991 and 1993 respectively ; php , released by rasmus lerdorf in 1994 ; java , first released by sun microsystems in 1994 and ruby , released in 1995 by yukihiro '' matz '' matsumoto .
+9	it also includes hint , an interpreter written in java with a graphical user interface .
+0	java compilers oberon compilers pascal compilers pl/i compilers python compilers scheme compilers and interpreters smalltalk compilers cli compilers open source compilers production quality , open source compilers .
+6	then the software developer agency9 used java to create the interface which allows one to navigate through the map .
+10	with the advent of component-based frameworks such as .net and java , component based development environments are capable of deploying the developed neural network to these frameworks as inheritable components .
+45	morfik technology pty ltd. , an australia company , is the developer of morfik , a set of visual designers , compilers and a framework combined in an integrated development environment ( ide ) aimed at developing ajax applications in a high-level language such as java , c# , basic or object pascal .
+20	it was able to run all series 60 software ( other than those that require a camera ) , and java midp applications as well .
+5	architecture idempiere consists of a java server ( based on an apache tomcat container ) with a zk web gui .
+2	similar to java , c # can also synchronize entire methods , by using the methodimploptions synchronized attribute .
+6	j# : a cli-compliant implementation of java .
+5	it adds exploit blocking for java and botnet protection .
+18	code written in the haxe language can be source-to-source compiled into adobe flash applications , javascript programs , java , c# , c++ standalone applications ( to some extent ) , python , php , apache cgi , and node.js server-side applications .
+12	vue is a free , open source concept map application written in java .
+0	java 's library contains a class , which implements a min-priority-queue .
+9	these applications are built using apex ( a proprietary java - like programming language for force.com ) and visualforce ( an xml-like syntax for building user interfaces in html or flex ) .
+11	the back-end generates code in a high-level language like c++ or java which is then compiled to machine code using the respective high-level language compiler .
+28	the c++11 standard adopted in august 2011 amended the grammar so that a right-shift token is accepted as synonymous with a pair of right-angle brackets ( as in java ) , which complicates the grammar but allows the continued use of the maximal munch principle .
+4	ec2box is written in java ( server side ) and javascript ( client ) .
+11	built-in support for c , c + + , d , java , fortran , objective-c , yacc , lex , qt and swig , as well as tex and latex documents .
+23	this solution combines a fully native design with systems expertise to create a storage system that runs the solaris operating system and leverages java development tools to drive a closer integration between compute and store assets in a data center .
+13	netbeans is an integrated development environment ( ide ) for developing primarily with java , but also with other languages , in particular php , c / c++ , and html5 .
+20	it can reverse engineer code written in c++ , idl , pascal / delphi , ada , python , and java , as well as import xmi files generated by external tools from php or perl code and export to various programming language .
+9	plotting extensions for the languages perl , python and java are also supported for most operating systems .
+8	scavis is a free numerical framework written in java which includes data visualisation .
+16	the influence of simula is often understated , and simula-type objects are reimplemented in c++ , java and c# .

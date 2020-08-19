@@ -1,0 +1,2 @@
+25	10 -- 15th century many chinese merchants chose to settle down in the southeast asian ports such as champa , cambodia , sumatra , and java , and married the native women .
+5	architecture idempiere consists of a java server ( based on an apache tomcat container ) with a zk web gui .

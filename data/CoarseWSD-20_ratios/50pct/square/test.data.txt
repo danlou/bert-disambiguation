@@ -1,0 +1,207 @@
+16	final fantasy vi , aka final fantasy iii in the usa ; ( 1995 ) by square is a world where the greedy gestahlian empire seeks to rule over the planet through the power of the espers .
+4	if the sides are square , it is a uniform tiling .
+0	square building : it consists of three floors .
+4	marafor is a roman square with two temples attached .
+37	the central dot is the ego whereas the self is both the whole and the centered dot for jung , the self is symbolised by the circle ( especially when divided in four quadrants ) , the square , or the mandala .
+4	in early 1987 , square released 3-d worldrunner , designed by hironobu sakaguchi and nasir gebelli .
+23	old manor house in mošovce old manor house the old manor house , which was situated in the northern part of the extensive square , was torn down in 1952 .
+35	wallpaper groups the 17 wallpaper group , with finite fundamental domains , are given by international notation , orbifold notation , and coxeter notation , classified by the 5 bravais lattices in the plane : square , oblique ( parallelogrammatic ) , hexagonal ( 60 degree rhombic ) , rectangular , and centered rectangular ( rhombic ) .
+22	the xenosaga series serves as a spiritual successor to the game xenogears , which was released in 1998 for the playstation by square .
+6	at the entrance there are two square pilasters stading from the temple walls , each showing two faces .
+36	distances shorter than 10 metres conversions 10 metres ( very rarely termed a decametre which is abbreviated as dam ) is equal to : 10 metre 100 decimetre 1,000 centimetre 10,000 millimetre 32.8 feet side of square with area 100 m² human-defined scales and structures 10 metres wavelength of the highest shortwave radio frequency , 30 m hz 23 metres height of the obelisk of the place de la concorde , paris , france .
+15	this technique involves calculating the perimeter of successive regular circumscribed polygon , beginning with a square .
+6	a unique variation of this was square 's 1986 fantasy shoot 'em up game king 's knight , which featured four characters , one per stage , where the player must keep them alive before they join to face the final boss .
+9	one non-unique solution when n = 4 is a square , and the solution is a regular polygon when n is an odd number , but the solution is irregular otherwise .
+8	the company 's staff includes prominent developers from square such as kenichi nishi and keita eto .
+2	she joined square in 1994 , where her first assignment was to score the 1995 title front mission alongside yoko shimomura .
+6	it has 4 trapezoid and 2 square faces .
+22	the proof is one of reductio ad absurdum , and the method is to show that , if the diagonal of a square is commensurable with the side , then the same number must be both odd and even .
+48	aliens was adapted into four different video games : two different 1986 games titled aliens : the computer game , a collection of minigames by activision and a first-person shooter by software studios , as well as two different games titled aliens , a 1987 msx platformer by square and a 1990 arcade shoot 'em up by konami .
+1	the square of 27 , and the cube of 9 , and as a consequence of these properties , a perfect totient number .
+17	place des martyrs in winter place des martyrs , luxembourg the place des martyrs is a garden square in luxembourg city , in southern luxembourg .
+6	chrono trigger ( 1995 ) by square , whose theme is time travel .
+6	it has 32 triangle , 32 square and 4 octagon faces .
+17	usually the cartesian coordinate system is applied to manipulate equation for plane , straight line , and square , often in two and sometimes in three dimensions .
+45	description of the tiles the most common choice of tileset to produce the ammann -- beenker tilings includes a rhombus with 45 - and 135-degree angles ( these rhombi are shown in blue in the diagram at the top of the page ) and a square ( shown in white in the diagram above ) .
+21	history the company was founded on october 1 , 1999 by producer hirohide sugiura and director tetsuya takahashi after they left square and accepted an investment from namco .
+30	its commercial success helped lay the groundwork for involved , non-linear games in fantasy settings , such as those found in successful rpgs , including crystalis , soul blazer , square 's seiken densetsu series , alundra , and brave fencer musashi .
+8	rep-tiles and symmetry some rep-tiles , like the square and equilateral triangle , are symmetrical and remain identical when reflected in a mirror .
+18	he used q-series to prove that any natural number can be represented as a sum of an even square and two triangular number .
+22	example a concept lattice for objects consisting of the integer from 1 to 10 , and attributes composite ( c ) , square ( s ) , even ( e ) , odd ( o ) and prime ( p ) .
+12	consequently , a curve of constant width can be rotated in a square .
+6	the home base may be a square , a rectangle , or a semicircle .
+22	alternatively , for c even it is the double triangular number ( + 1 ) and for c odd it is the square .
+5	saengerfest park is a small square park located on the corner of tremont st ( 23rd st ) and strand st ( avenue b ) in the strand historic district of galveston , texas .
+5	the digital root of a square is 1 , 4 , 7 , or 9 .
+4	radical 70 meaning '' square '' is 1 of 34 kangxi radicals ( 214 radicals total ) composed of 4 strokes .
+46	a 2d lattice gives an irregular honeycomb tessellation , with equal hexagons with point symmetry ; in the case of a regular triangular lattice it is regular ; in the case of a rectangular lattice the hexagons reduce to rectangles in rows and columns ; a square lattice gives the regular tessellation of squares ; note that the rectangles and the squares can also be generated by other lattices ( for example the lattice defined by the vectors ( 1,0 ) and ( 1/2 ,1 / 2 ) gives squares ) .
+18	the album includes the demo tracks kikuta submitted when first applying for the job of game composer at square , using the sound source of the nintendo entertainment system , as well as many original tracks .
+31	algebraic properties the bidiakis cube is not a vertex-transitive graph and its full automorphism group is isomorphic to the dihedral group of order 8 , the group of symmetries of a square , including both rotations and reflections .
+5	first , some numbers are square , while others are not ; therefore , all the numbers , including both squares and non-squares , must be more numerous than just the squares .
+6	a broach spire starts on a square base and is carried up to a tapering octagon spire by means of triangular faces .
+18	appearances video games final fantasy tactics ( 1997 ) , a tactical role-playing game developed and published by square for the sony playstation video game console , marked the first appearance of ivalice .
+8	this excavated cube has 16 triangle , 12 square , and 4 octagon .
+12	geometrical area can be found via geometrical compass-and-straightedge constructions of an equivalent square , e.g. , squaring the circle .
+11	history the earlier variant of the membership badge of astgik was square instead of the present eight-point star shape ( ۞ ) , an allusion to the organization name .
+7	is a role-playing video game developed by square and released exclusively for the super famicom system in japan on december 10 , 1993 .
+7	final fantasy vii ( 1997 ) by square features a world in which a power company called shinra controls most of the inhabited world through its '' peace keeping forces '' .
+9	such a rectangle can be obtained by halving a square , or by placing two equal squares side by side .
+5	the fort has an irregular square basis , dimension of 80 × 50 meters , with ramparts has reinforced tower , which surrounded the dry trench .
+9	piazza tasso piazza tasso is a central place and square in sorrento in the south of italy .
+11	is an action video game developed by fuzzbox and published by square and released in 1999 for the playstation .
+9	fei fong wong , the lead character in the square video game xenogears , was named after wong fei-hung ( his name being written the same in katakana as wong 's name is written ) .
+45	this set contains : equilateral triangle ( green ) regular rhombus ( blue ) trapezoid ( red ) hexagon ( yellow ) the second set contains shapes that ca n't be built of the green triangle , but can still be used in tiling patterns square ( orange ) small rhombus ( beige ) pattern blocks are not only just for mathematics , they can also be used to build pictures including animals , flowers , boats and ships , rockets and planes , cars , trains , and many others .
+0	square showed its first playstation offering with tobal no . 1 and showed a video of the most anticipated role playing game of the time , final fantasy vii .
+5	the trapezoidal ( rather than square ) park is ringed by mature sycamore trees as well as english-style street lamps from the 1920s ( created exclusively for holmby hills ) .
+10	the combined area of these three shapes is approximately 15.57 square .
+13	is a fighting game for the playstation developed by dreamfactory and published by square in 1996 .
+33	in geometry , the heptagrammic cupola is a star-cupola made from an heptagram , -lcb- 7/3 -rcb- and parallel tetradecagram , -lcb- 14/3 -rcb- , connected by 7 mutually intersecting equilateral triangle and square .
+17	special cases examples of isosceles trapezoids ( under the inclusive definition of trapezoids ) are rectangle and square .
+25	two japanese versions were also released in 1987 , a family computer disk system version , published in japan by dog ( a subsidiary of square ) , and a pc-8801 version .
+7	a euclid number can not be a square .
+6	it has 8 pentagon and 2 square faces .
+26	lagrange 's four-square theorem , also known as bachet 's conjecture , states that any natural number can be represented as the sum of four integer square .
+13	is a japanese video game composer and sound programmer who was employed at square from 1991 to 1999 .
+17	video games from there she moved into the game arena , first as a cg supervisor for square 's mega-hit game parasite eve , in which she also directed two key cinematic sequences , and then as a cg supervisor and technical director for the games and thq 's scooby doo .
+17	it is based on the critically acclaimed super nes role-playing game chrono trigger by the japanese company square .
+3	for example a square vertex arrangement is understood to mean four points in a plane , equal distance and angles from a center point .
+23	ramy adeeb is the founder and ceo of social curation platform snip.it and is a former venture capitalist investor in start-ups such as square and groupme .
+9	the tritetraflexagon is the simplest tetraflexagon ( flexagon with square sides ) .
+15	place saint-lambert the former prince-bishops ' palace on place saint-lambert the place saint-lambert is a square in the center of liège , belgium .
+22	bundesautobahn 270 and uhthoffstraße pass over the aue , and at vegesack railway station the stream is led underneath the station 's square via a series of pipes .
+4	1026753849 -- smallest pandigital square that includes 0 .
+36	members of djenné 's masons guild direct the work , while elderly members of the community , who have already participated in the festival many times , sit in a place of honor in the market square watching the proceedings .
+21	early japanese rpgs were also influenced by visual novel adventure game , which were developed by companies such as enix , square , nihon falcom and koei before they moved onto developing rpgs .
+9	many cenotaphs , in the form of octagon and square chhatris are also seen , which are reported to be possibly tombs of teachers of the madrasa .
+31	in geometry of 4 dimensions , a 3,4 duoprism , the second smallest p-q duoprism , is a 4 - polytope resulting from the cartesian product of a triangle and a square .
+4	since 36 is both square and triangular , 666 is the sixth number of the form and the eighth number of the form ( doubly triangular numbers ) .
+3	it has 12 square faces , 8 regular hexagon faces , 6 regular octagon faces , 48 vertices and 72 edges .
+10	construction the construction of the sierpinski carpet begins with a square .
+4	the narrator is a square , a member of the caste of gentlemen and professionals , who guides the readers through some of the implications of life in two dimensions .
+14	from 1992 to 2003 , dociu did work for various video game developers including square , electronic arts , and zipper interactive .
+15	in geometry , monsky 's theorem states that it is not possible to dissect a square into an odd number of triangle of equal area .
+2	originally the square itself also bore the name of saint alexander .
+22	mathematicians of ancient greece , according to the pythagorean doctrine , understood calculation of area as the process of constructing geometrically a square having the same area ( squaring ) .
+16	jpg hartung game master released in 1990 software milestone titles chrono trigger ( snes ) by square is frequently listed among the greatest video games of all time .
+3	special cases any square , rectangle , isosceles trapezoid , or antiparallelogram is cyclic .
+20	development giftpia was first announced in early 2002 under the development of skip ltd . and the direction of former square employee kenichi nishi .
+8	the impressive cathedral is fronted by a large square .
+13	accordingly , increasing the pyramid height of the ram for the same ( square ) base size improves the effectiveness of the chamber at low frequencies but results in increased cost and a reduced unobstructed working volume that is available inside a chamber of defined size .
+16	~ 0.7 -- 300 µm -- wavelength of infrared radiation 1 µm -- the side of square of area m² 1 µm -- edge of cube of volume m³ ( one fl .
+29	enix 's dragon quest vi introduced an innovative scenario with a unique real world and dream world setting , which seems to have had an influence on the later square role-playing games chrono cross and final fantasy x .
+2	in this square there is a monument to the chachapoyas heroes of the higos urco battle of june 6 , 1821 .
+10	name the term squaire is a portmanteau of the words square and air .
+42	using only an unmarked straightedge and a compass , greek mathematicians found means to divide a line into an arbitrary set of equal segments , to draw parallel lines , to bisect angle , to construct many polygon , and to construct square of equal or twice the area of a given polygon .
+31	development and release after the release of the previous game in the mana series , 1999 's legend of mana , several members of the development team for the game left square to form a new development studio , brownie brown .
+1	if square are erected outward on the sides of any quadrilateral ( convex , concave , or crossed ) , then their centre ( centroid ) are the vertices of an orthodiagonal quadrilateral with diagonals of equal length .
+16	for example , there is a mabkhara sculpture surrounded by coffee pots that stands in a square in jeddah .
+17	table of contents displays four geometric shapes , which include a circle , triangle , crescent and square .
+0	square is notorious for commonly treating save points as legitimate objects within the game world .
+7	is a role-playing video game developed by square for the playstation and released in japan on july 11 , 1997 .
+13	like with koei , several other now-famous japanese companies such as enix , square and nihon falcom also released erotic adult games for the pc-8801 computer in the early 1980s before they became mainstream .
+12	development the official and authorized final fantasy vii game was developed by square and released worldwide in 1997 for the playstation .
+6	the station is located in lima square , which is approximately half of corso buenos aires in the municipality of milan .
+11	is a racing game developed by escape , a subsidiary of square .
+20	in its place , buildings of kosovo assembly , municipality of prishtina , ptt , and brotherhood and unity socialist square were built .
+14	as used in the napoleonic wars , the formation was constituted as a hollow square , or sometimes a rectangle , with each side composed of two or more rank of soldiers armed with single-shot musket or rifle with fixed bayonet .
+27	there are two main types of hórreo , rectangular - shaped , the more extended , usually found in galicia and coastal areas of asturias ; and square - shaped hórreos from asturias , león , western cantabria and eastern galicia .
+43	he had the current building constructed in 1895 and moved the deli from a nearby downtown location ( actually , fossati 's had changed locations several times , and had , at one time or another , been on every corner of the square in downtown victoria ) .
+7	its staff included many former employees of square .
+43	geometric definition a system of synergetics coordinates uses only one type of simplex ( triangle , tetrahedron , pentachoron , ... , n-simplex ) as space units , and in fact uses a regular simplex , rather like cartesian coordinates use hypercubes ( square , cube , tesseract , ... , n-cube .
+6	it has 20 triangle , 20 square and 4 pentagon faces .
+14	every rhombus is a parallelogram , and a rhombus with right angles is a square .
+2	thus a square has four axes of symmetry , because there are four different ways to fold it and have the edges all match .
+5	valley gardens with a large square and outside stage for local events and celebrations .
+27	history rpgamer was founded in april 1995 by andrew vestal as the unofficial squaresoft homepage ( uosshp ) , a fan site devoted to the games of square .
+21	but instead of being the typical flat thin bar , the k ration chocolate was a thick rectangular bar that was square at each end ( in tropical regions , the k ration used hershey 's tropical bar formula ) .
+22	at the age of 20 , unsure of his career path , hirota was invited by composer yasunori mitsuda to work at square , and was hired as a sound designer .
+3	there are one square , one hexagon , and one dodecagon on each vertex .
+8	is a video game developed and published by square for the nec pc-8801 , nec pc-9801 , and fujitsu fm-7 in 1984 .
+14	the building is now known as '' the donner house '' , and the square by which the building is located was to be known as : '' donner 's place '' .
+36	related polyhedra crossed heptagrammic cupola the crossed heptagrammic cupola is a star-cupola made from an heptagram , -lcb- 7/5 -rcb- and parallel tetradecagram , -lcb- 14/5 -rcb- , connected by 7 mutually intersecting equilateral triangle and square .
+5	moreover , there are many square in this neighborhood , and its street are relatively quiet , aside from nilo peçanha avenue .
+12	two tesseracts meet at each cubic cell , four meet at each square face , eight meet on each edge , and sixteen meet at each vertex .
+32	a golden rectangle can be constructed with only straightedge and compass by four simple steps : relation to regular polygons and polyhedra a distinctive feature of this shape is that when a square section is removed , the remainder is another golden rectangle ; that is , with the same aspect ratio as the first .
+0	square was a japanese video game development and publishing company founded in september 1983 by masashi miyamoto .
+4	main sights the central square of rostov is occupied by the assumption cathedral .
+8	it can be seen as a cuboctahedron with square and triangular pyramid added to each face .
+8	it is defined as the area of a square with sides of 1 foot .
+26	the yoshimoto cube is a polyhedral mechanical puzzle toy invented in 1971 by , who discovered that two rhombic dodecahedron could be pieced together into a square when he was finding different ways he could split a cube equally in half .
+18	it started out as a spin-out company from enix 's manga publishing division before the company merged with square .
+45	in both cases the concept came from mathematics and in its original sense is defined as the absence of a common unit of measurement that would allow a direct and exact measurement of two variables , such as the prediction of the diagonal of a square from the relationship of its side .
+64	kabbage is venture funded and backed by thomvest ventures , mohr davidow ventures , and bluerun ventures , and is debt funded by victory park capital , with additional investors including : david bonderman , founder of tpg capital , warren stephens , ceo of stephens inc . , the ups strategic enterprise fund , triplepoint ventures , and jim mckelvey , co-founder of square .
+5	mathematical properties 400 is the square of 20 .
+30	to describe the villa , as a whole , as a ` rotonda ' is technically incorrect , as the building is not circular but rather the intersection of a square with a cross .
+6	the entire facade is covered with square marble plates .
+6	this transparent image shows its three square , and six congruent irregular pentagon face .
+16	chomp is a two-player strategy game played on a rectangular chocolate bar made up of smaller square blocks ( cells ) .
+22	however , these distinctions are often blurred : for instance , a digital image can be interpreted as a collection of color square ; and geometric shapes such as circle are defined by implicit mathematical equations .
+3	it is usually square in shape or served as flakes , and has a crisp and flaky texture .
+9	the series began as a handheld side story to square 's flagship franchise final fantasy , though most final fantasy - inspired elements were subsequently dropped , starting with the second installment , secret of mana .
+13	in geometry , a cube is a three-dimensional solid object bounded by six square faces , facets or sides , with three meeting at each vertex .
+25	as the name indicates , at a given level in the hierarchy the pixels are of equal area ( which is done by bisecting the square in the case of the h = 4 , k = 3 projection ) and their centers lie on a discrete number of circles of latitude , with equal spacing on each circle .
+6	totaling 240 feet in diameter with square yet '' much curved '' three foot high walls .
+9	by convention , the napkin is always a unit square .
+2	the prior square light was decommissioned when it became redundant , as the harbor had grown past it .
+35	nevertheless , some of the earliest co-op action rpgs were console titles , including the turbografx-16 game dungeon explorer ( 1989 ) by atlus which allowed up to five players to play simultaneously , and square 's secret of mana ( 1993 ) for the super nintendo which offered two - and three-player action once the main character had acquired his party members .
+3	it may be square , triangular , trapezoid , or other shapes .
+26	the polyominoids for n = 1 through n = 3 in geometry , a polyominoid ( or minoid for short ) is a set of equal square in 3d space , joined edge to edge at 90 - or 180-degree angles .
+12	the park compromises elements of a traditional city park and an urban square .
+0	square 's final fantasy for the nes introduced side-view battles , with the player characters on the right and the enemies on the left , which soon became the norm for numerous console rpgs .
+8	is a japanese role-playing video game developed by square for the family computer disk system , and published in 1987 .
+17	aspect has also worked with the following companies ; sega , takara tomy , d3 publisher , square , tec toy , banpresto , takara , disney interactive studios , and even samsung .
+8	the station is located in st. augustine 's square , inside the city center of milan , near the san vittore jail .
+42	an example of a data matrix code , encoding the text : '' wikipedia , the free encyclopedia '' a data matrix code is a two-dimensional matrix barcode consisting of black and white '' cells '' or modules arranged in either a square or rectangular pattern .
+32	in the typical valencian alquería , the floor is a rectangle , which is sometimes joined with another perpendicular one , thus forming a right-angle ; some other are formed by two square , one recorded on the other .
+12	in 1991 , after fujioka had been hired as a director for square , sasai was invited to join the company as they needed composers to assist nobuo uematsu and kenji ito .
+7	the 3-d battles of world runner by square bears a strong resemblance to the game .
+3	jpg 4th street square image : bellville michigan old van buren township hall .
+7	spira is the fictional world of the square role-playing video game final fantasy x and final fantasy x-2 .
+33	history antique method to find the geometric mean mathematicians of ancient greece , according to the pythagorean doctrine , understood determination of area of a figure as the process of geometrically constructing a square having the same area ( squaring ) .
+4	the sum of the square of the sides equals the sum of the squares of the diagonals .
+35	memorials grave of robert schuman in saint quentin church , in scy-chazelles , near metz , france the schuman district of brussels ( including a metro/railway station and a tunnel , as well as a square ) is named in his honor .
+17	career a fan of the final fantasy games , hamauzu decided to apply for a job at square .
+29	the game is directly based on mark twain 's renowned novel , the adventures of tom sawyer , and was developed in the role-playing video game niche that made square famous with its acclaimed final fantasy series of video games .
+20	during this work experience , with his school term ending , mitsuda saw an advertisement for a sound producer at square in a copy of famitsu magazine at a game company he was visiting .
+9	the title stems from the fact that its producer square was struggling and hironobu sakaguchi thought it to be their final title .
+7	examples of broken diagonals from the below square are as follows : 3,12,14,5 ; 10,1,7,16 ; 10,13,7,4 ; 15,8,2,9 ; 15,12,2,5 ; and 6,13,11,4 .
+13	the 5 free tetrominoes a tetromino is a geometric shape composed of four square , connected orthogonally .
+26	the team hoped to build on the foundation of final fantasy adventure , and they included several modified elements from that game and from other popular square titles in secret of mana .
+20	in its place , buildings of kosovo assembly , municipality of pristina , ptt , and brotherhood and unity socialist square were built .
+5	so the center of a square , rectangle , rhombus or parallelogram is where the diagonals intersect , this being ( amongst other properties ) the fixed point of rotational symmetries .
+11	for example , the image of a curve can cover a square in the plane ( space-filling curve ) .
+69	in general there can be an arbitrarily large number of variables , in which case the resulting surface is called a quadric , but the highest degree term must be of degree 2 , such as x 2 , xy , yz , etc. origin of word the adjective quadratic comes from the latin word ( ( wikt : en : quadratum # latin quadrātum ) ) ( '' square '' ) .
+22	music the music for the game was co-composed by konami veteran miki higashino and yasunori mitsuda , famous for his work on square properties such as chrono trigger and xenogears .
+10	hale springs inn , built in 1824 on the courthouse square in rogersville , tennessee , was the oldest continuously-operated inn in tennessee .
+12	it has 62 faces ( 20 triangle , 12 pentagram and 30 square ) , 120 ( doubled ) edges and 20 vertices .
+13	a popular race is also celebrated in which the runners go from the square of the '' explanadas '' to the fire station in the port .
+14	a squircle a squircle is a mathematical shape with properties between those of a square and those of a circle .
+10	is a video game developed by positron and published by square and released in 1999 .
+9	it has 38 faces : 32 triangles and 6 square .
+8	the company 's staff includes prominent developers from square , such as chihiro fujioka .
+9	the design was for three terraces facing a central square , each terrace being of two and a half storey .
+1	the square stroke ratio enabled the relatively high engine speed of 3,200 rpm .
+10	a popular spot is a place just off the main square called the bar america where the speciality is tavë dheu .
+1	a square wooden tower , constructed in 1858 , was located around west of the current light .
+18	coordi usually the cartesian coordinate system is applied to manipulate equation for plane , straight line , and square , often in two and sometimes in three dimensions .
+29	depictions of frequency the following are some commonly used methods of depicting frequency : histograms a histogram is a representation of tabulated frequencies , shown as adjacent rectangle or square ( in some situations ) , erected over discrete intervals ( bins ) , with an area proportional to the frequency of the observations in the interval .
+22	uniform constructions there are 3 lower symmetry uniform construction , one with two colors of apeirogon , one with two colors of square , and one with two colors of each : symmetry the dual to this tiling represents the fundamental domains of \* ∞ 2 ∞ 2 symmetry group .
+13	a cornice runs below the roof with geometric shapes including an ellipse , square and oval .
+10	most mosaics are made of small , flat , roughly square , pieces of stone or glass of different colors , known as tesserae ; but some , especially floor mosaics , may also be made of small rounded pieces of stone , and called '' pebble mosaics '' .
+41	the game 's influence also extended beyond action rpgs , with the way the game reworked the entire game system considered an influence on final fantasy , which would do the same for each of its installments , as its developer square was previously the publisher for the msx version of the original dragon slayer .
+2	in the square fighting game , tobal no.1 for playstation , dullahan appears as a possessed headless suit of armor in the game 's dungeon mode .
+12	development during the development of the first installment in the series , square 's management decided to manufacture 400,000 copies of the game to make a sequel possible .
+25	such a battle system has rarely been used since , though similar battle systems based on targeting individual body parts can later be found in square 's vagrant story ( 2000 ) , bethesda 's fallout 3 ( 2008 ) , and nippon ichi 's last rebellion ( 2010 ) .
+14	a cube , for example , is a regular hexahedron with all its faces square , and three squares around each vertex .
+25	a triangle denoted the b-17 1st bombardment wing ( later 1st air division ) , a circle the b-24 2nd bombardment wing , and a square the b-17 4th bombardment wing ( later 3rd air division ) .
+32	some of dudeney 's most famous innovations were his 1903 success at solving the haberdasher 's puzzle ( cut an equilateral triangle into four pieces that can be rearranged to make a square ) and publishing the first known crossnumber puzzle , in 1926 .
+9	is a role-playing video game developed and published by square in for the family computer as the third installment in the final fantasy series .
+1	a square has the smallest possible aspect ratio of 1 : 1 .
+14	it takes its name from the fylde , a roughly 13-mile ( 20-kilometre ) square - shaped peninsula , bounded by morecambe bay to the north , the ribble estuary to the south , the irish sea to the west , and the bowland hills to the east , with blackpool to the west and preston to the south-east .
+3	the creator of square 's final fantasy series , hironobu sakaguchi , cited miyazaki as inspiration for elements such as the airships and chocobo featured in the series .
+6	it has 28 triangle , 28 square and 4 heptagon faces .
+7	it is the challenge of constructing a square with the same area as a given circle by using only a finite number of steps with compass and straightedge .
+4	gusset plates are usually square or rectangular , but can be triangular or made into a customized shape to fit the joint .
+9	first , it asks that b+w should be a square , or using the values given above , thus one should set k = ( 3 ) ( 11 ) ( 29 ) ( 4657 ) q 2 for some integer q .
+26	attractions besides the stone wall surrounding the city , the old town is home to 110 mosque and many more shrine , centered on feres magala square .
+11	furniture made from milk crates expedient stepping stones milk crates are square or rectangular interlocking box that are used to transport milk and other products from dairies to retail establishments .

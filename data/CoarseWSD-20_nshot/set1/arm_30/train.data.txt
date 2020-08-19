@@ -1,0 +1,60 @@
+9	the make controller kit with an atmel at91sam7x256 ( arm ) microcontroller .
+4	in 2012 freescale announced arm based qoriq offerings beginning in 2013 .
+8	the name aiyara originally referred to the first arm - based cluster built by wichai srisuruk and chanwit kaewkasi at suranaree university of technology .
+24	static recompilation is another approach based on the original binary , potentially leading to better performance than emulation ; an example is the 2014 arm architecture version of starcraft for the pandora .
+3	they use an arm compatible main cpu ( arm4t architecture ) running at 104 mhz .
+40	the main differences are : real-time guarantees ( each api call is quick , but more importantly , time-bound ) multiple threads inside the kernel as well as outside pluggable memory models , allowing better support for later generations of arm instruction set .
+6	the stmp3700 is using a single arm processor core clocked up to a maximum of 300 mhz the system on chip was developed in 2007 for use in portable media players .
+7	gxemul with le ( 4 ) emulating arm , mips , m88k , powerpc , and superh cpu .
+100	some of the most commonly used fastboot commands include : flash rewrites a partition with a binary image stored on the host computer erase erases a specific partition reboot reboots the device into either the main operating system , the system recovery partition or back into its bootloader devices displays a list of all devices ( with the serial number ) connected to the host computer format formats a specific partition ; the file system of the partition must be recognized by the device native development kit libraries written in c , c++ and other languages can be compiled to arm , mips or x86 native code and installed using the android native development kit .
+26	xtratum is a bare-metal hypervisor specially designed for embedded real-time systems available for the instruction set x86 , leon2 and leon3 ( sparc v8 ) , arm cortex-r4f processors .
+12	reception the older , original surface and surface 2 , with their arm - based processors and windows rt operating system , are pitched against the ipad and other tablet computer .
+4	some such as the arm with thumb-extension have mixed variable encoding , that is two fixed , usually 32-bit and 16-bit encodings , where instructions can not be mixed freely but must be switched between on a branch ( or exception boundary in armv8 ) .
+0	arm and powerpc architectures are also supported .
+21	if written in some '' high-level '' languages , apps written for windows runtime can be compatible with both intel and arm versions of windows , otherwise they are not binary code compatible .
+10	after several iterations , the plan changed to use an arm microprocessor and an fpga on which a custom designed gpu was implemented .
+21	it is designed to be used on systems with at least 8 mb of ram , and can work on linux arm , powerpc , or mips architecture .
+6	it began as a producer of arm computers and manufactured the acorn - branded range of desktop computers that run risc os .
+60	stephen byram '' steve '' furber cbe , frs , freng ( born 21 march 1953 ) is the icl professor of computer engineering at the school of computer science at the university of manchester and is probably best known for his work at acorn computers , where he was one of the designers of the bbc micro and the arm 32-bit risc microprocessor .
+15	the vidc1 was a video display controller chip created as an accompanying chip to the arm cpu as used in acorn archimedes computer systems , its successor the vidc20 was used in the later riscpc 's .
+1	this arm powered calculator also has some limited scientific functions which is relatively rare in financial calculators .
+12	there are/were native versions for the ceres , intel ia-32 , and arm platforms .
+4	it also revealed that arm devices ( windows rt ) would be required to have secure boot permanently enabled , with no way for users to disable it .
+42	chips admtek adm8628 atmel at91sam7 , at91cap7 , at91m , at91r nxp lpc2100 , lpc2200 , lpc2300 , lpc2400 , lh7 stmicroelectronics str7 samsung s3c46q0x01-ee8x , s3c44b0x netsilicon ns7520 cirrus logic cl-ps7110 products the make controller kit with an atmel at91sam7x256 ( arm ) microcontroller .
+3	eka2 runs on arm cpus and the '' wins '' emulator .
+13	used by the following devices : rio karma portalplayer 5020 system-on-a-chip containing two arm cpu cores , each running at 75 mhz .
+12	it is available for a number of different computer architecture , including arm , blackfin , mips , nios and x86 .
+8	the main cpu in this smartphone is an arm compatible chip ( omap 1710 ( armv5 architecture , arm9 core ) ) running at 220 mhz , an unprecedented speed for a smartphone at its release .
+12	devices the first commercial device to use a pixel qi display , arm - based adam tablet by notion ink , was released mid-january 2011 .
+12	choices has been ported to and runs on sparc , x86 and arm .
+4	the device includes an arm cortex-m3 hard processor core ( with up to 512kb of flash and 64kb of ram ) and analog peripherals such as a multi-channel adc and dacs in addition to their flash-based fpga fabric .
+19	the main torso is ganbaruger , though revolger adds onto it , and forms the head , and lower arm at least .
+8	the logo of this brand is a muscular arm holding a hammer .
+29	the irish mythology includes the fomorians , who are almost without exception described as being deformed , possessing only one of what most have two of ( eye , arm , leg , etc. ) or having larger than normal limbs .
+33	inclusion body myositis ( ibm ) is an inflammatory muscle disease , characterized by slowly progressive weakness and wasting of both distal and proximal muscles , most apparent in the muscles of the arm and legs .
+15	in relation to the elbow , a concentric contraction of the biceps would cause the arm to bend at the elbow as the hand moved from the leg to the shoulder ( a biceps curl ) .
+15	in scouring wool clothing , blanket or coarse linen , when the strength of the arm and manual friction are found insufficient , highland women put them in a tub with a prop -- or quantity of water , then , with petticoat tucked up , they commence the operation of posting , which they continue until every part of the clothes receives an effectual cleansing .
+24	a rapid sequence of taps delivered first near the wrist and then near the elbow creates the sensation of sequential taps hopping up the arm from the wrist towards the elbow , although no physical stimulus was applied between the two actual stimulus locations .
+17	this ranges from arteries serving the brain to those bringing blood to the lung , kidney , arm and leg .
+16	sweating is an essential function that helps the body stay cool and commonly occurs under the arm , on the feet , and on the palms of the hands .
+0	arm buds and a tail are visible .
+1	the arm , leg and torso are all represented by straight lines .
+18	the reverse prayer position , a technique used in bdsm play , involves restraint of a person 's arm by binding them behind the person 's back , with the hands placed between the shoulders , with the fingers of both hands straight , extended , and the palms of the hands touching each other .
+25	the c6 nerve root shares a common branch from c5 , and has a role in innervating many muscles of the rotator cuff and distal arm , including : subclavius supraspinatus infraspinatus biceps brachii brachialis deltoid teres minor brachioradialis serratus anterior subscapularis pectoralis major coracobrachialis teres major supinator extensor carpi radialis brevis extensor carpi radialis longus latissimus dorsi damage to the c6 motor neuron , by way of impingement , ischemia , trauma , or degeneration of nerve tissue , can cause denervation of one or more of the associated muscles .
+11	gafner focuses on her chest , shoulders , back , and arm in order to bring up her upper body to match her strong legs ( brainum , 224 ) .
+6	in 1900 he lost his left arm when he fired a cannon .
+3	it forms the arm , wings and chest of ganbaruger .
+28	after world war ii , soviet armies were known as combined arms armies ( obshchevoyskovyye armiyi ) , sometimes translated during the early cold war as all - arm armies .
+36	with the second brother down , selene turns her attention towards the third brother , who charges at her , but she response with the last weapon on her , a shuriken , severing his left arm clean off .
+17	a popular finishing trick for some routines is for the dog to jump into the trainer 's arm , or over his or her back .
+23	the upper limb or upper extremity is the region in an animal extending from the deltoid region to the hand , including the arm , axilla and shoulder .
+31	carlo calls righetto ( vittorio congia ) the paparazzi photographer who snapped the picture at the last second and he goes back to the original and sees a moving hand - arm in the far left of the frame .
+17	the flexing and stretching in bowling works tendon , joint , ligament , and muscle in the arm and promotes weight loss .
+31	he was , nevertheless , severely injured : according to 18th century genealogist felgueiras gayo , he returned covered in wounds , and contemporary authors record that he lost his right arm or hand in the battle .
+15	the term diplegia can refer to any bodily area , such as the face , arm , or leg .
+10	paddles are often used with pull buoy to build up arm strength .
+6	manipulation generally includes first placing the arm under traction and unlocking the fragments .
+35	after a chapter on evolution , the following 22 chapters are dedicated respectively to : hair , brow , ear , eye , nose , cheek , lip , mouth , neck , shoulder , arm , hand , breast , waist , hip , belly , back , pubic hair , genital , buttock , legs , and feet .
+14	a fly or flye is a strength training exercise in which the hand and arm move through an arc while the elbow is kept at a constant angle .
+19	the infant 's head size and spontaneous reflexes such as sucking , swallowing , crying , and moving the arm and leg may all seem normal , depending on the severity of the condition .
+44	technique description when a practitioner is in north-south position , ( with opponent lying supine , practitioner is prone , positioned 180 degrees their opposite , contacting the opponent chest - to-chest ) , the practitioner will encircle the opponent 's neck with either arm .

@@ -1,0 +1,40 @@
+sent: the proof is one of reductio ad absurdum , and the method is to show that , if the diagonal of a square is commensurable with the side , then the same number must be both odd and even .
+gold class: square_square
+pred class: square_square_number
+sim_diff: 0.004068
+========
+sent: using only an unmarked straightedge and a compass , greek mathematicians found means to divide a line into an arbitrary set of equal segments , to draw parallel lines , to bisect angle , to construct many polygon , and to construct square of equal or twice the area of a given polygon .
+gold class: square_square
+pred class: square_square_number
+sim_diff: 0.010044
+========
+sent: kabbage is venture funded and backed by thomvest ventures , mohr davidow ventures , and bluerun ventures , and is debt funded by victory park capital , with additional investors including : david bonderman , founder of tpg capital , warren stephens , ceo of stephens inc . , the ups strategic enterprise fund , triplepoint ventures , and jim mckelvey , co-founder of square .
+gold class: square_square
+pred class: square_square_(company)
+sim_diff: 0.080212
+========
+sent: saengerfest park is a small square park located on the corner of tremont st ( 23rd st ) and strand st ( avenue b ) in the strand historic district of galveston , texas .
+gold class: square_square
+pred class: square_town_square
+sim_diff: 0.086622
+========
+sent: since 36 is both square and triangular , 666 is the sixth number of the form and the eighth number of the form ( doubly triangular numbers ) .
+gold class: square_square_number
+pred class: square_square
+sim_diff: 0.030199
+========
+sent: he used q-series to prove that any natural number can be represented as a sum of an even square and two triangular number .
+gold class: square_square_number
+pred class: square_square
+sim_diff: 0.009145
+========
+sent: examples of broken diagonals from the below square are as follows : 3,12,14,5 ; 10,1,7,16 ; 10,13,7,4 ; 15,8,2,9 ; 15,12,2,5 ; and 6,13,11,4 .
+gold class: square_square
+pred class: square_square_number
+sim_diff: 0.005892
+========
+sent: ~ 0.7 -- 300 µm -- wavelength of infrared radiation 1 µm -- the side of square of area m² 1 µm -- edge of cube of volume m³ ( one fl .
+gold class: square_square
+pred class: square_square_number
+sim_diff: 0.037145
+========

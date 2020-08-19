@@ -1,0 +1,68 @@
+9	modern electronic calculators contain a keyboard with buttons for digit and arithmetical operations .
+7	the four-toed jerboa hind-limbs have an extra digit compared to other jerboas in the allactaga genus .
+4	a dewclaw is a digit -- vestigial in some animals -- on the foot of many mammal , bird , and reptile ( including some extinct orders , like certain theropod ) .
+42	the polydactyly in these largely aquatic animal is not to be confused with polydactyly in the medical sense , i.e. it was not an anomaly in the sense it was not a congenital condition of having more than the typical number of digit for a given taxon .
+7	many maintain that it is easier for digit to be reduced or lost during evolution than the reverse , however there is no evidence for this .
+10	similarly , telephone numbers are routinely expected to include the digit and possibly the characters + , - , ( , and ) ( plus , minus , and parentheses ) .
+5	a bit is a binary digit that represents one of two states .
+2	in gangrenous digit , amputation is frequently required .
+25	their mechanical design was very unusual in that their result dials ( sums , differences , and products ) moved at speeds proportional to the digit in the corresponding column of the keyboard .
+32	in mathematics , trailing zeros are a sequence of 0 in the decimal representation ( or more generally , in any positional representation ) of a number , after which no other digit follow .
+14	representation introduction a rational number is represented in quote notation as a sequence of digit with a quote mark and radix point .
+9	acral fibrokeratoma ( also known as an '' acquired digit fibrokeratoma , '' and '' acquired periungual fibrokeratoma '' ) is characterized by a pinkish , hyperkeratotic , hornlike projection occurring on a finger , toe , or palm .
+25	multiple-instance learning was originally proposed under this name by , but earlier examples of similar research exist , for instance in the work on handwritten digit recognition by .
+24	identification the term license plate is the official term used by the iata , the airlines , and the airports for the 10 - digit numeric code on a bag tag issued by a carrier or handling agent at check-in .
+10	vulgar fraction with 3 in the denominator have a single digit repeating sequences in their decimal expansions , ( .000 ... , .333 ... , .666 ... ) a natural number is divisible by three if the sum of its digits in base 10 is divisible by 3 .
+7	analogous to a bit , a ternary digit is a trit ( tr inary dig it ) .
+28	vampire numbers and other mathematical highlights in mathematics , a vampire number or true vampire number is a composite natural number v , with an even number of digit n , that can be factored into two integers x and y each with n / 2 digits and not both with trailing zeroes , where v contains all the digits from x and from y , in any order .
+39	the other options are digitigrade , walking on the toe with the heel and wrist permanently raised , and unguligrade , walking on the nail or nails of the toes ( the hoof ) with the heel/wrist and the digit permanently raised .
+34	questions that are frequently asked in this exam are fraction , subtraction , multiplication , division , addition , area and volume , mass , perimeter , decimal points , average , data , digit number , percent , money , time , date and .
+7	land-line ( fixed-line ) numbers start with digit 2 , followed by 1 or 2 digits area code that corresponds to a geographic area .
+41	this requires more than just a simple font ; mailing list must be standardized with up-to-date coding accuracy support system ( cass ) - certified software that adds and verifies a full , correct zip +4 code and an additional two digit representing the exact delivery point .
+33	verbal arithmetic , also known as alphametics , cryptarithmetic , crypt-arithmetic , cryptarithm or word addition , is a type of mathematical game consisting of a mathematical equation among unknown number , whose digit are represented by letter .
+53	some children who can not read may lack the underlying intellectual ability to associate a word ( i.e. , a series of graphical figures ) with its meaning ( i.e. , a semantic unit ) ; and some children who can not perform arithmetic may lack the underlying intellectual ability to associate a digit ( a numeric unit ) with its meaning ( a symbolic unit ) .
+23	in computing and electronic systems , binary-coded decimal ( bcd ) is a class of binary encodings of decimal numbers where each decimal digit is represented by a fixed number of bit , usually four or eight , although other sizes ( such as six bits ) have been used historically .
+11	two dice of different colors are typically used for the two digit to represent numbers from 00 to 99 .
+13	a finger is a limb of the human body and a type of digit , an organ of and found in the hand of human and other primate .
+22	a redundant binary representation ( rbr ) is a numeral system that uses more bits than needed to represent a single binary digit so that most numbers have several representations .
+8	digital clock display the time in periodically changing digit on a digital display .
+7	the limb are well developed with long digit and sharp claw .
+17	a serial computer is typified by bit-serial architecture -- i.e. , internally operating on one bit or digit for each clock cycle .
+22	some other genera , such as neoseps , have reduced limbs , lacking forelegs , and with fewer than five toe ( digit ) on each foot .
+29	close-up of a ruffed lemur 's foot , showing the toilet-claw on the second toe and nails on all other toes like all primates , lemurs have five divergent digit with nail ( in most cases ) on their hands and feet .
+10	andrus point ( ) is a prominent , rocky , digit - like headland that juts eastward into lady newnes bay toward the floating glacier tongue of the parker glacier , in victoria land .
+12	the type allocation code ( tac ) is the initial eight - digit portion of the 15-digit imei and 16-digit imeisv codes used to uniquely identify wireless devices .
+58	examples of coded sets include the list of names of airports that is mapped onto a set of corresponding three-letter representations of airport names , the list of classes of emission that is mapped onto a set of corresponding standard symbols , and the names of the months of the year mapped onto a set of two - digit decimal numbers .
+12	it is similar to the ichnogenus aquatilavipes , but has a thicker digit iii impression and is more asymmetrical .
+19	it is recommended that when a grid is visually presented , the font used should clearly distinguish between the digit ` 1 ' and ` 0 ' on the one hand , and the letter ` i ' and ` o ' on the other hand .
+39	using fibonacci number , he proved that when finding the greatest common divisor of integers a and b , the algorithm runs in no more than 5 k steps , where k is the number of ( decimal ) digit of b .
+29	his name is also the origin of ( spanish ) guarismo and of ( portuguese ) ( ( wikt : pt : algarismo algarismo ) ) , both meaning digit .
+6	another approach is to give each digit a sign , yielding the signed-digit representation .
+2	examples digits digit can be memorized by their shapes , so that : 0 - looks like an egg , or a ball ; 1 - a pencil , or a candle ; 2 - a duck , or a swan ; 3 - an ear ; a pair of pouted lips 4 - a sail , a yacht ; 5 - a key ; 6 - a comet ; 7 - a knee ; 8 - a snowman , or a pair of glasses ; 9 - an apostrophe , or comma .
+5	the thumb is the last digit of the hand .
+30	some evolutionary anatomist use the term hand to refer to the appendage of digits on the forelimb more generally -- for example , in the context of whether the three digit of the bird hand involved the same homologous loss of two digits as in the dinosaur hand .
+16	this allowed the full alphabet ( instead of combining i and j ) , plus the digit from 0 to 9 .
+17	a binary code represents text or computer processor instructions using the binary number system 's two binary digit , 0 and 1 .
+2	the last digit ( number 5 ) was long .
+1	each digit had a first segment , the metacarpal , lying in the palm region .
+25	an n - parasitic number ( in base 10 ) is a positive natural number which can be multiplied by n by moving the rightmost digit of its decimal representation to the front .
+18	11 goes into 99 exactly 9 times , so vulgar fraction with 11 in the denominator have two digit repeating sequences in their decimal expansions .
+6	for example , there were five digit on each hand and four on each foot .
+19	only two symbols ( to count units and to count tens ) were used to notate the 59 non-zero digit .
+42	a man pointing at a woman during an argument the index finger , ( also referred to as forefinger , pointer finger , trigger finger , digitus secundus , digitus ii , and ) , is the first finger and the second digit of a human hand .
+14	morphology pronycticebus neglectus possessed what appears to be a grooming claw on the second digit of each foot like modern strepsirhine ( fleagle , 1999 ) and had a dental formula of 2 : 1 : 4 : 3 .
+36	research an example of her work is a lifelike robotic hand , modeled bone-by-bone from a human hand , with multiple motors each corresponding to muscle and with strings playing the role of tendon along each digit .
+3	it uses the digit 0 , 1 , 2 and 3 to represent any real number .
+28	a postal code ( known in various countries as a post code , postcode , or zip code in united states ) is a series of letters and/or digit appended to a postal address for the purpose of sorting mail .
+9	i-555 will be the second interstate with all three digit the same , and the first to be signed as an interstate ( i-444 in oklahoma is unsigned ) .
+4	in fact , no digit other than one , six , or seven appeared on their prison id tags .
+34	in computer science and numerical analysis , unit in the last place or unit of least precision ( ulp ) is the spacing between floating-point numbers , i.e. , the value the least significant digit represents if it is 1 .
+26	he then reasoned that the infinitesimal increase in the abscissa will create a new formula where ( importantly , o is the letter , not the digit 0 ) .
+19	pok deng ( ) is a thai gambling card game in which players aim for a hand whose ones digit beats the dealer 's , while taking into account pairs , three of a kinds , and flushes .
+8	this may require the use of 10 - digit telephone number .
+7	error correction is implemented by using more digit ( bit in case of a binary channel ) than the number strictly necessary for the samples , and having the receiver compute the most likely valid message that could have resulted in the received one .
+11	an attempt is made to reduce a fraction by canceling individual digit in the numerator and denominator .
+11	shannon 's '' bit '' is a portmanteau of '' binary digit '' .
+19	decimal fractions are commonly expressed using decimal notation in which the implied denominator is determined by the number of digit to the right of a decimal separator , the appearance of which ( e.g. , a period , a raised period ( • ) , a comma ) depends on the locale ( for examples , see decimal separator ) .
+19	weighing 8.5 kilograms ( 18.7 pounds ) , the elka 22 has 3 registers and operates with 12 decimal digit .
+34	i2/5 on a 135 film can ; part of dx encoding interleaved 2 of 5 ( itf , from i nterleaved t wo of f ive ) is a continuous two-width barcode symbology encoding digit .

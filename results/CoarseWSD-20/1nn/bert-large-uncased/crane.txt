@@ -1,0 +1,25 @@
+sent: in 1984 the first nissan sentra was launched as a replacement of the 160j under the name '' tsuru '' , japanese for crane .
+gold class: crane_crane_(bird)
+pred class: crane_crane_(machine)
+sim_diff: 0.009220
+========
+sent: lufthansa and deutsche luft hansa : a crane , originally designed by otto firle in 1919 .
+gold class: crane_crane_(bird)
+pred class: crane_crane_(machine)
+sim_diff: 0.114573
+========
+sent: origami paper a crane and papers of the same size used to fold it almost any laminar ( flat ) material can be used for folding ; the only requirement is that it should hold a crease .
+gold class: crane_crane_(bird)
+pred class: crane_crane_(machine)
+sim_diff: 0.047517
+========
+sent: normal copy paper with weights of 70 -- 90 2 can be used for simple folds , such as the crane and waterbomb .
+gold class: crane_crane_(bird)
+pred class: crane_crane_(machine)
+sim_diff: 0.012255
+========
+sent: jpg in honor of those affected by the 2011 tōhoku earthquake and tsunami in japan , kondratyev ( center ) , nespoli & coleman are pictured with origami crane , which they folded to be placed in the htv-2 .
+gold class: crane_crane_(bird)
+pred class: crane_crane_(machine)
+sim_diff: 0.059543
+========

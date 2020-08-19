@@ -1,0 +1,60 @@
+27	musa salaccensis , commonly called javanese wild banana , is a malesia tropical species of plant in the banana family native to the islands of sumatra and java , in indonesia .
+28	it is found in afghanistan , nepal , north-eastern india , sri lanka , bangladesh , burma , vietnam , thailand , malaysia , singapore , sumatra , java , borneo , sumba , sulawesi , the philippines , taiwan , china and japan .
+12	increasing violence beginning in 1999 by gam rebels against government officials and java residents , buoyed by massive weapons smuggling from thailand by the gam , led to an increase in military presence .
+13	it contains only one species , eugauria albidentata , which is found on java .
+44	the turtle is found in eastern and southern india , bangladesh , burma , thailand , malaysia , cambodia , vietnam , eastern and southern china , singapore ( extirpated ) , the philippines ( luzon and mindanao ) and indonesia ( kalimantan , java and sumatra ) .
+8	the short hilt , which is pentagonal on java , forms as it were , an extension of the metok .
+5	s. inconspicuum is endemic to java and is one of the few stylidium species that are not native to australia .
+3	described originally from java .
+20	at the end of the burma campaign , the british empire had ordered 92,000 troops to the indonesian island of java , with a deadly assault on september 15 , 1945 .
+16	notation plays a relatively minor role in the oral traditions of indonesia gamelan but , in java and bali , several systems of gamelan notation were devised beginning at the end of the 19th century , initially for archival purposes .
+12	armenian church , settlement and history in surabaya armenians first traveled to java towards the end of the 18th century .
+22	variants an h6k2-l navy transport flying boat type 97 ; h6k1 operators royal air force mechanics inspecting an h6k at soerabaja , java , prior to a test flight in january 1946 .
+16	the boundary between the western and central time zones established is a line running north between java and bali through the center of kalimantan .
+32	one siamese chronicle states that anawrahta 's armies invaded the khmer kingdom and sacked the city of angkor , and another one goes so far as to say that anawrahta even visited java to receive his tribute .
+9	it had been intended that schlegel be sent to java to join the natural history commission , but the untimely death of temminck 's intended successor , heinrich boie , prevented the realization of this project .
+14	it is found in the southern pacific , including hawaii and french polynesia , java , sulawesi , the new hebrides , samoa , the austral islands and the marquesas .
+28	french indochina was added , along with borneo -- most of which had already been captured by australian forces , under the south west pacific command -- and java .
+19	two of the species , a. javanica and a. longifolia can be found on mountainsides on the island of java in indonesia .
+8	it is found in the mountains of eastern java .
+7	it is popular on the islands of java and bali and their surroundings .
+4	it originated from the java offered to louis xiv and bred in the jardin des plantes .
+22	lupis is often found in traditional markets throughout indonesia , and in javanese area , especially in the middle and eastern of java .
+20	chinese traders boycotted portuguese malacca after it fell to the portuguese in the capture of malacca , some chinese in java assisted in muslim attempts to reconquer the city from portugal using ships .
+19	three young girls in bantul bantul is a town and the capital of bantul regency , yogyakarta province , java , indonesia .
+7	balinese art is art of hindu - java origin that grew from the work of artisans of the majapahit kingdom , with their expansion to bali in the late 13th century .
+6	batavia , on the island of java , target of the british force in mid-1811 crawford commissioned the 38-gun in late 1810 and sailed for the east indies in february 1811 .
+12	after world war ii the no . 31 squadron raf moved to java .
+2	the island java has about 270 endemic orchid species .
+12	acrocercops eurhythmopa is a moth of the gracillariidae family , known from java , indonesia , as well as sierra leone .
+15	vanessa dejeanii is a butterfly of the nymphalidae family found in the philippines and on java , lombok and bali .
+6	empire earth mobile was written in java form , and was developed by vivendi instead of stainless steel studios ( the makers of empire earth ) .
+30	its design philosophy emphasizes code readability , and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as c++ or java .
+20	it became irrelevant for commercial applications , barely surviving the wave of free and successful tools such as c++ and java .
+18	weka ( waikato environment for knowledge analysis ) is a popular suite of machine learning software written in java , developed at the university of waikato , new zealand .
+9	visualap is cross-platform as it is a 100 % java application .
+38	official language bindings c : 2.1 .net : 2.1 external language bindings python : 2.0 d : 1.6 ( derelict 2 ) and 2.0 ( derelict 3 ) ruby : rc-2 .0 ocaml : 1.6 and rc-2 .0 java : 2.1 rust : 2.1 hello world the program below provides a short overview of the sfml .
+8	third-party client libraries are available in languages like java and tcl .
+11	this is as opposed to traditional reflection , for example in java , where one introspects an object using methods from the object itself ( e.g. getclass ( ) ) .
+4	for instance , a java application may need to execute a system call .
+6	programs exist in database design , java programming , project management , scrummaster certification , kai certification , and leadership development , among many others .
+20	opencv gets a lot of support in the c + + - based openframeworks , but that does n't mean java and processing have to be left out of the fun .
+2	maven : java project management and comprehension tool mina : multipurpose infrastructure for network application , a framework to develop high performance and high scalability network applications .
+8	his original plan was to implement it in java , but it has since been started in python without his involvement .
+16	) here , scala is shown clearly behind a first-tier group of 11 languages ( including java , c , python , php , ruby , etc. ) , but leading a second-tier group .
+6	the client-software is written in the java programming language .
+12	tads 3 uses a language with a syntax that resembles c++ and java .
+25	terralib is implemented as a library of c++ classes and functions , written in ansi - c + + , and has programming interfaces in java and visual basic .
+27	distribution mobile games can be distributed in one of four ways : over the air ( ota ) - a game binary file ( usually brew or java ) is delivered to the mobile device via wireless carrier networks .
+74	features some of rtext 's features include : syntax highlighting for over 20 languages regular expression search and replace find in files and replace in files supports all character encodings supported by the jvm configurable document interface ( tabbed , mdi or list view ) editor supports multiple fonts simultaneously bracket matching current line highlighting customizable interface ( icons , look and feel , color scheme , etc. ) compatibility rtext is written in java and runs on linux , mac os x , os/2 , unix , openvms , and windows .
+4	examples are r , java , and python , each of which can be classified as free and open source software .
+21	after earning a solutions expert certification from microsoft and working as an it consultant , he launched in 2002 , a java consulting company which has grown to become one of the largest software delivery and product companies in france with over 150 j2ee engineers .
+38	ubuntu 7.04 included several new features , among them a migration assistant to help former microsoft windows users transition to ubuntu , support for kernel-based virtual machine , assisted codec and restricted drivers installation including adobe flash , java , mp3 support , easier installation of nvidia and ati drivers , compiz desktop effects , support for wi-fi protected access , the addition of sudoku and chess , a disk usage analyzer ( baobab ) , gnome control center , and zeroconf support for many devices .
+42	the average speed improvement is typically in the 1.5-4x range , making python performance close to languages such as smalltalk and scheme , but still slower than compiled languages such as fortran , c or some other jit languages like c# and java .
+7	oracle sued google over the use of java - related technology in google 's popular android operating system for smartphones and tablet computers .
+11	syntax and examples e # 's syntax is most similar to java , though it also bears some resemblance to python and c# .
+15	essentially it is a client -- server system an implemented fully with the programming language java .
+1	using java or similar technology , graphical versions of boards and counters can be manipulated in cyberspace as if a manual version of the game was being played .
+11	the back-end generates code in a high-level language like c++ or java which is then compiled to machine code using the respective high-level language compiler .
+16	he was the architect responsible for developing the implementation of container managed persistence for sun 's java enterprise edition application server .
+5	test implementation is done using java or groovy .

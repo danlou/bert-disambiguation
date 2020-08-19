@@ -1,0 +1,6 @@
+6	although the dance is native to java , indonesia , it also performed by javanese communities in suriname , malaysia and singapore .
+17	it is found in southern queensland and from coastal new south wales to central australia and on java .
+23	many circular shapes decorated the whole complex , the design of which reminds people of the shape of candi in the east of java .
+6	checked exceptions similar to those in java .
+21	supported programming languages since openrtm-aist is based on the corba technology , it supports several programming languages , including : c++ java python erlang ( unofficial ) tools rtc builder rtc builder rtc builder is a tool for skeleton-code generation .
+11	many concepts initially introduced by eiffel later found their way into java , c# , and other languages .

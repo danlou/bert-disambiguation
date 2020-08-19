@@ -1,0 +1,5 @@
+sent: at fábrica de troncos embrapem , teams had to carry 10 large trunk from point a to point b. once teams transported all 10 trunks to point b , they had to build a 4 level pyramid in order to receive their next clue .
+gold class: trunk_trunk_(botany)
+pred class: trunk_trunk_(automobile)
+sim_diff: 0.076888
+========

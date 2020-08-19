@@ -17,20 +17,17 @@ class VSM(object):
     def load_txt(self, vecs_path):
         self.vectors = []
         with open(vecs_path, encoding='utf-8') as vecs_f:
-            for line_idx, line in enumerate(vecs_f):
+            for line in vecs_f:
                 elems = line.split()
                 self.labels.append(elems[0])
                 self.vectors.append(np.array(list(map(float, elems[1:])), dtype=np.float32))
-
-                # if line_idx % 100000 == 0:
-                #     print(line_idx)
 
         self.vectors = np.vstack(self.vectors)
         self.indices = {l: i for i, l in enumerate(self.labels)}
         self.ndims = self.vectors.shape[1]
 
-    def normalize(self, norm='l2'):
-        self.vectors = (self.vectors.T / np.linalg.norm(self.vectors, axis=1)).T
+    def normalize(self):
+        self.vectors = (self.vectors.T / np.linalg.norm(self.vectors, axis=1)).T  # L2
 
     def get_vec(self, label):
         return self.vectors[self.indices[label]]
@@ -42,7 +39,6 @@ class VSM(object):
 
     def most_similar_vec(self, vec, topn=10):
         # TO-DO: tidy up...
-        # sims = np.dot(self.vectors, vec).astype(np.float32)
         sims = np.dot(self.vectors, vec)
         sims_ = sims.tolist()
         r = []
