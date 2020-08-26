@@ -24,7 +24,7 @@ This project was developed on Python 3.6.5 from Anaconda distribution v4.6.2. As
 After cloning the repository, we recommend creating and activating a new environment to avoid any conflicts with existing installations in your system:
 
 ```bash
-$ git clone https://github.com/danlou/
+$ git clone https://github.com/danlou/bert-disambiguation.git
 $ cd bert-disambiguation
 $ conda create -n bert-disambiguation python=3.6.5
 $ conda activate bert-disambiguation
@@ -47,19 +47,20 @@ $ python -c "import nltk; nltk.download('wordnet')"
 
 # Feature Extraction
 
+The feature extraction method used in the paper involves two steps: first computing sense embeddings from the training set, and then using those precomputed sense embeddings to disambiguate contextual embeddings by finding the most similar sense embedding.
+These two steps have separate scripts, that can be used as explained below.
 
-## Creating sense vectors for 1NN
+You may use the [create_1nn_vecs.py](https://github.com/danlou/bert-disambiguation/blob/master/create_1nn_vecs.py) script to create sense embeddings from a particular set from our CoarseWSD-20 datasets.
 
-You may use the create_1nn_vecs.py script to create 
+    $ python create_1nn_vecs.py -nlm_id bert-base-uncased -dataset_id CoarseWSD-20 -out_path vectors/CoarseWSD-20.bert-base-uncased.txt
 
-    $ python create_1nn_vecs.py -nlm_id bert-base-uncased -out_path vectors/sense_vecs.bert-base-uncased.txt
+If you want to train on a different training set, such as the balanced version of CoarseWSD-20, just replace '-dataset_id CoarseWSD-20' with '-dataset_id CoarseWSD-20_balanced'.
 
-## Example evaluating sense vectors
+Precomputed sense embeddings for the full CoarseWSD-20 training set are also available at [vectors](https://github.com/danlou/bert-disambiguation/tree/master/vectors).
 
-    $ python eval_1nn.py -nlm_id bert-base-uncased -sv_path vectors/sense_vecs.bert-base-uncased.txt
+To evaluate the 1NN method, you may use the [eval_1nn.py](https://github.com/danlou/bert-disambiguation/blob/master/eval_1nn.py) script, providing paths for the test set and precomputed sense embeddings.
 
-
-WIP
+    $ python eval_1nn.py -nlm_id bert-base-uncased -dataset_id CoarseWSD-20 -sv_path vectors/CoarseWSD-20.bert-base-uncased.txt
 
 # Fine-Tuning
 
@@ -77,11 +78,13 @@ $ wget https://dl.fbaipublicfiles.com/fasttext/vectors-english/crawl-300d-2M-sub
 $ unzip crawl-300d-2M-subword.zip
 ```
 
-WIP
+The [ftx_baseline.py](https://github.com/danlou/bert-disambiguation/blob/master/ftx_baseline.py) script handles both creating the fastText classification models (FTX-Base and FTX-Crawl) and evaluating.
+
+To configure the script, you can edit the dataset_id and model_id variables starting at [line 86](https://github.com/danlou/bert-disambiguation/blob/master/ftx_baseline.py#L86).
 
 # Results
 
-WIP
+Predictions from our experiments are available at [results](https://github.com/danlou/bert-disambiguation/tree/master/results/CoarseWSD-20).
 
 # Citation
 
