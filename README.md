@@ -64,7 +64,7 @@ To evaluate the 1NN method, you may use the [eval_1nn.py](https://github.com/dan
 
 # Fine-Tuning
 
-WIP
+WIP (kiamehr)
 
 # FastText Baseline
 
