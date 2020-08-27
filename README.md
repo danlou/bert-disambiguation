@@ -5,7 +5,7 @@ This repository contains code and datasets for running the main experiments cove
 # CoarseWSD-20
 
 The CoarseWSD-20 dataset is a coarse-grained sense disambiguation built from Wikipedia (nouns only) targetting 2 to 5 senses of 20 ambiguous words.
-It's was specifically designed to provide an ideal setting for evaluating WSD models (e.g. no senses in test sets missing from training), both quantitavely and qualitatively.
+It was specifically designed to provide an ideal setting for evaluating WSD models (e.g. no senses in test sets missing from training), both quantitavely and qualitatively.
 
 In this repository we share the following versions of the CoarseWSD-20 dataset used in our experiments:
 
@@ -47,8 +47,8 @@ $ python -c "import nltk; nltk.download('wordnet')"
 
 # Feature Extraction
 
-The feature extraction method used in the paper involves two steps: first computing sense embeddings from the training set, and then using those precomputed sense embeddings to disambiguate contextual embeddings by finding the most similar sense embedding.
-These two steps have separate scripts, that can be used as explained below.
+The feature extraction method used in the paper involves two steps: (1) computing sense embeddings from the training set and (2) leveraging those precomputed sense embeddings to disambiguate contextual embeddings by finding the most similar sense embedding.
+These two steps have separate scripts, which can be used as explained below.
 
 You may use the [create_1nn_vecs.py](https://github.com/danlou/bert-disambiguation/blob/master/create_1nn_vecs.py) script to create sense embeddings from a particular set from our CoarseWSD-20 datasets.
 
