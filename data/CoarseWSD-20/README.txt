@@ -1,7 +1,7 @@
 This folder contains the CoarseWSD-20 dataset (v1.0, Aug 2020) released with this paper:
 
 Language Models and Word Sense Disambiguation: An Overview and Analysis
-https://arxiv.org/abs/XYZ
+https://arxiv.org/abs/2008.11608
 Daniel Loureiro* (dloureiro@fc.up.pt)
 Kiamehr Rezaee* (k_rezaee@comp.iust.ac.ir)
 Mohammad Taher Pilehvar (pilehvar@teias.institute)
