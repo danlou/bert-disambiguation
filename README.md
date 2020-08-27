@@ -64,7 +64,7 @@ To evaluate the 1NN method, you may use the [eval_1nn.py](https://github.com/dan
 
 # Fine-Tuning
 
-WIP (kiamehr)
+[WIP] This is still being merged. In the meantime, you can check the code [here](https://github.com/kiamehr74/CG20WSD-bert-baseline/blob/master/run.py) if interested.
 
 # FastText Baseline
 
