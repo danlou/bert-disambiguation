@@ -44,6 +44,7 @@ The WordNet package for NLTK isn't installed by pip, but we can install it easil
 ```bash
 $ python -c "import nltk; nltk.download('wordnet')"
 ```
+*Note*: The WordNet package is only needed to replicate the experiments on WordNet, but not for the rest of the experiments (e.g. in CoarseWSD or any other dataset).
 
 # Feature Extraction
 
