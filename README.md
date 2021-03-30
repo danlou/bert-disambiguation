@@ -1,6 +1,6 @@
 # Analysis of BERT for Word Sense Disambiguation
 
-This repository contains code and datasets for running the main experiments covered in ["Language Models and Word Sense Disambiguation: An Overview and Analysis"](https://arxiv.org/abs/2008.11608).
+This repository contains code and datasets for running the main experiments covered in ["Analysis and Evaluation of Language Models for Word Sense Disambiguation"](https://arxiv.org/abs/2008.11608).
 
 # CoarseWSD-20
 
@@ -92,12 +92,12 @@ Predictions from our experiments are available at [results](https://github.com/d
 We have a pre-print available [here](https://arxiv.org/abs/2008.11608):
 
 ```bibtex
-@misc{loureiro2020language,
-    title={Language Models and Word Sense Disambiguation: An Overview and Analysis},
-    author={Daniel Loureiro and Kiamehr Rezaee and Mohammad Taher Pilehvar and Jose Camacho-Collados},
-    year={2020},
-    eprint={2008.11608},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@misc{loureiro2021analysis,
+      title={Analysis and Evaluation of Language Models for Word Sense Disambiguation}, 
+      author={Daniel Loureiro and Kiamehr Rezaee and Mohammad Taher Pilehvar and Jose Camacho-Collados},
+      year={2021},
+      eprint={2008.11608},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
