@@ -1,6 +1,6 @@
 # Analysis of BERT for Word Sense Disambiguation
 
-This repository contains code and datasets for running the main experiments covered in ["Analysis and Evaluation of Language Models for Word Sense Disambiguation"](https://arxiv.org/abs/2008.11608) (Computational Linguistics).
+This repository contains code and datasets for running the main experiments covered in ["Analysis and Evaluation of Language Models for Word Sense Disambiguation"](https://arxiv.org/abs/2008.11608) (Computational Linguistics, 2021).
 
 # CoarseWSD-20
 
