@@ -1,6 +1,6 @@
 # Analysis of BERT for Word Sense Disambiguation
 
-This repository contains code and datasets for running the main experiments covered in ["Analysis and Evaluation of Language Models for Word Sense Disambiguation"](https://arxiv.org/abs/2008.11608).
+This repository contains code and datasets for running the main experiments covered in ["Analysis and Evaluation of Language Models for Word Sense Disambiguation"](https://arxiv.org/abs/2008.11608) (Computational Linguistics).
 
 # CoarseWSD-20
 
@@ -89,15 +89,17 @@ Predictions from our experiments are available at [results](https://github.com/d
 
 # Citation
 
-We have a pre-print available [here](https://arxiv.org/abs/2008.11608):
+The reference paper is available [here]([https://arxiv.org/abs/2008.11608](https://direct.mit.edu/coli/article/47/2/387/98520/Analysis-and-Evaluation-of-Language-Models-for)):
 
 ```bibtex
-@misc{loureiro2021analysis,
-      title={Analysis and Evaluation of Language Models for Word Sense Disambiguation}, 
-      author={Daniel Loureiro and Kiamehr Rezaee and Mohammad Taher Pilehvar and Jose Camacho-Collados},
-      year={2021},
-      eprint={2008.11608},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{loureiro2021analysis,
+  title={Analysis and evaluation of language models for word sense disambiguation},
+  author={Loureiro, Daniel and Rezaee, Kiamehr and Pilehvar, Mohammad Taher and Camacho-Collados, Jose},
+  journal={Computational Linguistics},
+  volume={47},
+  number={2},
+  pages={387--443},
+  year={2021},
+  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
 }
 ```
